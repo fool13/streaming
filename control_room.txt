@@ -1,13 +1,13 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
-SHOW_UTC_TIME: ON
+SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
-SHOW_WATERMARK: ON
+SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 7s steps(71) infinite -->
 SHOW_USTREAM: OFF
