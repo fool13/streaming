@@ -36,5 +36,5 @@ Position: 10.6S, 179.2E<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
-<div>
+</div>
 </td></tr></table>
