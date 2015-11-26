@@ -1,6 +1,6 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: OFF
+SHOW_LIVE: ON
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/f13icon_watermark.png?http://www.force-13.com/streaming/black.png
@@ -11,7 +11,7 @@ SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
-USTREAM_ID: 17074538
+USTREAM_ID: 9408562
 REFRESH_RATE: 5
 SHOW_NEWS_BANNER: OFF
 
