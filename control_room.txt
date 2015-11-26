@@ -12,7 +12,7 @@ WATERMARK_URL: http://www.force-13.com/streaming/logo.png
 WATERMARK_ANIMATION: <!-- play 9s steps(71) infinite -->
 SHOW_USTREAM: ON
 USTREAM_ID: 9408562
-REFRESH_RATE: 0.10
+REFRESH_RATE: 5
 
 <marquee behavior="scroll" direction="left" style="display:none;padding-top:5px;">
 Welcome to the Force Thirteen LIVE Streaming Service
