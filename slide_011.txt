@@ -1,5 +1,10 @@
-<table style="position:absolute;top:0;left:0;width:100%;height:100%;background:skyblue;text-align:center;">
-<tr>
-<td>TESTING SLIDE 011</td>
-</tr>
+<table style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('background3.jpg');text-align:center;">
+<tr><td>
+<div style="position:absolute;top:45px;width:100%;">
+<span class="heading">Wide shot of the Eastern Pacific</span>
+<table style="width:100%;height:680px;background:url('http://www.nrlmry.navy.mil/archdat/pacific/eastern/tropics/vis/LATEST.jpg') no-repeat center center;background-size:900px;">
+<tr><td>
+</td></tr>
 </table>
+</div>
+</td></tr></table>
