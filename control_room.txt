@@ -14,7 +14,7 @@ SHOW_USTREAM: ON
 USTREAM_ID: 18686969
 REFRESH_RATE: 5
 
-<marquee behavior="scroll" direction="left" style="display:inline-block;padding-top:5px;">
+<marquee behavior="scroll" direction="left" style="padding-top:5px;">
 Welcome to the Force Thirteen LIVE Streaming Service
 www.force-13.com
 www.facebook.com/ForceThirteen
