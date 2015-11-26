@@ -9,7 +9,7 @@ BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
-WATERMARK_ANIMATION: play 9s steps(71) infinite
+WATERMARK_ANIMATION: play 8s steps(71) infinite
 SHOW_USTREAM: OFF
 USTREAM_ID: 9408562
 REFRESH_RATE: 5
