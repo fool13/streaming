@@ -10,7 +10,7 @@ BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Se
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo.png
 WATERMARK_ANIMATION: <!-- play 9s steps(71) infinite -->
-SHOW_USTREAM: ON
+SHOW_USTREAM: OFF
 USTREAM_ID: 9408562
 REFRESH_RATE: 5
 
