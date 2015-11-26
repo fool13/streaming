@@ -1,16 +1,16 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/f13icon_watermark.png?http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Wilmington Tower, North Carolina
+LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-SHOW_USTREAM: ON
+SHOW_USTREAM: OFF
 USTREAM_ID: 18686969
 REFRESH_RATE: 5
 SHOW_NEWS_BANNER: OFF
