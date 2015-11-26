@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.htbackdrops.org/v2/albums/userpics/12669/orig_No-Signal-TV-1280x800-desktopia_net.jpg?http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
