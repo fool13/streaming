@@ -37,6 +37,4 @@ Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
 <div>
-</td>
-</tr>
-</table>
+</td></tr></table>
