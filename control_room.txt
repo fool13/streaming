@@ -7,7 +7,7 @@ CONTENT_URL: http://www.force-13.com/streaming/f13icon_watermark.png?http://www.
 LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
-SHOW_WATERMARK: OFF
+SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: OFF
