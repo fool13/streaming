@@ -4,14 +4,14 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/f13icon_watermark.png?http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Stennis Space Center
+LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: play 7s steps(71) infinite
 SHOW_USTREAM: ON
-USTREAM_ID: 10766590
+USTREAM_ID: 9408562
 REFRESH_RATE: 5
 SHOW_NEWS_BANNER: OFF
 
