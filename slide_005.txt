@@ -16,14 +16,9 @@
 </td>
 <tr>
 <td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15
-</span>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span>
 <br>
-<strong>
-25mph
-</strong>
-&nbsp;&nbsp;&nbsp; 1007mb
-<br>
+<strong>25mph</strong> &nbsp;&nbsp;&nbsp; 1007mb<br>
 </td>
 </tr>
 </table>
