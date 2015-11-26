@@ -1,21 +1,10 @@
 <table style="position:absolute;top:0;left:0;width:100%;height:100%;background:url('background2.jpg');text-align:center;">
-<tr>
-<td>
-<div style="position:absolute;top:45px;width:100%;">
+<tr><td><div style="position:absolute;top:45px;width:100%;">
 <span class="heading" style="font-size:55px;">Tropical Storm IN-FA</span>
-<br><br>
-<table style="width:100%;">
-<tr><td style="text-align:right;width:50%;vertical-align:top;">
+<br><br><table style="width:100%;"><tr><td style="text-align:right;width:50%;vertical-align:top;">
 <img src="http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp2715.gif" style="height:400px;">
 </td><td style="text-align:left;width:50%;vertical-align:top;">
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/27W/imagery/vis0.gif" style="height:400px;">
-</tr></td>
-<tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
+</tr></td><tr><td style="text-align:center;width:100%;vertical-align:top;" colspan="2">
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span><br>
-<strong>40mph</strong> &nbsp;&nbsp;&nbsp; 996mb<br>
-</td></tr>
-</table>
-<div>
-</td>
-</tr>
-</table>
+<strong>40mph</strong> &nbsp;&nbsp;&nbsp; 996mb<br></td></tr></table><div></td></tr></table>
