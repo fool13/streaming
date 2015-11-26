@@ -14,5 +14,5 @@
 <span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/25/15</span>
 <br><strong>25mph</strong> &nbsp;&nbsp;&nbsp; 1007mb<br>
 </td></tr></table>
-<div>
+</div>
 </td></tr></table>
