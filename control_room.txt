@@ -1,7 +1,7 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
-SHOW_UTC_TIME: OFF
+SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/japan_ahi_true_color.png?http://www.force-13.com/streaming/f13icon_watermark.png&http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: This is a test broadcast
