@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
-CONTENT_URL: https://www.youtube.com/playlist?list=PLuTYtU1Fy3sxtVGTwyzIb4cZlHYah-3sL
+CONTENT_URL: http://www.force-13.com/streaming/f13icon_watermark.png?http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
