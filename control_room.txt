@@ -8,8 +8,8 @@ LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;GOES Satellite&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Current view of Hurricane Sandra&nbsp;
 SHOW_WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
-WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
+WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
+WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: ON
 USTREAM_ID: 9408562
 REFRESH_RATE: 5
