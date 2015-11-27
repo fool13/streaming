@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.nrlmry.navy.mil/tcdat/tc15/EPAC/22E.SANDRA/ir/geo/1km_bw/20151127.0130.goes15.x.ir1km_bw.22ESANDRA.110kts-952mb-175N-1098W.97pc.jpg?http://www.force-13.com/streaming/f13icon_watermark.png#http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.nrlmry.navy.mil/tcdat/tc16/SHEM/95P.INVEST/vis/geo/2km/20151127.0122.goes15.x.vis2km.95PINVEST.25kts-1001mb-113S-1783W.60pc.jpg?http://www.force-13.com/streaming/f13icon_watermark.png#http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: Wilmington Tower, North Carolina
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Testing testing 1 2 3&nbsp;
