@@ -1,19 +1,19 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: ON
-SHOW_UTC_TIME: ON
+SHOW_LIVE: OFF
+SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/japan_ahi_true_color.png?http://www.force-13.com/streaming/f13icon_watermark.png&http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: This is a test broadcast
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Welcome to the Force Thirteen LIVE Streaming Service&nbsp;
-SHOW_WATERMARK: ON
+SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: OFF
 USTREAM_ID: 9408562
-REFRESH_RATE: 5
-SHOW_NEWS_BANNER: ON
+REFRESH_RATE: 0.1
+SHOW_NEWS_BANNER: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Welcome to the Force Thirteen LIVE Streaming Service
