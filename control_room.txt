@@ -16,7 +16,7 @@ REFRESH_RATE: 5
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-TEST TEST TEST
+Welcome to the Force Thirteen LIVE Streaming Service
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
