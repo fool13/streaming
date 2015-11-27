@@ -1,13 +1,13 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
-SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
-CONTENT_URL: http://www.nrlmry.navy.mil/tcdat/tc16/SHEM/95P.INVEST/vis/geo/2km/20151127.0122.goes15.x.vis2km.95PINVEST.25kts-1001mb-113S-1783W.60pc.jpg?http://www.force-13.com/streaming/f13icon_watermark.png#http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Wilmington Tower, North Carolina
+SHOW_UTC_TIME: OFF
+SHOW_CONTENT: OFF
+CONTENT_URL: http://www.force-13.com/streaming/black.png
+LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Testing testing 1 2 3&nbsp;
-SHOW_WATERMARK: ON
+SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: OFF
