@@ -12,7 +12,7 @@ WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: OFF
 USTREAM_ID: 9408562
-REFRESH_RATE: 10
+REFRESH_RATE: 0.1
 SHOW_NEWS_BANNER: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
