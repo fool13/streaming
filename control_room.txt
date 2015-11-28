@@ -15,7 +15,7 @@ USTREAM_ID: 9408562
 REFRESH_RATE: 10
 SHOW_NEWS_BANNER: ON
 
-<marquee behavior="scroll" direction="left" style="margin-top:5px;background:white;">
+<marquee behavior="scroll" direction="left" style="margin-top:5px;">
 TESTING TESTING
 www.force-13.com
 www.facebook.com/ForceThirteen
