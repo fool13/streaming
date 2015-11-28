@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
-CONTENT_URL: http://epic.gsfc.nasa.gov/epic-archive/jpg/epic_1b_20151126081200_00.jpg?http://www.force-13.com/streaming/black.png?http://www.force-13.com/streaming/f13icon_watermark.png
+CONTENT_URL: http://epic.gsfc.nasa.gov/epic-archive/jpg/epic_1b_20151126171215_00.jpg?http://www.force-13.com/streaming/black.png?http://www.force-13.com/streaming/f13icon_watermark.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Testing testing 1 2 3&nbsp;
