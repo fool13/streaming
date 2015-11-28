@@ -1,10 +1,10 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: OFF
+SHOW_LIVE: ON
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: This is a test only
+LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE Streaming Service&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Streaming will commence in less than 9 hours&nbsp;
 SHOW_WATERMARK: OFF
