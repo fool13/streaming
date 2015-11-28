@@ -15,7 +15,7 @@ USTREAM_ID: 9408562
 REFRESH_RATE: 10
 SHOW_NEWS_BANNER: ON
 
-<marquee behavior="scroll" direction="up" style="margin-top:5px;">
+<marquee behavior="scroll" direction="right" style="margin-top:5px;">
 <span style="color:red;background:white;">Text in Red w/ White Highlight</span>
 <span style="color:red;">Text in Red</span>
 <span style="color:green;">Text in Green</span>
