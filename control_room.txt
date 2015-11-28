@@ -1,17 +1,17 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: ON
+BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=ypp8TfTgJfU
-LIVE_LOCATION: Turtle Bay (East) - Oahu, Hawaii
+LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;explore.org&nbsp;
 BREAKING_NEWS_DESCRIPTION: 
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png?http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
-USTREAM_ID: 12623489
+USTREAM_ID: 9408562
 REFRESH_RATE: 120
 TRANSITION: OFF
 SHOW_NEWS_BANNER: OFF
