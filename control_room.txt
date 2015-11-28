@@ -12,7 +12,7 @@ WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png?http://www
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
 USTREAM_ID: 18686969
-REFRESH_RATE: 120
+REFRESH_RATE: 0.05
 TRANSITION: OFF
 SHOW_NEWS_BANNER: OFF
 
