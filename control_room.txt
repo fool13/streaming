@@ -1,13 +1,13 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: ON
-SHOW_LIVE: ON
-SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+BREAKING_NEWS: OFF
+SHOW_LIVE: OFF
+SHOW_UTC_TIME: OFF
+SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: This is a test only
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;This is a test only&nbsp;
-SHOW_WATERMARK: ON
+SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: OFF
