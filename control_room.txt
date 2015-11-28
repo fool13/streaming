@@ -2,7 +2,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=ypp8TfTgJfU
 LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
