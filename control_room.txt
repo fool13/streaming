@@ -1,12 +1,12 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=ypp8TfTgJfU
 LIVE_LOCATION: Katmai National Park, Alaska - Brooks Falls
-BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;explore.org&nbsp;
+BREAKING_NEWS_DESCRIPTION: 
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png?http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
