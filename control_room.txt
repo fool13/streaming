@@ -23,14 +23,10 @@ News Text D
 News Text E
 News Text F
 News Text G
-<b>BOLD bold</b>
-<u>UNDERLINED underlined</u>
-<s>STRIKETHROUGH strikethrough</s>
-<i>ITALICS italics</i>
+<span style="color:red;background:white;">Text in Red w/ White Highlight</span>
 <span style="color:red;">Text in Red</span>
 <span style="color:green;">Text in Green</span>
 <span style="color:yellow;">Text in Yellow</span>
-<span style="color:red;background:black;">Text in Yellow w/ Black Highlight</span>
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
