@@ -1,7 +1,7 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
-SHOW_UTC_TIME: ON
+SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
 CONTENT_URL: https://www.youtube.com/playlist?list=PLuTYtU1Fy3sxtVGTwyzIb4cZlHYah-3sL
 LIVE_LOCATION: Wilmington Tower, North Carolina
