@@ -5,8 +5,8 @@ SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: HypoWorld Cup Games
-BREAKING_NEWS_HEADING: &nbsp;Which team do you support?&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Leave a comment in the chat box &rarr;&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/hypoworld_cup.png?http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
