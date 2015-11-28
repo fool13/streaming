@@ -1,13 +1,13 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: ON
-SHOW_UTC_TIME: ON
+SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/playlist?list=PLuTYtU1Fy3sxtVGTwyzIb4cZlHYah-3sL
 LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
-SHOW_WATERMARK: ON
+SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png?http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
