@@ -4,14 +4,14 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Stennis Space Center
+LIVE_LOCATION: Wilmington Tower, North Carolina
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png?http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
-USTREAM_ID: 10766590
+USTREAM_ID: 18686969
 REFRESH_RATE: 120
 TRANSITION: OFF
 SHOW_NEWS_BANNER: OFF
