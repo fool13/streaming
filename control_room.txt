@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/himawari-8_band_13_sector_07.gif
+CONTENT_URL: http://www.met.gov.fj/aifs_prods/65661.html
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Testing testing 1 2 3&nbsp;
