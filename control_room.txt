@@ -5,8 +5,8 @@ SHOW_UTC_TIME: OFF
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: This is a test only
-BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;This is a test only&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Force Thirteen LIVE Streaming Service&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Streaming will commence in less than 9 hours&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
