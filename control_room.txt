@@ -1,9 +1,9 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: https://www.youtube.com/playlist?list=PLuTYtU1Fy3swaR_Mr14uNJaVssGhoQhDM
 LIVE_LOCATION: Wilmington Tower, North Carolina
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
