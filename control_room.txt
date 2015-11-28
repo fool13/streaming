@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: OFF
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssec.wisc.edu/data/geo/met-prime/latest_met-prime_01_euro.gif?http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Presenter&nbsp;
