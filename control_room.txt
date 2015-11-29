@@ -7,7 +7,7 @@ CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: International Space Station
 BREAKING_NEWS_HEADING: &nbsp;Astronomy Hour with Michael Scott&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Solar and Lunar Eclipses&nbsp;
-SHOW_WATERMARK: OFF
+SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png?http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: ON
