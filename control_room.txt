@@ -17,7 +17,7 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-Tuni as of 1800 UTC, 17.9S 169.2W with winds of 40mph and pressure of 1000mb
+Tuni as of 1800 UTC, 17.9S 169.2W with winds of 40mph and pressure of 996mb
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
