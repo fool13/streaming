@@ -9,7 +9,7 @@ BREAKING_NEWS_HEADING: &nbsp;explore.org&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!-- &nbsp;Commentators&nbsp; -->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
-WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
+WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: ON
 USTREAM_ID: 17074538
 REFRESH_RATE: 10000000000
