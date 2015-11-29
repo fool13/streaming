@@ -2,8 +2,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/seastpac/winds/wg10ssht-1.GIF
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tuni&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Tuni in the South Pacific Ocean&nbsp;
