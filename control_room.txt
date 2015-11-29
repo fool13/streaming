@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.met.gov.fj/aifs_prods/65660.gif
+CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/seastpac/winds/wg10ssht-1.GIF
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tuni&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Tuni in the South Pacific Ocean&nbsp;
