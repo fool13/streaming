@@ -2,8 +2,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
-CONTENT_URL: https://www.youtube.com/watch?v=6v6H-FgDm20
+SHOW_CONTENT: OFF
+CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: Grand Cayman ReefCam
 BREAKING_NEWS_HEADING: &nbsp;reefcam.tv&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!-- &nbsp;Watch and listen to the Force Thirteen team uncut!&nbsp; -->
