@@ -1,11 +1,11 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: Cape Fear Shark Cam, North Carolina
-BREAKING_NEWS_HEADING: &nbsp;ISS leaving Brazil&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;explore.orgl&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!-- &nbsp;Watch and listen to the Force Thirteen team uncut!&nbsp; -->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png?http://www.force-13.com/streaming/logo_live.png
