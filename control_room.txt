@@ -2,7 +2,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/seastpac/winds/wg10ssht-1.GIF
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Tracking Tuni&nbsp;
