@@ -11,10 +11,10 @@
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 Cyclone Tuni</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/28/15</span><br>
-Position: 14.7S, 172.8W<br>
-Wind: 45mph<br>
-Pressure: 993mb<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 18:00UTC, 11/29/15</span><br>
+Position: 17.9S, 169.3W<br>
+Wind: 40mph<br>
+Pressure: 996mb<br>
 </tr></td></table>
 </div>
 </td></tr></table>
