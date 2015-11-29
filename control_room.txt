@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/ah.jpg?3
+CONTENT_URL: http://www.force-13.com/streaming/ah.jpg?4
 LIVE_LOCATION: Michael HQ
 BREAKING_NEWS_HEADING: &nbsp;Astronomy Hour with Michael Scott&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Solar and Lunar Eclipses&nbsp;
