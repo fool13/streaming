@@ -14,7 +14,7 @@ SHOW_USTREAM: OFF
 USTREAM_ID: 12527060
 REFRESH_RATE: 10
 TRANSITION: OFF
-SHOW_NEWS_BANNER: ON
+SHOW_NEWS_BANNER: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Welcome to Force Thirteen&apos;s LIVE Streaming Service
