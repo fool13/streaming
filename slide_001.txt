@@ -10,7 +10,7 @@
 <img src="http://www.ssd.noaa.gov/PS/TROP/floaters/04P/imagery/rbtop-animated.gif" style="height:180px;">
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
-Cyclone Tuni</span><br>
+Ex-Tuni</span><br>
 <span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 11/30/15</span><br>
 Position: 18.2S, 168.5W<br>
 Wind: 35mph<br>
