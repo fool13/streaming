@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://i.ytimg.com/vi/CHIk4jBJdTw/hqdefault.jpg
+CONTENT_URL: http://media.cakecentral.com/gallery/831200/600-1314476379.JPG
 LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Happy Birthday Force Thirteen&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen Turns 4 today&nbsp;
