@@ -4,20 +4,22 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: International Space Station
+LIVE_LOCATION: Wilmington Tower, North Carolina
 BREAKING_NEWS_HEADING: &nbsp;GOES-West Imagery of Big Island, Hawaii&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Live uncut chat from the Force Thirteen Team&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
-USTREAM_ID: 9408562
+USTREAM_ID: 18686969
 REFRESH_RATE: 10000000000
-TRANSITION: OFF
+TRANSITION: ON
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1800 UTC, 13.4S 149.0W with winds of 25mph and pressure of 1007mb
+<b>UNITED KINGDOM:</b> Severe Weather Warning issued for the North West from the Met Office
+<b>TEXAS:</b> With one month still to go, DFW has already recorded the wettest year on record with close to 60" of rain! #dfwwx
 <b>IOWA:</b> The Winter Storm Warning has been scaled back a few more counties
 <b>VIRGINIA:</b> Winter Storm Warning cancelled for Franklin County and replaced with a Winter Weather Advisory
 <b>DAKOTA:</b> Winter Storm Warning issued November 30 at 12:27PM CST until December 02 at 12:00AM CST by NWS
