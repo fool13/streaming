@@ -4,7 +4,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.bom.gov.au/products/IDR083.loop.shtml
-LIVE_LOCATION: 128 km Gympie (Mt Kanigan) Radar - Quuensland, Australia
+LIVE_LOCATION: 128 km Gympie (Mt Kanigan) Radar - Queensland, Australia
 BREAKING_NEWS_HEADING: &nbsp;Happy Birthday Force Thirteen&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen turns 4 today&nbsp;
 SHOW_WATERMARK: ON
