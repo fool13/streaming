@@ -2,8 +2,8 @@ ALERT_MODE: OFF
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: OFF
-CONTENT_URL: https://www.youtube.com/watch?v=VMEpy_iod5o
+SHOW_CONTENT: ON
+CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: F13 Australia
 BREAKING_NEWS_HEADING: &nbsp;Brisbane Severe Weather <!-- Happy Birthday Force Thirteen -->&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Yesterday&apos;s severe weather in Brisbane, Australia<!-- Force Thirteen turns 4 today -->&nbsp;
