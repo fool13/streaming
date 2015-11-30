@@ -2,7 +2,7 @@ ALERT_MODE: OFF
 BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/playlist?list=PLA69C42ECE5C73639
 LIVE_LOCATION: Turtle Bay (West) - Oahu, Hawaii
 BREAKING_NEWS_HEADING: &nbsp;Happy Birthday Force Thirteen&nbsp;
