@@ -4,14 +4,14 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Wilmington Tower, North Carolina
+LIVE_LOCATION: Turtle Bay (East) - Oahu, Hawaii
 BREAKING_NEWS_HEADING: &nbsp;explore.org&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Live uncut chat from the Force Thirteen Team&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
-USTREAM_ID: 18686969
+USTREAM_ID: 12623489
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
