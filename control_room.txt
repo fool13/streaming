@@ -18,8 +18,8 @@ SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1800 UTC, 13.4S 149.0W with winds of 25mph and pressure of 1007mb
+Storm Clodagh breaks North Sea DFDS ferry on River Tyne free from mooring
 United Nations Climate Change Conference started today and will continue until December 11th, 2015
-<img src="http://vb.top-new.net/images/toolbox/caution.gif"> Storm lingering in southern Plains; more flooding possible
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
