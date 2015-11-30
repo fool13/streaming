@@ -4,14 +4,14 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Wrasse and Anthias Cam - Long Beach, California
+LIVE_LOCATION: Frying Pan Ocean Cam, North Carolina
 BREAKING_NEWS_HEADING: &nbsp;<!--Brisbane Severe WeatherHappy Birthday Force Thirteen-->explore.org&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Force Thirteen turns 4 today12Z, Invest 96P remains the same, but located at 13.3S 150.6W&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: ON
-USTREAM_ID: 12569659
+USTREAM_ID: 17046750
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
