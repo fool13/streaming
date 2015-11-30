@@ -18,6 +18,8 @@ SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1200 UTC, 13.3S 150.6W with winds of 25mph and pressure of 1007mb
+United Nations Climate Change Conference started today and will continue until December 11th, 2015
+Oklahoma Government, Fallin, declares state of emergency for all counties due to Winter Storm
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
