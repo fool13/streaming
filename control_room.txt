@@ -19,6 +19,7 @@ SHOW_NEWS_BANNER: ON
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1800 UTC, 13.4S 149.0W with winds of 25mph and pressure of 1007mb
 [DAKOTA] Winter Storm Warning issued November 30 at 12:27PM CST until December 02 at 12:00AM CST by NWS
+[CALIFORNIA] The NWS predicts rain for Calaveras County for Thursday, tapering off on Friday
 United Nations Climate Change Conference started today and will continue until December 11th, 2015
 www.force-13.com
 www.facebook.com/ForceThirteen
