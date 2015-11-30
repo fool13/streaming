@@ -21,8 +21,8 @@ Pressure: 1000mb<br>
 </td><td style="text-align:left;vertical-align:top;width:50%;padding-left:10px;">
 <span style="font-weight:bold;font-size:28px;display:inline-block;">
 INVEST 96P</span><br>
-<span style="font-size:11px;padding-bottom:10px;">As of 00:00UTC, 11/30/15</span><br>
-Position: 13.3S, 150.9W<br>
+<span style="font-size:11px;padding-bottom:10px;">As of 06:00UTC, 11/30/15</span><br>
+Position: 14.0S, 151.9W<br>
 Wind: 25mph<br>
 Pressure: 1007mb<br>
 </tr></td></table>
