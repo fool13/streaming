@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: Katmai National Park, Alaska - Dumpling Mountain
 BREAKING_NEWS_HEADING: &nbsp;<!--Brisbane Severe WeatherHappy Birthday Force Thirteen-->explore.org&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;<!--Yesterday&apos;s severe weather in Brisbane, AustraliaForce Thirteen turns 4 today-->&nbsp;
+BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Yesterday&apos;s severe weather in Brisbane, AustraliaForce Thirteen turns 4 today&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
