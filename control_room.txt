@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/hawaii_ahi_natural_color.png
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/hawaii_band_03.gif
 LIVE_LOCATION: Himawari-8 Satellite Imagery
 BREAKING_NEWS_HEADING: &nbsp;Himawari-8 Imagery of Hawaii&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Live uncut chat from the Force Thirteen Team&nbsp;-->
