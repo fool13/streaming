@@ -3,9 +3,9 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/hawaii_band_03.gif
-LIVE_LOCATION: Himawari-8 Satellite Imagery
-BREAKING_NEWS_HEADING: &nbsp;Himawari-8 Imagery of Hawaii&nbsp;
+CONTENT_URL: http://www.ssd.noaa.gov/goes/west/cpac/rgb.jpg
+LIVE_LOCATION: GOES-West Satellite IMagery
+BREAKING_NEWS_HEADING: &nbsp;GOES-West Imagery of the Central Pacific&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Live uncut chat from the Force Thirteen Team&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
