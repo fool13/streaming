@@ -11,9 +11,9 @@ SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/hypoworld_cup.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: OFF
-USTREAM_ID: 12623489
+USTREAM_ID: 17074538
 REFRESH_RATE: 10000000000
-TRANSITION: OFF
+TRANSITION: ON
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
