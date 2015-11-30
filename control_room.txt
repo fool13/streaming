@@ -1,12 +1,12 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
-SHOW_LIVE: ON
+BREAKING_NEWS: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: https://i.ytimg.com/vi/CHIk4jBJdTw/hqdefault.jpg
-LIVE_LOCATION: International Space Station
-BREAKING_NEWS_HEADING: &nbsp;explore.org&nbsp;
-BREAKING_NEWS_DESCRIPTION: <!-- &nbsp;Commentators&nbsp; -->
+LIVE_LOCATION: Happy Birthday
+BREAKING_NEWS_HEADING: &nbsp;Happy Birthday Force Thirteen&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen Turns 4 today&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
