@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: Frying Pan Ocean Cam, North Carolina
-BREAKING_NEWS_HEADING: &nbsp;<!--Force Thirteen's Open Mic-->BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;<!--Live uncut chat from the Force Thirteen Team-->Oklahoma Government, Fallin, declares state of emergency for all counties due to Winter Storm&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut chat from the Force Thirteen Team&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
