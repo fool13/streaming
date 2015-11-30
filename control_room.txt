@@ -1,10 +1,10 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: ON
-SHOW_LIVE: OFF
+SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: https://i.ytimg.com/vi/CHIk4jBJdTw/hqdefault.jpg
-LIVE_LOCATION: Happy Birthday
+LIVE_LOCATION: F13 HQ
 BREAKING_NEWS_HEADING: &nbsp;Happy Birthday Force Thirteen&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen Turns 4 today&nbsp;
 SHOW_WATERMARK: ON
