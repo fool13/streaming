@@ -4,14 +4,14 @@ SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: Stennis Space Center
-BREAKING_NEWS_HEADING: &nbsp;<!--Brisbane Severe Weather-->Happy Birthday Force Thirteen&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;<!--Yesterday&apos;s severe weather in Brisbane, Australia-->Force Thirteen turns 4 today&nbsp;
+LIVE_LOCATION: Katmai National Park, Alaska - Dumpling Mountain
+BREAKING_NEWS_HEADING: &nbsp;<!--Brisbane Severe WeatherHappy Birthday Force Thirteen-->explore.org&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;<!--Yesterday&apos;s severe weather in Brisbane, AustraliaForce Thirteen turns 4 today-->&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: OFF
-USTREAM_ID: 10766590
+USTREAM_ID: 15074823
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
