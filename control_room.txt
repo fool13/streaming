@@ -18,11 +18,11 @@ SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1800 UTC, 13.4S 149.0W with winds of 25mph and pressure of 1007mb
-[IOWA] The Winter Storm Warning has been scaled back a few more counties
-[VIRGINIA] Winter Storm Warning cancelled for Franklin County and replaced with a Winter Weather Advisory
-[DAKOTA] Winter Storm Warning issued November 30 at 12:27PM CST until December 02 at 12:00AM CST by NWS
-[CALIFORNIA] The NWS predicts rain for Calaveras County for Thursday, tapering off on Friday
-[WINTER STORM DELPHI] Storm Bringing More #Snow to #Plains, Upper #Midwest, Including #Minneapolis
+<b>IOWA:</b> The Winter Storm Warning has been scaled back a few more counties
+<b>VIRGINIA:</b> Winter Storm Warning cancelled for Franklin County and replaced with a Winter Weather Advisory
+<b>DAKOTA:</b> Winter Storm Warning issued November 30 at 12:27PM CST until December 02 at 12:00AM CST by NWS
+<b>CALIFORNIA:</b> The NWS predicts rain for Calaveras County for Thursday, tapering off on Friday
+<b>WINTER STORM DELPHI:</b> Storm Bringing More #Snow to #Plains, Upper #Midwest, Including #Minneapolis
 United Nations Climate Change Conference started today and will continue until December 11th, 2015
 www.force-13.com
 www.facebook.com/ForceThirteen
