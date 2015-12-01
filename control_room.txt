@@ -1,12 +1,12 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: ttt
-BREAKING_NEWS_HEADING: &nbsp;What the hell is this?&nbsp;
-BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Hurricane Season 2015 Ends!&nbsp;-->
+CONTENT_URL: https://www.youtube.com/playlist?list=PLuTYtU1Fy3sxefwNKHq1kAhV1sXrNdfAE
+LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;F13 Replay&nbsp;
+BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Presenter&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
