@@ -1,16 +1,16 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.force-13.com/streaming/xmas.jpg
 LIVE_LOCATION: Turtle Bay (West) - Oahu, Hawaii
 BREAKING_NEWS_HEADING: &nbsp;Hurricane Season 2015&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Season 2015 Ends!&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-SHOW_USTREAM: ON
+SHOW_USTREAM: OFF
 USTREAM_ID: 12527060
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
