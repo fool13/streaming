@@ -1,12 +1,12 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;HypoWorld Cup Games&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;David Tones&nbsp;
-BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Commentator&nbsp;-->
+BREAKING_NEWS_HEADING: &nbsp;Nathan Foy & David Tones&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator and Special Guest&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/hypoworld_cup.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
