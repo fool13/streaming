@@ -8,7 +8,7 @@ LIVE_LOCATION: &nbsp;HypoWorld Cup Games&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
 SHOW_WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
+WATERMARK_URL: http://www.force-13.com/streaming/hypoworld_cup.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 SHOW_USTREAM: ON
 USTREAM_ID: 12623489
