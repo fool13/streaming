@@ -1,9 +1,9 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: ON
-SHOW_LIVE: ON
+BREAKING_NEWS: OFF
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/96P/imagery/rgb-animated.gif
 LIVE_LOCATION: &nbsp;Turtle Bay (East) - Oahu, Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;<!--Nathan Foy-->explore.org&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Commentator&nbsp;-->
