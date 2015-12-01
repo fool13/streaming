@@ -20,7 +20,7 @@ SHOW_NEWS_BANNER: ON
 Invest 96P as of 1800 UTC, 13.4S 147.9W with winds of 30mph and pressure of 1004mb
 <b>UNITED KINGDOM:</b> North East braces itself for snow as weather warning issued after 65mph gusts #MetOffice
 <b>ALASKA:</b> Small Craft Advisory issued December 01 at 10:36AM AKST by NWS
-<b>VERMONT / NEW HAMPSHIRE:</b> Freezing Rain Advisory for highlighted areas of eastern VT & most of NH until 7 PM
+<b>VERMONT / NEW HAMPSHIRE:</b> Freezing Rain Advisory for areas of eastern VT into western NH & most of NH until 7 PM
 <b>OREGON:</b> The Gorge east of Troutdale is under an Ice Storm Warning beginning at 4 PM tonight through Wed for 1/4 - 1/2" of ice accumulation
 <b>CALIFORNIA:</b> Frost advisory for San Fernando Valley with temperatures expected to drop to the low 30s
 <b>WASHINGTON:</b> NWS Seattle has issued an Ice Storm Warning for Cowlitz County thru 6pm Wednesday
