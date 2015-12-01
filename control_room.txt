@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://www.youtube.com/watch?v=MFpuRsdxCNg
+CONTENT_URL: https://www.youtube.com/watch?v=x9g_CFcGQJA
 LIVE_LOCATION: &nbsp;Turtle Bay (East) - Oahu, Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;<!--Nathan Foy-->explore.org&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Commentator&nbsp;-->
