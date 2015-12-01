@@ -18,6 +18,7 @@ SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1800 UTC, 13.4S 147.9W with winds of 30mph and pressure of 1004mb
+<b>UNITED KINGDOM:</b> North East braces itself for snow as weather warning issued after 65mph gusts #MetOffice
 <b>OREGON:</b> The Gorge east of Troutdale is under an Ice Storm Warning beginning at 4 PM tonight through Wed for 1/4 - 1/2" of ice accumulation
 <b>CALIFORNIA:</b> Frost advisory for San Fernando Valley with temperatures expected to drop to the low 30s
 <b>WASHINGTON:</b> NWS Seattle has issued an Ice Storm Warning for Cowlitz County thru 6pm Wednesday
