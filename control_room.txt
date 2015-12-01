@@ -14,23 +14,10 @@ SHOW_USTREAM: ON
 USTREAM_ID: 9408562
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
-SHOW_NEWS_BANNER: OFF
+SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-Invest 96P as of 1800 UTC, 13.4S 149.0W with winds of 25mph and pressure of 1007mb
-<b>UNITED KINGDOM:</b> Severe Weather Warning issued for the North West from the Met Office
-<b>UNITED KINGDOM:</b> A SEVERE weather warning has been issued for Clackmannanshire tomorrow morning, with commuters told to expect snow and ice
-<b>JAPAN:</b> Marine Weather Warning for GMDSS Metarea XI 2015-11-30T18:00:00Z: WWJP90 RJTD 301800
-<b>MINNESOTA:</b> AWWMSP from 11/30/2015 2:31 PM to 4:30 PM CST for Hennepin County: AIRPORT WEATHER WARNING
-<b>TEXAS:</b> With one month still to go, DFW has already recorded the wettest year on record with close to 60" of rain! #dfwwx
-<b>IOWA:</b> The Winter Storm Warning has been scaled back a few more counties
-<b>VIRGINIA:</b> Winter Storm Warning cancelled for Franklin County and replaced with a Winter Weather Advisory
-<b>DAKOTA:</b> Winter Storm Warning issued November 30 at 12:27PM CST until December 02 at 12:00AM CST by NWS
-<b>CALIFORNIA:</b> The NWS predicts rain for Calaveras County for Thursday, tapering off on Friday
-<b>WINTER STORM DELPHI:</b> Storm Bringing More #Snow to #Plains, Upper #Midwest, Including #Minneapolis
-<b>WESTERN AUSTRALIA:</b> Fire Weather Warning for the Gascoyne, East Pilbara Coast, West Pilbara Coast, East Pilbara Inland, and Ashburton
-<b>NEW SOUTH WALES:</b> Fire weather warning today SEVERE danger Illawarra/Shoalhaven, Far Sth Coast, S'thn Ranges & Lower CW Plains
-United Nations Climate Change Conference started today and will continue until December 11th, 2015
+Invest 96P as of 1800 UTC, 13.4S 147.9W with winds of 30mph and pressure of 1004mb
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
