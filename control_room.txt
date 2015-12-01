@@ -1,9 +1,9 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: OFF
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.ssd.noaa.gov/goes/comp/ceus2/h5-loop-rgb.html#handiv
 LIVE_LOCATION: &nbsp;Turtle Bay (West) - Oahu, Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;F13 Replay &#9658;&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Presenter&nbsp;-->
