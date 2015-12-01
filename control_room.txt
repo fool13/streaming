@@ -18,6 +18,9 @@ SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 Invest 96P as of 1800 UTC, 13.4S 147.9W with winds of 30mph and pressure of 1004mb
+<b>OREGON:</b> The Gorge east of Troutdale is under an Ice Storm Warning beginning at 4 PM tonight through Wed for 1/4 - 1/2" of ice accumulation
+<b>WASHINGTON:</b> NWS Seattle has issued an Ice Storm Warning for Cowlitz County thru 6pm Wednesday
+<b>WESTERN AUSTRALIA:</b> 02/03:38 WST Fire Weather Warning for Gascoyne, Interior, East Pilbara Inland, Ashburton Inland
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
