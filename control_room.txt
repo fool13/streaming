@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://ichef.bbci.co.uk/news/624/media/images/65367000/jpg/_65367942_kelly_comp464.jpg
+CONTENT_URL: http://www.bom.gov.au/cyclone/history/images/tracks/ned.png
 LIVE_LOCATION: &nbsp;Guess The Storm&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;<!--Nathan Foy-->What the hell is this?&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Commentator&nbsp;-->
