@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/0/02/03B_26_june_2007_0503Z.jpg
+CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20080929-laura-full.jpg/800px-20080929-laura-full.jpg
 LIVE_LOCATION: &nbsp;Turtle Bay (East) - Oahu, Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the Team&nbsp;
