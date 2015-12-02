@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/12/1389510034736/905ba243-3d92-457f-8c77-8d8f797dcfb2-2060x1236.jpeg?w=620&q=85&auto=format&sharp=10&s=a085b3aaf7d484478425ef0c2c5e6061
+CONTENT_URL: https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/12/1389510034736/905ba243-3d92-457f-8c77-8d8f797dcfb2-2060x1236.jpeg
 LIVE_LOCATION: &nbsp;Turtle Bay (East) - Oahu, Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the Team&nbsp;
