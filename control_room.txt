@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/wpimages/wpf1cbb4c0_06.gif
+CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;HypoWorld Cup Games&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
