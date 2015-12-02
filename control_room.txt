@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;HypoWorld Cup Games&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;M 5.5 12km SW of Kigi, Turkey&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;M 5.5 12km SW of Kigi, Turkey - 23:27:09 UTC&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/hypoworld_cup.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
