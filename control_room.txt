@@ -1,11 +1,11 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/d/d8/T8712_08.30.1987.0530z.jpg
 LIVE_LOCATION: &nbsp;Guess The Storm&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;<!--Nathan Foy-->explore.org&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;<!--Nathan Foy-->What the hell is this?&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Commentator&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
