@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/2/27/Wally_1976_track.png
+CONTENT_URL: http://www.bom.gov.au/cyclone/history/images/tracks/ned.png
 LIVE_LOCATION: &nbsp;Guess The Storm&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;<!--Nathan Foy-->What the hell is this?&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;Commentator&nbsp;-->
