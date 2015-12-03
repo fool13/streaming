@@ -6,7 +6,7 @@ BREAKING_NEWS - ON/OFF - Toggle the Breaking News banners display.
 SHOW_LIVE - ON/OFF - Toggle the Live banner display.
 SHOW_UTC_TIME - ON/OFF - Toggle the Time banner display.
 SHOW_CONTENT - ON/OFF - Toggle content display.
-CONTENT_URL - http://www.google.com.au/ - The content to show.
+CONTENT_URL - http://www.google.com.au/ - * The content to show.
 LIVE_LOCATION - F13 HQ - Location of event.
 BREAKING_NEWS_HEADING - BREAKING NEWS - Text in the Breaking News Heading.
 BREAKING_NEWS_DESCRIPTION - Cyclone xx has weakened - Text in the Breaking News Description.
@@ -19,6 +19,8 @@ REFRESH_RATE - 100000 - * Auto Refresh Rate of stream page in minutes (30s = 0.3
 TRANSITION - ON/OFF - Toggle scrolling background effect.
 SHOW_NEWS_BANNER - ON/OFF - Toggle News Banner display.
 -----------------------------------------------------------------------------------------------------------
+
+* To keep content black, use http://www.force-13.com/streaming/black.png to allow keying in Nathan's OBS
 
 * Current Watermarks:
 http://www.force-13.com/streaming/logo_live.png
