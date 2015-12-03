@@ -1,6 +1,6 @@
 /// STREAMING ///   
 
-GLOSSARY -------------------------------------------------------------------------------------------------------------
+GLOSSARY --------------------------------------------------------------------------------------------------
 ALERT_MODE - ON/OFF - Toggle from red or blue text and background in the Breaking News banners.
 BREAKING_NEWS - ON/OFF - Toggle the Breaking News banners display.
 SHOW_LIVE - ON/OFF - Toggle the Live banner display.
@@ -18,7 +18,7 @@ USTREAM_ID - 9408562 - * UStream ID to show.
 REFRESH_RATE - 100000 - * Auto Refresh Rate of stream page in minutes (30s = 0.3, 1s = 0.01).
 TRANSITION - ON/OFF - Toggle scrolling background effect.
 SHOW_NEWS_BANNER - ON/OFF - Toggle News Banner display.
-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 * Current Watermarks:
 http://www.force-13.com/streaming/logo_live.png
