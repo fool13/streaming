@@ -1,12 +1,12 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;Katmai National Park, Alaska - Brooks Falls&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;BREAKING NEWS&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;M 5.5 12km SW of Kigi, Turkey - 23:27:09 UTC&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Open Mic Session with the Team&nbsp;
+BREAKING_NEWS_DESCRIPTION: <!--&nbsp;&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
