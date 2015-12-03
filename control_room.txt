@@ -14,22 +14,9 @@ SHOW_USTREAM: ON
 USTREAM_ID: 12527060
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
-SHOW_NEWS_BANNER: OFF
+SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-<span style="color:#a9ffb9;">Tropical Disturbance 04F</span> (Invest 96P) as of 1800 UTC, 12.4S 147.0W with winds of 30mph and pressure of 1003mb
-<b>UNITED KINGDOM:</b> North East braces itself for snow as weather warning issued after 65mph gusts #MetOffice
-<b>ALASKA:</b> Small Craft Advisory issued December 01 at 10:36AM AKST by NWS
-<b>NEBRASKA:</b> KIMBALL - Wind Advisory issued December 01 at 12:48PM CST until December 01 at 6:00PM CST by NWS
-<b>VERMONT / NEW HAMPSHIRE:</b> Freezing Rain Advisory for areas of eastern VT & most of NH until 7 PM
-<b>OREGON:</b> The Gorge east of Troutdale is under an Ice Storm Warning beginning at 4 PM tonight through Wed for 1/4 - 1/2" of ice accumulation
-<b>CALIFORNIA:</b> Frost advisory for San Fernando Valley with temperatures expected to drop to the low 30s
-<b>WASHINGTON:</b> NWS Seattle has issued an Ice Storm Warning for Cowlitz County thru 6pm Wednesday
-<b>COLORADO:</b> High wind advisory issued for foothills, western Denver suburbs
-<b>IOWA:</b> Freezing Rain Advisory valid at Dec 1, 7:00 PM EST till Dec 2, 7:00 AM EST
-<b>IOWA:</b> Winter Weather Advisory Cancelled for Lyon County
-<b>QUÉBEC</b> FREEZING DRIZZLE ADVISORY IN EFFECT Issued for Saguenay, Updated Dec 01st 15:15 EST
-<b>WESTERN AUSTRALIA:</b> 02/03:38 WST Fire Weather Warning for Gascoyne, Interior, East Pilbara Inland, Ashburton Inland
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
