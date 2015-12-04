@@ -4,7 +4,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
-LIVE_LOCATION: &nbsp;Cape Canaveral Launch&nbsp;
+LIVE_LOCATION: &nbsp;Atlas V, Cygnus launch from Cape Canaveral to ISS&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Service will return at 17:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;&nbsp;-->
 SHOW_WATERMARK: ON
