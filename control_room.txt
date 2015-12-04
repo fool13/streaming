@@ -3,7 +3,7 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.weathercast.co.uk/satellite-pictures/worldwide.html
+CONTENT_URL: http://aa004xmu0m4dtdqty.api.met.no/weatherapi/geosatellite/1.3?area=europe;type=infrared;width=650;height=650;time=2015-12-04T21%3A30%3A10Z;authkey=RxFmjAuzv
 LIVE_LOCATION: &nbsp;Atlas V, Cygnus launch from Cape Canaveral to ISS&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Service will return at 17:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;&nbsp;-->
