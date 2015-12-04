@@ -3,15 +3,15 @@ BREAKING_NEWS: OFF
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://aa004xmu0m4dtdqty.api.met.no/weatherapi/geosatellite/1.3?area=europe;type=infrared;width=650;height=650;time=2015-12-04T21%3A30%3A10Z;authkey=RxFmjAuzv
-LIVE_LOCATION: &nbsp;Atlas V, Cygnus launch from Cape Canaveral to ISS&nbsp;
+CONTENT_URL: http://www.force-13.com/streaming/black.png
+LIVE_LOCATION: &nbsp;Wrasse and Anthias Cam - Long Beach, California&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Service will return at 17:00 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: <!--&nbsp;&nbsp;-->
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-SHOW_USTREAM: OFF
-USTREAM_ID: 6540154
+SHOW_USTREAM: ON
+USTREAM_ID: 12569659
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
