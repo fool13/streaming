@@ -4,7 +4,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: https://www.youtube.com/watch?v=Y-Ol4p3TYkg
-LIVE_LOCATION: &nbsp;Turtle Bay (West) - Oahu, Hawaii&nbsp;
+LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the Team&nbsp;
 SHOW_WATERMARK: ON
