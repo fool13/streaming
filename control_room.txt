@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/natl/flash-rb.html
+CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/europe/winds/wm7vor.GIF
 LIVE_LOCATION: &nbsp;F13 HQ - Latest on the Cumbria Floods&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the Team&nbsp;
