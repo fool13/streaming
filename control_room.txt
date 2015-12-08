@@ -1,16 +1,16 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
-SHOW_CONTENT: ON
+SHOW_CONTENT: OFF
 CONTENT_URL: https://www.youtube.com/watch?v=Y-Ol4p3TYkg
-LIVE_LOCATION: &nbsp;F13 HQ - Latest on the Cumbria Floods&nbsp;
+LIVE_LOCATION: &nbsp;Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the Team&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-SHOW_USTREAM: OFF
+SHOW_USTREAM: ON
 USTREAM_ID: 18686942
 REFRESH_RATE: 10000000000
 TRANSITION: OFF
