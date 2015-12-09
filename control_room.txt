@@ -4,7 +4,7 @@ SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: OFF
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/himawari-8/australia_true_color.jpg
-LIVE_LOCATION: &nbsp;&nbsp;
+LIVE_LOCATION: &nbsp;Hawaii&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the team&nbsp;
 SHOW_WATERMARK: ON
