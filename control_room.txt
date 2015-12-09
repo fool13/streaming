@@ -3,7 +3,7 @@ BREAKING_NEWS: Of
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/TCFP/
 LIVE_LOCATION: &nbsp;F-13 AU&nbsp;
 BREAKING_NEWS_HEADING: <!-- &nbsp;&nbsp; -->
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the Team&nbsp;
