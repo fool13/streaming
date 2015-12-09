@@ -17,6 +17,8 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
+Tropical Low 97s is expected to deepen.
+Advisory in place. 
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
