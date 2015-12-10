@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/jma/wpac/h5-loop-ir4.html
+CONTENT_URL: http://www.ssd.noaa.gov/jma/wpac/h5-loop-wv.html
 LIVE_LOCATION: &nbsp;HypoWorld Cup Games&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Commentating&nbsp;
