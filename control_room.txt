@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;Atikokari Grand Prix&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Devon Williams&nbsp;
-BREAKING_NEWS_DESCRIPTION: <!-- &nbsp;Commentator&nbsp; -->
+BREAKING_NEWS_DESCRIPTION: &nbsp;Commentator&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
