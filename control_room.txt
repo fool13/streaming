@@ -1,6 +1,6 @@
 ALERT_MODE: OFF
 BREAKING_NEWS: ON
-SHOW_LIVE: ON
+SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.bom.gov.au/products/IDR281.loop.shtml?http://www.force-13.com/streaming/black.png
