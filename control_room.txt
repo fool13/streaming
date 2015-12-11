@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: OFF
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://re.ssec.wisc.edu/s/o7JJC
+CONTENT_URL: http://re.ssec.wisc.edu/s/y7JLW
 LIVE_LOCATION: &nbsp;International Space Station&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the team&nbsp;
