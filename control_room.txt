@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;HypoWorld Games&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Live Discussion on Typhoon Melor and other weather stories&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Until 23:10 UTC&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Nathan Foy&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Commentating&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
