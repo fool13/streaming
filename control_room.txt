@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/north_pacific_ahi_natural_color&width=1600&height=676&number_of_images_to_display=24
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/north_pacific_ahi_natural_color/north_pacific_ahi_natural_color_20151213003000.png
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor now with winds of 80mph&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Latest news&nbsp;
