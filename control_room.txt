@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://re.ssec.wisc.edu/s/Q7MO0
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor rapidly intensifies&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Category 4 storm with Signal 3 warnings for PH&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor weakens slightly&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Winds down to 125mph - Breaking&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
