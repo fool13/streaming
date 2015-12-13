@@ -5,7 +5,7 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/himawari-8_band_03_sector_04&width=1020&height=720&number_of_images_to_display=48&loop_speed_ms=100
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor now with winds of 80mph&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor now with winds of 80-85mph&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Latest news&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
