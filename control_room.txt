@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://realearth.ssec.wisc.edu/?products=HIMAWARI-B13.100,HIMAWARI-B07.-100&center=12.524463012241801,127.5104217529297&zoom=8&width=1670&height=945&timeproduct=HIMAWARI-B13&timespan=-7200s
+CONTENT_URL: http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp2815.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor weakens slightly&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Winds down to 125mph at 03:00 PHT&nbsp;
