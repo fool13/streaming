@@ -3,8 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://realearth.ssec.wisc.edu/?products=HIMAWARI-B07.-80,HIMAWARI-B11.-
-0,HIMAWARI-B12.-80,HIMAWARI-B13.-80,HIMAWARI-B14.80,HIMAWARI-B15.-80,HIMAWARI-B16.-80&center=12.59477402876256,127.44812011718747&zoom=8&width=1670&height=945&timeproduct=HIMAWARI-B16&timespan=-7200s
+CONTENT_URL: ...
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor rapidly intensifies&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Category 4 storm with Signal 3 warnings for PH&nbsp;
