@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/latest_hi_res/himawari-8/full_disk_ahi_true_color.jpg
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/full_disk_ahi_true_color&width=800&height=800&number_of_images_to_display=30&loop_speed_ms=100
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor now with winds of 80mph&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Latest news&nbsp;
