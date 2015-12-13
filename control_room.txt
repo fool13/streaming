@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=WP282015&starting_image=2015WP28_4KMIRIMG_201512131500
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor weakens slightly&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Winds down to 125mph - Breaking&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Winds down to 125mph at 03:00 PHT&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
