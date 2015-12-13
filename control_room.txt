@@ -1,9 +1,9 @@
-ALERT_MODE: OFF
+ALERT_MODE: ON
 BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=1kmsrvis&storm_identifier=WP282015&starting_image=2015WP28_1KMSRVIS_201512130440
+CONTENT_URL: http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp2815.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor rapidly intensifies&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Category 4 storm with Signal 3 warnings for PH&nbsp;
@@ -17,6 +17,12 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
+Signal #3 Warnings for: Catanduanes, Sorsogon, Albay and Ticao Island, Northern Samar, Eastern Samar and Samar
+Signal #3 Warnings mean that typhoon conditions are expected in the next 18 hours
+Signal #2 Warnings for: Masbate including    Burias Island, Camarines Sur, Camarines Norte, Romblon and Southern Quezon, Leyte and Biliran
+Signal #2 Warnings mean that tropical storm force conditions are expected in the next 24 hours
+Signal #1 Warnings for: Marinduque,   Oriental Mindoro and rest of Quezon, Southern Leyte, Northern Cebu including Bantayan and Camotes Islands, Aklan, Capiz and Negros Occidental, Dinagat province and Siargao Island
+Signal #1 Warnings mean that tropical storm conditions are possible in the next 36 hours
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
