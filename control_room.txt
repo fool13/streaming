@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/tropics_band_03&width=1020&height=720&number_of_images_to_display=24
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/full_disk_ahi_true_color&width=800&height=800&number_of_images_to_display=30&loop_speed_ms=100
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor weakens slightly&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Winds down to 125mph at 03:00 PHT&nbsp;
