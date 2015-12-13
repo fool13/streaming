@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/westpac/storm/movies/MOV20-2.28W.GIF
+CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/westpac/storm/movies/MOV5-2.28W.GIF
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor rapidly intensifies&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Category 4 storm with Signal 3 warnings for PH&nbsp;
