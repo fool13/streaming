@@ -17,6 +17,8 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
+<span style="display:inline-block;padding:2px 4px;background:red;color:white;">#NonaPH</span> Classes suspended in parts of Manila, all of Albay and Samar
+Up to 8000 stranded in PH
 Signal #3 Warnings for: Camarines Sur, Catanduanes, Sorsogon, Albay including Ticao Island, Northern Samar, Eastern Samar, Biliran and Samar 
 Signal #3 Warnings mean that typhoon conditions are expected in the next 18 hours
 Signal #2 Warnings for: Masbate including Burias Island, Camarines Norte, Marinduque, Romblon, Southern Quezon, and Leyte
