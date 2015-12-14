@@ -19,11 +19,11 @@ SHOW_NEWS_BANNER: ON
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 <span style="display:inline-block;padding:2px 4px;background:red;color:white;">#NonaPH</span> Classes suspended in parts of Manila, all of Albay and Samar
 Up to 8000 stranded in PH
-Signal #3 Warnings for: Camarines Sur, Catanduanes, Sorsogon, Albay including Ticao Island, Northern Samar, Eastern Samar, Biliran and Samar 
+Signal #3 Warnings for: Catanduanes, Camarines Sur, Albay, Sorsogon and Masbate including Ticao and Burias Islands, Northern Samar, Eastern Samar, Samar and Biliran 
 Signal #3 Warnings mean that typhoon conditions are expected in the next 18 hours
-Signal #2 Warnings for: Masbate including Burias Island, Camarines Norte, Marinduque, Romblon, Southern Quezon, and Leyte
+Signal #2 Warnings for: Camarines Norte, Marinduque, Romblon, Oriental Mindoro, Occidental Mindoro, Batangas, Laguna and Southern Quezon, Leyte
 Signal #2 Warnings mean that tropical storm force conditions are expected in the next 24 hours
-Signal #1 Warnings for: Metro Manila, Oriental Mindoro, Occidental Mindoro including Lubang Island, Batangas, Cavite, Rizal, Laguna, Rest of Quezon including Polillo Island, Southern Leyte, Northern Cebu including Bantayan and Camotes Islands, Aklan, Capiz, Northern Negros Occidental, Dinagat province and Siargao Island
+Signal #1 Warnings for: Metro Manila, Bataan, Bulacan, Lubang Island, Coron, Cavite, Rizal, Rest of Quezon including Polillo Island, Southern Leyte, Northern Cebu including Bantayan and Camotes Islands, Aklan, Capiz, Northern Negros Occidental and Northern Iloilo, Dinagat province and Siargao Island
 Signal #1 Warnings mean that tropical storm conditions are possible in the next 36 hours
 www.force-13.com
 www.facebook.com/ForceThirteen
