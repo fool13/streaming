@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=WP282015&starting_image=2015WP28_4KMIRIMG_201512140340
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor strengthens before landfall&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Winds rise to 130mph at 15:00 PHT&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor makes Category 4 landfall in Sorsogon&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;You're watching Force Thirteen's Open Mic until 11:00 UTC&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
