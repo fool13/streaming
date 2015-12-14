@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://re.ssec.wisc.edu/s/47NRe
+CONTENT_URL: http://re.ssec.wisc.edu/s/o7NTS
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor maintains intensity&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Winds still at 125mph at 09:00 PHT&nbsp;
