@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://www.tropicaltidbits.com/storminfo/97W_geps_latest.png
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor nears Mindoro&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Satellite estimates have Melor with sustained winds of 212kph&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;00Z &rArr; 13.0N 121.8E &bull; 145mph &bull; 929mb&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
