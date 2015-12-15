@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=WP282015&starting_image=2015WP28_4KMIRIMG_201512140340
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/28W/imagery/rbtop-animated.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor nears Mindoro&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Satellite estimates have Melor with sustained winds of 212kph&nbsp;
