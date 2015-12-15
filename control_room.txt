@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/himawari-8_band_03_sector_04&width=1020&height=720&number_of_images_to_display=48&loop_speed_ms=100
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/28W/imagery/vis-animated.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor nears Mindoro&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;00Z &rArr; 13.0N 121.8E &bull; 145mph &bull; 929mb&nbsp;
