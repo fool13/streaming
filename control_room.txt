@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/satshots/97W_141730sair.jpg
+CONTENT_URL: http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp2815.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor nears Mindoro&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Satellite estimates have Melor with sustained winds of 212kph&nbsp;
