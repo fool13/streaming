@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://re.ssec.wisc.edu/s/A7PCz
+CONTENT_URL: http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/warnings/wp2815.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor makes landfall in Mindoro&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Sustained winds of 145mph (230kph)&nbsp;
