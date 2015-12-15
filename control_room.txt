@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/28W/imagery/avn-animated.gif
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/28W/imagery/rbtop-animated.gif
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor nears Mindoro&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;00Z &rArr; 13.0N 121.8E &bull; 145mph &bull; 929mb&nbsp;
