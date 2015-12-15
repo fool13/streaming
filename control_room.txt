@@ -5,8 +5,8 @@ SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=WP282015&starting_image=2015WP28_4KMIRIMG_201512140340
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Stay tuned on the Force Thirteen channel&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;This stream will terminate shortly&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Typhoon Melor nears Mindoro&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Satelite estimates have Melor 212kph sustained&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
@@ -17,14 +17,7 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-<span style="display:inline-block;padding:2px 4px;background:red;color:white;">#NonaPH</span> Classes suspended in parts of Manila, all of Albay and Samar
-Up to 8000 stranded in PH
-Signal #3 Warnings for: Sorsogon, Masbate including Ticao and Burias Islands, Albay, Camarines Sur, Camarines Norte,   Catanduanes, Southern Quezon, Marinduque and Romblon, Northern Samar  
-Signal #3 Warnings mean that typhoon conditions are expected in the next 18 hours
-Signal #2 Warnings for: Batangas, Rizal, Laguna, Cavite, rest of Quezon including Polillo Island, Oriental Mindoro and Occidental Mindoro including Lubang Island, Eastern Samar, Samar and Biliran 
-Signal #2 Warnings mean that tropical storm force conditions are expected in the next 24 hours
-Signal #1 Warnings for: Metro Manila, Bulacan, Bataan, Pampanga, Southern Zambales, Southern Aurora and Coron, Leyte, Northern Cebu including Bantayan and Camotes Islands, Aklan, Capiz, Northern Antique, Northern Negros Occidental and Northern Iloilo
-Signal #1 Warnings mean that tropical storm conditions are possible in the next 36 hours
+<span style="display:inline-block;padding:2px 4px;background:red;color:white;">#NonaPH</span>
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
