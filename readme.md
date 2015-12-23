@@ -48,3 +48,6 @@ http://www.force-13.com/streaming/logo_christmas.png
 9600798  : Monterey Bay Aquarium, California
 12434958 : Katmai National Park, Alaska - Brooks Falls
 12431893 : Katmai National Park, Alaska - Lower River
+
+
+<span style="display:inline-block;padding:2px 4px;background:red;color:white;">#NonaPH</span>
