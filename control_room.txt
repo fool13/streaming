@@ -7,7 +7,7 @@ CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the team&nbsp;
-SHOW_WATERMARK: OFF
+SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
 SHOW_USTREAM: OFF
