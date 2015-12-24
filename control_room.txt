@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/99S/imagery/wv-animated.gif
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/99S/imagery/avn-animated.gif
 LIVE_LOCATION: &nbsp;Christmas Eve&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;North American Christmas Heatwave / Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;110 Daily Records broken so far&nbsp;
