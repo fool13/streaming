@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: https://docs.google.com/drawings/d/1VHHWf-8BvTsIeZKDc299rzq_m_B1DGQBDPZYcSnfPNI/edit?usp=sharing
 LIVE_LOCATION: &nbsp;Christmas Eve&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;North American Christmas Heatwave / Open Mic&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;121 Daily Records broken so far, 2 December records broken&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;138 Daily Records broken so far, 4 December records broken&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
