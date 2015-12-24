@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://www.bom.gov.au/products/IDR421.loop.shtml
+CONTENT_URL: https://docs.google.com/drawings/d/1VHHWf-8BvTsIeZKDc299rzq_m_B1DGQBDPZYcSnfPNI/edit?usp=sharing
 LIVE_LOCATION: &nbsp;Christmas Eve&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;North American Christmas Heatwave / Open Mic&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;121 Daily Records broken so far, 2 December records broken&nbsp;
