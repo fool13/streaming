@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://docs.google.com/drawings/d/1VHHWf-8BvTsIeZKDc299rzq_m_B1DGQBDPZYcSnfPNI/edit?usp=sharing
+CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;Christmas Eve&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Service resumes at 21:30 UTC&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;138 Daily Records broken so far, 4 December records broken&nbsp;
