@@ -6,7 +6,7 @@ SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Merry Christmas from Force Thirteen!&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen's Christmas Special&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: play 10s steps(71) infinite
