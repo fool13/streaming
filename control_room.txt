@@ -1,12 +1,12 @@
 ALERT_MODE: OFF
-BREAKING_NEWS: OFF
+BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
 CONTENT_URL: http://www.force-13.com/streaming/black.png
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Merry Christmas from Force Thirteen!&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen's Christmas Special&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;New Year's Eve&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Force Thirteen's New Year Special&nbsp;
 SHOW_WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
