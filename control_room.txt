@@ -17,6 +17,8 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
+Hurricane Alex the first hurricane to exist in January in the Atlantic since 1955
+Hurricane Warnings in effect for the Azores
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
