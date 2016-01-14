@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL012016&starting_image=2016AL01_4KMIRIMG_201601141200
+CONTENT_URL: http://www.force-13.com/wpimages/wp63f09025_06.png
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Hurricane Alex&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the Azores&nbsp;
