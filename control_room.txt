@@ -3,7 +3,7 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xla1/t31.0-8/12471610_556189437871450_3907489164750576395_o.png
+CONTENT_URL: https://pbs.twimg.com/media/CYsLal5WAAAQhfx.png
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
 BREAKING_NEWS_HEADING: &nbsp;Hurricane Alex&nbsp;
 BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the Azores&nbsp;
