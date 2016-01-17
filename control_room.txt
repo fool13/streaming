@@ -3,10 +3,10 @@ BREAKING_NEWS: ON
 SHOW_LIVE: ON
 SHOW_UTC_TIME: ON
 SHOW_CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=goes-r_proving_ground/geocolor_AWCATL&width=960&height=737
+CONTENT_URL: http://www.nrlmry.navy.mil/htdocs_dyn_pregen_sat/PUBLIC/nexsat/thumbs/full_size/NorthAmerica-CONUS-East/Caribbean-x-x/vis_ir_background/goes_lowcloud/20160117.1745.goes_13.visir.bckgr.NorthAmerica-CONUS-East_Caribbean-x-x.DAY.jpg
 LIVE_LOCATION: &nbsp;F13 HQ&nbsp;
-BREAKING_NEWS_HEADING: &nbsp;Hurricane Alex&nbsp;
-BREAKING_NEWS_DESCRIPTION: &nbsp;Hurricane Warnings in effect for the Azores&nbsp;
+BREAKING_NEWS_HEADING: &nbsp;Force Thirteen's Open Mic&nbsp;
+BREAKING_NEWS_DESCRIPTION: &nbsp;Live uncut discussion from the team&nbsp;
 SHOW_WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_christmas.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
@@ -17,8 +17,7 @@ TRANSITION: OFF
 SHOW_NEWS_BANNER: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-Hurricane Alex the first hurricane to exist in January in the Atlantic since 1955
-Hurricane Warnings in effect for the Azores
+Cyclone Victor remains a Category 1 storm in the South Pacific
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
