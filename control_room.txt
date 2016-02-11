@@ -17,7 +17,7 @@ CONTENT: OFF
 CONTENT_URL: URL
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
-FORECAST_HOUR: OFF
+FORECAST_HOUR: ON
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 www.force-13.com
