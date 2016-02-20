@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Cyclone Winston
-DESCRIPTION_BANNER: 00Z, WINSTON has winds of 298kph and pressure of 903hPa
+DESCRIPTION_BANNER: 00Z, WINSTON has winds of 296kph and pressure of 903hPa
 WATERMARK: ON
 WATERMARK_URL: URL
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
