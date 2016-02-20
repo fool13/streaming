@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Cyclone Winston
-DESCRIPTION_BANNER: Force Thirteen Live will return with a full update at 23:00 Fiji time
+DESCRIPTION_BANNER: Force Thirteen Live will return with a full update at 23:00 Fiji time / 11:00 UTC
 WATERMARK: ON
 WATERMARK_URL: URL
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
