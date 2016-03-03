@@ -21,6 +21,11 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 BREAKING NEWS Cyclone Example has made landfall
+JUST IN Cyclone Example claims 2 lives
+Cyclone Example continues to intensify
+Models forecasting a new tropical system in the Coral Sea
+Just In extensive rainfall occuring in Queensland coast
+breaking news 6.0 earthquake near Indonesia, more updates to come
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
