@@ -8,7 +8,7 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: BREAKING NEWS
 DESCRIPTION_BANNER: 06Z: Cyclone Example has made landfall.
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/logo.png
+WATERMARK_URL: http://www.force-13.com/private/logo_anniversary.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 TICKER_BANNER: ON
 USTREAM: OFF
