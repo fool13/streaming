@@ -4,9 +4,9 @@ LIVE_MODE: OFF
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC
-HEADLINE_SECTION: OFF
-HEADING_BANNER: BREAKING NEWS
-DESCRIPTION_BANNER: 06Z: Cyclone Example has made landfall.
+HEADLINE_SECTION: ON
+HEADING_BANNER: Force Thirteen's Open Mic
+DESCRIPTION_BANNER: Live uncut discussion from the team
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
