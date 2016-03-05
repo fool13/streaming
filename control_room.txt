@@ -3,14 +3,14 @@ LIVE_BANNER: OFF
 LIVE_MODE: OFF
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
-TIME_ZONE: JST
+TIME_ZONE: UTC
 HEADLINE_SECTION: OFF
 HEADING_BANNER: BREAKING NEWS
 DESCRIPTION_BANNER: 06Z: Cyclone Example has made landfall.
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-TICKER_BANNER: ON
+TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
@@ -20,12 +20,7 @@ HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-BREAKING NEWS Cyclone Example has made landfall
-JUST IN Cyclone Example claims 2 lives
-Cyclone Example continues to intensify
-Models forecasting a new tropical system in the Coral Sea
-Just In extensive rainfall occuring in Queensland coast
-breaking news 6.0 earthquake near Indonesia, more updates to come
+You're watching Force Thirteen's Live Streaming Service
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
