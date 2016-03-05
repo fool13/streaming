@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/loop.asp?data_folder=himawari-8/full_disk_ahi_true_color&width=800&height=800&number_of_images_to_display=30&loop_speed_ms=100
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
