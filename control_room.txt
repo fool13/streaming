@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/philippines_true_color/philippines_true_color_20160305074000.jpg
+CONTENT_URL: http://rammb.cira.colostate.edu/ramsdis/online/images/himawari-8/philippines_true_color/philippines_true_color_20160305113000.jpg
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
