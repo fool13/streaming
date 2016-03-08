@@ -20,10 +20,5 @@ HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="slide" direction="left" style="margin-top:5px;text-align:center;">
-Eclipse Schedule: Partial Begins at 23:19 UTC | Maximum Eclipse at 01:59 UTC | Partial Ends at 04:34 UTC
-<!-- You're watching Force Thirteen's Live Streaming Service
-www.force-13.com
-www.facebook.com/ForceThirteen
-@ForceThirteen on Twitter
-Fool13 on Skype -->
+<span style="display:inline-block;padding:2px 4px;background:white;color:blue;">Eclipse Schedule:</span> Partial Begins at 23:19 UTC &bull; Maximum Eclipse at 01:59 UTC &bull; Partial Ends at 04:34 UTC
 </marquee>
