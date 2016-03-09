@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/7/7d/Solar_eclipse_animate_%282016-Mar-09%29.GIF
+CONTENT_URL: https://upload.wikimedia.org/wikipedia/commons/7/76/Global_path_of_the_total_solar_eclipse_2016-03-09.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
