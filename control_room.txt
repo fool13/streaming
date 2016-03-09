@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.data.jma.go.jp/mscweb/data/himawari/img/pi1/pi1_tre_0140.jpg
+CONTENT_URL: http://www.data.jma.go.jp/mscweb/data/himawari/img/r2s/r2s_tre_0140.jpg
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
