@@ -19,6 +19,6 @@ REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
-<marquee behavior="slide" direction="left" style="margin-top:5px;">
+<marquee behavior="scroll" direction="left" style="margin-top:5px;">
 BREAKING NEWS Brisbane: Emergency Services have been involved in a major SAR for 5 teenagers missing in storm water drains due to heavy rainfall.
 </marquee>
