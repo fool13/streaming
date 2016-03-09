@@ -1,5 +1,5 @@
 BREAKING_MODE: OFF
-LIVE_BANNER: ON
+LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: Ternate, Indonesia
 TIME_BANNER: ON
@@ -19,11 +19,6 @@ REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
-<marquee behavior="scroll" direction="left" style="margin-top:5px;">
-BREAKING NEWS Brisbane: Emergency Services have been involved in a major SAR for 5 teenagers missing in storm water drains due to heavy rainfall.
-You're watching Force Thirteen's Live Streaming Service
-www.force-13.com
-www.facebook.com/ForceThirteen
-@ForceThirteen on Twitter
-Fool13 on Skype
+<marquee behavior="slide" direction="left" style="margin-top:5px;text-align:center;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="display:inline-block;padding:2px 4px;background:white;color:blue;border-radius:4px;"> Eclipse Schedule: </span> Partial Begins at 23:19 UTC &bull; Maximum Eclipse at 01:59 UTC &bull; Partial Ends at 04:34 UTC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </marquee>
