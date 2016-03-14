@@ -5,8 +5,8 @@ LIVE_LOCATION:
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Force Thirteen's Open Mic
-DESCRIPTION_BANNER: Live Uncut discussion from the Team
+HEADING_BANNER: 
+DESCRIPTION_BANNER: Live coverage continues with the Caribbean Weather Desk at 00:00 UTC
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
