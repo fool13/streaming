@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: <!--Force Thirteen Live-->Worldwide Satellite Animations
-DESCRIPTION_BANNER: Animations since 1980.
+DESCRIPTION_BANNER: 1987
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
