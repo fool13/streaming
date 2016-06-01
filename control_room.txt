@@ -5,7 +5,7 @@ LIVE_LOCATION: Bonnie Floater
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Force Thirteen Live
+HEADING_BANNER: Force Thirteen Live - Watching the Tropics
 DESCRIPTION_BANNER: <!--Open Mic-->We will be back shortly
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
