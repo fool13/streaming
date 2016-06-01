@@ -5,8 +5,8 @@ LIVE_LOCATION: <!--F13 HQ - Weather Cam-->Force Thirteen Footages
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: <!--Force Thirteen Live-->Cumbria Floods (Windstorm Desmond)
-DESCRIPTION_BANNER: December 6, 2015
+HEADING_BANNER: <!--Force Thirteen Live-->Takeoffs and Landings
+DESCRIPTION_BANNER: April 5-15, 2014
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: https://www.youtube.com/embed/videoseries?list=PLuTYtU1Fy3sxou5EK9Oj3CtzrGByhctLP&autoplay=1
+CONTENT_URL: https://www.youtube.com/embed/Zr3gtoOG6wQ?list=PLuTYtU1Fy3sxou5EK9Oj3CtzrGByhctLP&autoplay=1
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
