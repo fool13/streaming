@@ -4,9 +4,9 @@ LIVE_MODE: Replay &#9658;
 LIVE_LOCATION: <!--F13 HQ - Weather Cam-->Force Thirteen Footages
 TIME_BANNER: ON
 TIME_ZONE: UTC
-HEADLINE_SECTION: OFF
-HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Service will resume later&nbsp;
+HEADLINE_SECTION: ON
+HEADING_BANNER: <!--Force Thirteen Live-->Cumbria Floods (Windstorm Desmond)
+DESCRIPTION_BANNER: December 6, 2015
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
