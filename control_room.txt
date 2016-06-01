@@ -14,7 +14,7 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: https://icons.wunderground.com/webcamramdisk/j/a/jagsko/1/current.jpg
+CONTENT_URL: https://icons.wunderground.com/webcamramdisk/j/a/jagsko/1/current.jpg?1
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
