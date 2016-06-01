@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: OFF
-LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ - Weather Cam
+LIVE_MODE: Replay &#9658;
+LIVE_LOCATION: <!--F13 HQ - Weather Cam-->Force Thirteen Footages
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
@@ -13,8 +13,8 @@ WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: OFF
-CONTENT_URL: https://www.youtube.com/embed/TYzbB8DzAFc?&autoplay=1
+CONTENT: ON
+CONTENT_URL: https://www.youtube.com/embed/videoseries?list=PLuTYtU1Fy3sxou5EK9Oj3CtzrGByhctLP&autoplay=1
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
