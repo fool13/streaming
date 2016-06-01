@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
-LIVE_MODE: GOES Composite
-LIVE_LOCATION: Central U.S. Imagery
+LIVE_MODE: LIVE
+LIVE_LOCATION: Perth Hills, Western Australia
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
@@ -14,7 +14,7 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/comp/ceus/rgb-animated.gif
+CONTENT_URL: https://icons.wunderground.com/webcamramdisk/j/a/jagsko/1/current.jpg
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
