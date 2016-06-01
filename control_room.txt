@@ -1,12 +1,12 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: Replay &#9658;
-LIVE_LOCATION: <!--F13 HQ - Weather Cam-->Force Thirteen Footages
+LIVE_LOCATION: <!--F13 HQ - Weather Cam-->Force Thirteen Satellite Animations
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: <!--Force Thirteen Live-->Rain Compilations
-DESCRIPTION_BANNER: July 2013
+HEADING_BANNER: <!--Force Thirteen Live-->Worldwide Satellite Animations
+DESCRIPTION_BANNER: Animations since 1980.
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: https://www.youtube.com/embed/9n0NPnvg-zY?&autoplay=1
+CONTENT_URL: https://www.youtube.com/embed/videoseries?list=PLuTYtU1Fy3sw8JEJOpH-ftolcMFAlDrHN&autoplay=1
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
