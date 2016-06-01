@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/carb/ft-animated.gif?http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.ssd.noaa.gov/goes/east/carb/rb-animated.gif?http://www.force-13.com/streaming/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
