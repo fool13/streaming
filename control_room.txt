@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
-LIVE_MODE: GOES-East
-LIVE_LOCATION: Caribbean Imagery
+LIVE_MODE: GOES-West
+LIVE_LOCATION: 91E Floater
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/carb/rb-animated.gif?http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/91E/imagery/rgb-animated.gif?http://www.force-13.com/streaming/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
