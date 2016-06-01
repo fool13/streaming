@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: Hawaii National Park, HI
+LIVE_LOCATION: Kamuela, HI
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
@@ -14,7 +14,7 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://icons.wunderground.com/webcamramdisk/s/h/shauntanner/29/current.jpg?1464746548
+CONTENT_URL: https://icons.wunderground.com/webcamramdisk/a/z/Azer/800/current.jpg?1464746638
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
