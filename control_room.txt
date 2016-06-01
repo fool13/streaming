@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
-LIVE_MODE: GOES-West
-LIVE_LOCATION: Tropical Eastern Pacific Imagery
+LIVE_MODE: GOES-East
+LIVE_LOCATION: Bonnie Floater
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
@@ -14,18 +14,14 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/west/tpac/rgb-animated.gif?http://www.force-13.com/streaming/black.png
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/02L/imagery/rgb-animated.gif?http://www.force-13.com/streaming/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 You're watching Force Thirteen's Live Streaming Service
-<span style="display:inline-block;padding:2px 4px;background:white;color:blue;border-radius:4px;">INVEST 91E</span>
-Position: 9.2°N, 110.2°W
-Winds: 25mph
-Pressure: 1008mb
-01/06/2016 00:00 UTC
+<span style="display:inline-block;padding:2px 4px;background:white;color:blue;border-radius:4px;">INVEST 91E</span> Position: 9.2°N, 110.2°W - Winds: 25mph - Pressure: 1008mb - 01/06/2016 00:00 UTC
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
