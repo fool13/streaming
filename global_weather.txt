@@ -1,11 +1,11 @@
-Lerwick (S. Screen): 9.2&deg;C
-Aultbea: 10.4&deg;C
-Aberdeen Airport: 9.1&deg;C
-Eskdalemuir: 17.9&deg;C
-Magilligan No 2: 15.2&deg;C
-Albemarle: 12.4&deg;C
-Belfast Int. Airport: 19.6&deg;C
-Waddington: 11.0&deg;C
-Weybourne: 10.7&deg;C
-Coleshill: 13.6&deg;C
-Camborne: 15.9&deg;C
+Lerwick (S. Screen): 9&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Aultbea: 10&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Aberdeen Airport: 9&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Eskdalemuir: 18&deg;C <img src="http://image005.flaticon.com/1/svg/66/66275.svg" style="height:15px;filter:invert(100%)">
+Magilligan No 2: 15&deg;C <img src="http://image005.flaticon.com/1/svg/66/66275.svg" style="height:15px;filter:invert(100%)">
+Albemarle: 12&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Belfast Int. Airport: 20&deg;C <img src="http://image005.flaticon.com/1/svg/66/66275.svg" style="height:15px;filter:invert(100%)">
+Waddington: 11&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Weybourne: 11&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Coleshill: 14&deg;C <img src="http://image005.flaticon.com/163/svg/153/153799.svg" style="height:15px;filter:invert(100%)">
+Camborne: 16&deg;C <img src="http://image005.flaticon.com/163/svg/153/153803.svg" style="height:15px;filter:invert(100%)">
