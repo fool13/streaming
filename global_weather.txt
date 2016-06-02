@@ -1,11 +1,10 @@
-Stornoway: 9.6&deg;C
-Aultbea: 10.0&deg;C
-Tiree: 13.3&deg;C
-Magilligan No 2: 14.3&deg;C
-Albemarle: 8.3&deg;C
-Shap: 12.1&deg;C
-Rostherne No 2: 12.9&deg;C
-Milford Haven C.B.: 18.7&deg;C
-Northolt: 11.8&deg;C
-St-Athan: 15.2&deg;C
-Middle Wallop: 11.2&deg;C
+Aultbea: 10.9&deg;C
+Edinburgh/Gogarbank: 18.2&deg;C
+Eskdalemuir: 17.4&deg;C
+Albemarle: 11.9&deg;C
+Shap: 14.7&deg;C
+Linton on Ouse: 10.2&deg;C
+Weybourne: 10.7&deg;C
+Lake Vyrnwy SAWS: 14.2&deg;C
+St-Athan: 17.2&deg;C
+Exeter Airport 2: 17.9&deg;C
