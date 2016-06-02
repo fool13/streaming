@@ -1,11 +1,11 @@
 Lerwick (S. Screen): 9.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Stornoway: 10.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Aberdeen Airport: 9.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png
-Magilligan No 2: 13.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Albemarle: 11.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Belfast Int. Airport: 18.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Linton on Ouse: 13.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Waddington: 10.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/13-s.png
-Weybourne: 10.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png
-Lyneham: 14.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png
-St-Athan: 18.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Wick John O Groats A.P.: 8.7&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
+Aultbea: 8.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Edinburgh/Gogarbank: 14.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Magilligan No 2: 12.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Albemarle: 10.7&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Belfast Int. Airport: 17.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Linton on Ouse: 12.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Northolt: 11.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Lyneham: 12.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png
+Camborne: 14.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png
