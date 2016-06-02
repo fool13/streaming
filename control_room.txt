@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Service Currently Inactive / Graphics Undergoing Upgrade
+HEADING_BANNER: 
+DESCRIPTION_BANNER: Service Currently Inactive
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
