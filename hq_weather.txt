@@ -11,7 +11,7 @@
 	</tr>
 	<tr>
 		<td class="glamor_variable" style="padding-left: 40px;">Wind</td>
-		<td class="glamor_datatemp" nowrap>E 3mph</td>
+		<td class="glamor_datatemp" nowrap>E 4mph</td>
 		<td class="glamor_detailtemp" nowrap>High Gust&nbsp;7<span class="threequarter">&nbsp;Mph</span>&nbsp;at&nbsp;01:53</td>
 	</tr>
 	<tr>
