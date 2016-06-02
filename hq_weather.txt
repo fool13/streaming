@@ -1,0 +1,33 @@
+<!-- START: MAIN WEATHER DISPLAY -->
+	<table width="760" cellpadding="0" cellspacing="0" border="0" class="glamor_table" summary="">
+	<tr>
+		<td class="glamor_temp" rowspan="2" style="padding-left: 40px;">8<span class="degrees">&deg;</span></td>
+		<td class="glamor_datatemp" nowrap style="padding-top: 20px;">HIGH&nbsp;10<span class="degrees">&deg;</span>C</td>
+		<td class="glamor_detailtemp" nowrap style="padding-top: 20px;">at&nbsp;00:00</td>
+	</tr>
+	<tr>
+		<td class="glamor_datatemp" nowrap >LOW&nbsp;8<span class="degrees">&deg;</span>C</td>
+		<td class="glamor_detailtemp" nowrap>at&nbsp;02:13</td>
+	</tr>
+	<tr>
+		<td class="glamor_variable" style="padding-left: 40px;">Wind</td>
+		<td class="glamor_datatemp" nowrap>Calm</td>
+		<td class="glamor_detailtemp" nowrap>High Gust&nbsp;7<span class="threequarter">&nbsp;Mph</span>&nbsp;at&nbsp;01:53</td>
+	</tr>
+	<tr>
+		<td class="glamor_variable" style="padding-left: 40px;">Humidity</td>
+		<td class="glamor_datatemp" nowrap>83<span class="threequarter">%</span></td>
+		<td class="glamor_detailtemp" nowrap>Feels Like&nbsp;8<span class="degrees">&deg;</span>C</td>
+	</tr>
+	<tr>
+		<td class="glamor_variable" style="padding-left: 40px;">Rain</td>
+		<td class="glamor_datatemp" nowrap>0.0mm</td>
+		<td class="glamor_detailtemp" nowrap>Seasonal Total&nbsp;414.8mm</td>
+	</tr>
+	<tr>
+		<td class="glamor_variable" style="padding-left: 40px;">Barometer</td>
+		<td class="glamor_datatemp" nowrap>1024.1mb</td>
+		<td class="glamor_detailtemp" nowrap>Falling Slowly</td>
+	</tr>
+	</table>
+	<!-- END: MAIN WEATHER DISPLAY -->
