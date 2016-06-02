@@ -20,7 +20,7 @@ HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
-You're watching Force Thirteen's Live Streaming Service
+Force Thirteen's Live Streaming Service is currently inactive. Thursday's schedule will commence at 18:00 UTC.
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
