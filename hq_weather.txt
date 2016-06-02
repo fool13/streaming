@@ -21,7 +21,7 @@
 	</tr>
 	<tr>
 		<td class="glamor_variable" style="padding-left: 40px;">Rain</td>
-		<td class="glamor_datatemp" nowrap><!--0.0mm--><img src="http://preloaders.net/preloaders/315/colored/5.png"></td>
+		<td class="glamor_datatemp" nowrap>0.0mm</td>
 		<td class="glamor_detailtemp" nowrap>Seasonal Total&nbsp;414.8mm</td>
 	</tr>
 	<tr>
