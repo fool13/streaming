@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Depression Bonnie
-DESCRIPTION_BANNER: Bonnie reforms off the coast of North Carolina.<br>Discussion commences in less than <span style="text-decoration:underline;">1 hour</span>.
+DESCRIPTION_BANNER: Bonnie reforms off the coast of North Carolina.<br>Discussion commences in less than <span style="text-decoration:underline;">45 minutes</span>.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
