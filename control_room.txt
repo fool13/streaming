@@ -1,12 +1,12 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: *JUST IN
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Force Thirteen Open Mic
-DESCRIPTION_BANNER: General discussion with the team
+HEADING_BANNER: <!--Force Thirteen Open Mic-->BONNIE RECON UPDATE:
+DESCRIPTION_BANNER: <!--General discussion with the team-->RECON has found some surface winds of 35-40kts
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
