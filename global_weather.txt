@@ -1,11 +1,12 @@
-Lerwick (S. Screen): 8.0&deg;C
-Stornoway: 8.9&deg;C
-Aultbea: 9.7&deg;C
-Tiree: 12.1&deg;C
-Edinburgh/Gogarbank: 12.7&deg;C
+Lerwick (S. Screen): 8.2&deg;C
+Wick John O Groats Airport: 8.5&deg;C
+Aultbea: 9.8&deg;C
+Alberdeen Airport: 9.4&deg;C
+Magilligan No 2: 14.4&deg;C
 Albemarle: 7.9&deg;C
-Belfast Int. Airport: 15.1&deg;C
-Waddington: 9.7&deg;C
-Lake Vyrnwy SAWS: 9.7&deg;C
-Middle Wallop: 10.7&deg;C
-Exeter Airport 2: 12.2&deg;C
+Belfast Int. Airport: 16.5&deg;C
+Shap: 11.1&deg;C
+Linton On Ouse: 10.4&deg;C
+Rostherne No 2: 12.3&deg;C
+Lake Vyrnwy SAWS: 11.1&deg;C
+Milford Haven C.B.: 18.6&deg;C
