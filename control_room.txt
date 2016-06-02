@@ -1,12 +1,12 @@
-BREAKING_MODE: *Talkin' Tropics
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Weather Discussion Hour
-DESCRIPTION_BANNER: Discussion on Tropical Depression Bonnie and the Tropics
+HEADING_BANNER: <!--Weather Discussion Hour-->Force Thirteen Live
+DESCRIPTION_BANNER: We will be back shortly
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
