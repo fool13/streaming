@@ -1,0 +1,4 @@
+Alpha: 17&deg;C
+Beta: 10&deg;C
+Gamma: 2&deg;C
+Delta: 36&deg;C
