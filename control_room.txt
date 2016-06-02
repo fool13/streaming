@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Depression Bonnie
-DESCRIPTION_BANNER: Bonnie reforms off the coast of North Carolina.<br>Discussion commences in less than <span style="text-decoration:underline;">10 minutes</span>.
+DESCRIPTION_BANNER: Bonnie reforms off the coast of North Carolina.<br>Discussion commences in less than <span style="text-decoration:underline;">5 minutes</span>.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
@@ -14,14 +14,14 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/minipage.html?update3
+CONTENT_URL: http://www.force-13.com/private/minipage.html?update4
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;margin-top:2px;">
 You're Watching Force Thirteen Live
-<span style="background:white;color:#002136;padding:5px 10px;">BONNIE:</span> Position: 34.9°N, 75.4°W or about 25 miles (40km) ESE of Cape Hatteras, North Carolina &bull; Winds: 30mph &bull; Pressure: 1009mb &bull; As of 12:00 UTC
+<span style="background:white;color:#002136;padding:5px 10px;">BONNIE:</span> Position: 35.1°N, 75.1°W or about 25 miles (40km) ESE of Cape Hatteras, North Carolina &bull; Winds: 30mph &bull; Pressure: 1009mb &bull; As of 12:00 UTC
 <span style="text-decoration:underline;">WIND:</span> Gusty winds may occur over portions of the eastern North Carolina coast this afternoon, including the Pamlico Sound.
 <span style="text-decoration:underline;">RAINFALL:</span> Bonnie is expected to produce additional rainfall accumulations of 1 to 3 inches over the Outer Banks of North Carolina through Thursday evening.  Isolated maximum amounts of 5 inches are possible. This rain will likely produce flooding over already saturated ground.
 <span style="text-decoration:underline;">STORM SURGE:</span> Localized coastal flooding and dangerous surf is possible along portions of the North Carolina coast, including the Outer Banks. For information specific to your area, please see products issued by your local National Weather Service office.
