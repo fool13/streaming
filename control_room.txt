@@ -7,10 +7,10 @@ TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Open Mic
 DESCRIPTION_BANNER: General discussion with the team
-GLOBAL_WEATHER: OFF
+GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-TICKER_BANNER: OFF
+TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: OFF
