@@ -1,4 +1,4 @@
-Sydney: 16&deg;C
+SydneyX: 16&deg;C
 Melbourne: 10&deg;C
 Brisbane: 17&deg;C
 Perth: 18&deg;C
