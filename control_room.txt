@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: <!--Force Thirteen Open Mic-->Colorado Springs - Air Force: Thunderbird jet crashes
-DESCRIPTION_BANNER: <!--General discussion with the team-->The status of pilot's condition was not immediately known.
+DESCRIPTION_BANNER: <!--General discussion with the team-->The crash happened in a grassy area near Fontaine Boulevard, about five miles south of the Colorado Springs Airport.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
