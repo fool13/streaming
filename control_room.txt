@@ -1,12 +1,12 @@
-BREAKING_MODE: *JUST IN
+BREAKING_MODE: BREAKING NEWS
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: <!--Force Thirteen Open Mic-->California Brush fire
-DESCRIPTION_BANNER: <!--General discussion with the team-->Rocky Peak brush fires growing; Highway 118 lanes closed.
+HEADING_BANNER: <!--Force Thirteen Open Mic-->Colorado Springs
+DESCRIPTION_BANNER: <!--General discussion with the team-->An Air Force Thunderbird plane went down after a flyover of a commencement attended by the President.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
