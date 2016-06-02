@@ -1,7 +1,7 @@
 <!-- START: MAIN WEATHER DISPLAY -->
 	<table width="760" cellpadding="0" cellspacing="0" border="0" class="glamor_table" summary="">
 	<tr>
-		<td class="glamor_temp" rowspan="2" style="padding-left: 40px;">8<span class="degrees">&deg;</span></td>
+		<td class="glamor_temp" rowspan="2" style="padding-left: 40px;">9<span class="degrees">&deg;</span></td>
 		<td class="glamor_datatemp" nowrap style="padding-top: 20px;">HIGH&nbsp;10<span class="degrees">&deg;</span>C</td>
 		<td class="glamor_detailtemp" nowrap style="padding-top: 20px;">at&nbsp;00:00</td>
 	</tr>
@@ -11,7 +11,7 @@
 	</tr>
 	<tr>
 		<td class="glamor_variable" style="padding-left: 40px;">Wind</td>
-		<td class="glamor_datatemp" nowrap>E 2mph</td>
+		<td class="glamor_datatemp" nowrap>Calm</td>
 		<td class="glamor_detailtemp" nowrap>High Gust&nbsp;7<span class="threequarter">&nbsp;Mph</span>&nbsp;at&nbsp;01:53</td>
 	</tr>
 	<tr>
@@ -26,7 +26,7 @@
 	</tr>
 	<tr>
 		<td class="glamor_variable" style="padding-left: 40px;">Barometer</td>
-		<td class="glamor_datatemp" nowrap>1023.4mb &#11014;</td>
+		<td class="glamor_datatemp" nowrap>1023.5mb &#11014;</td>
 		<td class="glamor_detailtemp" nowrap>Falling Slowly &#11015;  Rising &#11014;</td>
 	</tr>
 	</table>
