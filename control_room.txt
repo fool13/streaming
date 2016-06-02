@@ -7,7 +7,7 @@ TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Depression Bonnie
 DESCRIPTION_BANNER: Bonnie reforms off the coast of North Carolina.<br>Discussion commences at <span style="text-decoration:underline;">18:00 UTC</span>.
-GLOBAL_WEATHER: ON
+GLOBAL_WEATHER: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 TICKER_BANNER: ON
