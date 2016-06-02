@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: <!--Force Thirteen Open Mic-->Syria Bomb Blast
-DESCRIPTION_BANNER: <!--General discussion with the team-->The explosion took place near the city centre as people were leaving prayers, state TV reported, describing it as a terrorist attack.
+DESCRIPTION_BANNER: <!--General discussion with the team-->State-run Ikhbariya News Channel showed rescue workers and security personnel carrying wounded people towards ambulances.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
