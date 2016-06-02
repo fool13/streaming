@@ -1,11 +1,11 @@
-Lerwick (S. Screen): 9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Aultbea: 10&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Aberdeen Airport: 9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Eskdalemuir: 18&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Magilligan No 2: 15&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Albemarle: 12&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Belfast Int. Airport: 20&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Waddington: 11&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Weybourne: 11&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Coleshill: 14&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Camborne: 16&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png
+Stornoway: 11.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Magilligan No 2: 14.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Albemarle: 12.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Belfast Int. Airport: 19.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Linton on Ouse: 13.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png
+Waddington: 10.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png
+Weybourne: 10.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Wittering: 10.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Lyneham: 16.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png
+St-Athan: 19.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Exeter Airport 2: 18.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
