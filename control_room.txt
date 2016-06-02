@@ -10,7 +10,7 @@ DESCRIPTION_BANNER: Service Currently Inactive
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-TICKER_BANNER: OFF
+TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
@@ -21,7 +21,6 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="margin-top:5px;">
 You're watching Force Thirteen's Live Streaming Service
-<span style="display:inline-block;padding:2px 4px;background:white;color:blue;border-radius:4px;">INVEST 91E</span> Position: 9.2°N, 110.2°W - Winds: 25mph - Pressure: 1008mb - 01/06/2016 00:00 UTC
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
