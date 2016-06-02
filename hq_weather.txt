@@ -26,8 +26,8 @@
 	</tr>
 	<tr>
 		<td class="glamor_variable" style="padding-left: 40px;">Barometer</td>
-		<td class="glamor_datatemp" nowrap>1023.8mb &#11015;</td>
-		<td class="glamor_detailtemp" nowrap>Falling Slowly</td>
+		<td class="glamor_datatemp" nowrap>1023.8mb <small>Steady</small></td>
+		<td class="glamor_detailtemp" nowrap>Falling Slowly &#11015;</td>
 	</tr>
 	</table>
 	<!-- END: MAIN WEATHER DISPLAY -->
