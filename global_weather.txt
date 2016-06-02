@@ -1,11 +1,11 @@
-Lerwick (S. Screen): 9&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png" style="height:15px">
-Aultbea: 10&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png" style="height:15px">
-Aberdeen Airport: 9&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png" style="height:15px">
-Eskdalemuir: 18&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png" style="height:15px">
-Magilligan No 2: 15&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png" style="height:15px">
-Albemarle: 12&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png" style="height:15px">
-Belfast Int. Airport: 20&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png" style="height:15px">
-Waddington: 11&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png" style="height:15px">
-Weybourne: 11&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png" style="height:15px">
-Coleshill: 14&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png" style="height:15px">
-Camborne: 16&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png" style="height:15px">
+Lerwick (S. Screen): 9&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png">
+Aultbea: 10&deg;C
+Aberdeen Airport: 9&deg;C
+Eskdalemuir: 18&deg;C
+Magilligan No 2: 15&deg;C
+Albemarle: 12&deg;C
+Belfast Int. Airport: 20&deg;C
+Waddington: 11&deg;C
+Weybourne: 11&deg;C
+Coleshill: 14&deg;C
+Camborne: 16&deg;C
