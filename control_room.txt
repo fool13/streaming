@@ -1,5 +1,5 @@
 BREAKING_MODE: *BREAKING NEWS
-LIVE_BANNER: ON
+LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
@@ -7,7 +7,7 @@ TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Open Mic
 DESCRIPTION_BANNER: <!--General discussion with the team-->We will return shortly
-GLOBAL_WEATHER: ON
+GLOBAL_WEATHER: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 TICKER_BANNER: ON
