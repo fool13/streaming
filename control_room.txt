@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: <!--Force Thirteen Open Mic-->Syria Bomb Blast
-DESCRIPTION_BANNER: <!--General discussion with the team-->The British-based Syrian Observatory for Human Rights, which tracks the conflict using sources on the ground, confirmed the blast took place in a northern area of Latakia.
+DESCRIPTION_BANNER: <!--General discussion with the team-->The Obseratory said the blast killed at least three people. State media reported at least one dead and several wounded.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
