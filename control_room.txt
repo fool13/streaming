@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: <!--Force Thirteen Open Mic-->California Brush fire
-DESCRIPTION_BANNER: <!--General discussion with the team-->Rocky Peak brush fires growing; Highway 118 lanes closed
+DESCRIPTION_BANNER: <!--General discussion with the team-->Ventura County firefighters were responding to a report of two small brush fires along Highway 118 at Rocky Peak Road in Simi Valley late Thursday morning.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
