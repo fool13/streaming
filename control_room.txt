@@ -13,8 +13,8 @@ WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: OFF
-CONTENT_URL: http://www.force-13.com/streaming/black.png
+CONTENT: ON
+CONTENT_URL: http://www.force-13.com/private/stream/
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
