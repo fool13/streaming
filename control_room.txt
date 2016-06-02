@@ -1,12 +1,12 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: BREAKING NEWS
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Force Thirteen Open Mic<!--The Climate Show-->
-DESCRIPTION_BANNER: General discussion with the team<!--with your host Lee Barrett-->
+HEADING_BANNER: <!--Force Thirteen Open MicThe Climate Show-->Nashville, Tennessee
+DESCRIPTION_BANNER: <!--General discussion with the teamwith your host Lee Barrett-->A Navy F/A-18 jet, part of the Navy's elite Blue Angels, has crashed near Nashville; no word on injuries.
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
