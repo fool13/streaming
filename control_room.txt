@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Open Mic
-DESCRIPTION_BANNER: Want to join our Skype Fans Chatroom? Visit our website and click the Skype icon in the navigation bar. www.force-13.com
+DESCRIPTION_BANNER: General discussion with the team
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
