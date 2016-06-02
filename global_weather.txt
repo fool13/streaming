@@ -1,11 +1,11 @@
-Lerwick (S. Screen): 8.2&deg;C
-Wick John O Groats A.P.: 8.5&deg;C
-Aultbea: 9.8&deg;C
-Alberdeen Airport: 9.4&deg;C
-Magilligan No 2: 14.4&deg;C
-Belfast Int. Airport: 16.5&deg;C
-Shap: 11.1&deg;C
-Linton On Ouse: 10.4&deg;C
-Rostherne No 2: 12.3&deg;C
-Lake Vyrnwy SAWS: 11.1&deg;C
-Milford Haven C.B.: 18.6&deg;C
+Stornoway: 9.6&deg;C
+Aultbea: 10.0&deg;C
+Tiree: 13.3&deg;C
+Magilligan No 2: 14.3&deg;C
+Albemarle: 8.3&deg;C
+Shap: 12.1&deg;C
+Rostherne No 2: 12.9&deg;C
+Milford Haven C.B.: 18.7&deg;C
+Northolt: 11.8&deg;C
+St-Athan: 15.2&deg;C
+Middle Wallop: 11.2&deg;C
