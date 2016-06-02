@@ -2,7 +2,7 @@ Sydney: 16&deg;C
 Melbourne: 10&deg;C
 Brisbane: 17&deg;C
 Perth: 18&deg;C
-Adelaide2: 11&deg;C
+Adelaide: 11&deg;C
 Hobart: 5&deg;C
-Canberra: 6&deg;C
+CanberraS: 6&deg;C
 Darwin: 28&deg;C
