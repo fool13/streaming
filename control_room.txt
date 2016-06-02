@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: The Climate Show
-DESCRIPTION_BANNER: www.force-13.com | @ForceThirteen on Twitter | Fool13 on Skype
+DESCRIPTION_BANNER: With your host Lee Barrett
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
