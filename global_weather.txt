@@ -1,4 +1,4 @@
-Lerwick (S. Screen): 9&deg;C&nbsp;<img src="https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png">
+Lerwick (S. Screen): 9&deg;C&nbsp;123
 Aultbea: 10&deg;C
 Aberdeen Airport: 9&deg;C
 Eskdalemuir: 18&deg;C
