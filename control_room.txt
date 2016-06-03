@@ -4,9 +4,9 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: UTC
-HEADLINE_SECTION: OFF
-HEADING_BANNER: The Climate Show
-DESCRIPTION_BANNER: With your host Lee Barrett
+HEADLINE_SECTION: ON
+HEADING_BANNER: Hourly Storm Update
+DESCRIPTION_BANNER: With your host Devon Williams
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
