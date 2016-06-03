@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Service resumes at <span style="text-decoration:underline;">12:00 UTC</span>
+DESCRIPTION_BANNER: Service resumes at <span style="background:#013356;padding:2px 4px;color:white;">12:00 UTC</span>
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
