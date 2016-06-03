@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hourly Storm Update
-DESCRIPTION_BANNER: With your host Devon Williams
+DESCRIPTION_BANNER: Have a question? Use the handle #AskThirteen on Facebook and Twitter
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
