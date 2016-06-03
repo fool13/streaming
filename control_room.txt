@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Standby
+HEADING_BANNER: Hour Storm Update
+DESCRIPTION_BANNER: With your host Nathan Foy
 GLOBAL_WEATHER: OFF
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
