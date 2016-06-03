@@ -1,11 +1,11 @@
-Wick John O Groats Airport: 8.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
-Aberdeen Airport: 9.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Eskdalemuir: 4.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Albemarle: 3.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Belfast Int. Airport: 7.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Rostherne No 2: 4.7&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
-Northolt: 9.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-St-Athan: 7.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Middle Wallop: 8.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Exeter Airport 2: 7.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png
-Camborne: 10.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
+Aultbea: 14.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png
+Aberdeen Airport: 10.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Tiree: 13.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Glasgow/Bishopton: 16.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+Eskdalemuir: 17.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png
+Albemarle: 13.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Waddington: 10.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Wittering: 10.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Milford Haven C.B.:&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png
+Lyneham: 11.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+St-Athan: 14.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
