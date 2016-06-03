@@ -10,7 +10,7 @@ DESCRIPTION_BANNER: With your host Nathan Foy
 GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
-TICKER_BANNER: OFF
+TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
@@ -21,10 +21,10 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;margin-top:2px;">
 You're Watching Force Thirteen Live
-<span style="background:white;color:#002136;padding:5px 10px;">BONNIE:</span> Position: 35.1°N, 75.1°W or about 25 miles (40km) ESE of Cape Hatteras, North Carolina &bull; Winds: 30mph &bull; Pressure: 1009mb &bull; As of 11:00 AM EDT Thu, Jun 2
+<span style="background:white;color:#002136;padding:5px 10px;">BONNIE:</span> Position: 35.8°N, 73.3°W or about 130 miles (210km) ENE of Cape Hatteras, North Carolina &bull; Winds: 35mph &bull; Pressure: 1006mb &bull; Moving: ENE at 8 mph &bull; As of 
+5:00 AM EDT Fri, Jun 3
 <span style="text-decoration:underline;">WIND:</span> Gusty winds may occur over portions of the eastern North Carolina coast this afternoon, including the Pamlico Sound.
-<span style="text-decoration:underline;">RAINFALL:</span> Bonnie is expected to produce additional rainfall accumulations of 1 to 3 inches over the Outer Banks of North Carolina through Thursday evening.  Isolated maximum amounts of 5 inches are possible. This rain will likely produce flooding over already saturated ground.
-<span style="text-decoration:underline;">STORM SURGE:</span> Localized coastal flooding and dangerous surf is possible along portions of the North Carolina coast, including the Outer Banks. For information specific to your area, please see products issued by your local National Weather Service office.
+<span style="text-decoration:underline;">STORM SURGE:</span> Dangerous surf conditions are still possible along portions of the North Carolina coast, including the Outer Banks, through today.  For information specific to your area, please see products issued by your local National Weather Service office.
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
