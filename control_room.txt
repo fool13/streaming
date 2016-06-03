@@ -22,7 +22,6 @@ FORECAST_HOUR: OFF
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;margin-top:2px;">
 You're Watching Force Thirteen Live
 <span style="background:white;color:#002136;padding:5px 10px;">BONNIE:</span> Position: 35.8°N, 73.3°W or about 130 miles (210km) ENE of Cape Hatteras, North Carolina &bull; Winds: 35mph &bull; Pressure: 1006mb &bull; Moving: ENE at 8mph &bull; As of 5:00 AM EDT Fri, Jun 3
-<span style="text-decoration:underline;">WIND:</span> Gusty winds may occur over portions of the eastern North Carolina coast this afternoon, including the Pamlico Sound.
 <span style="text-decoration:underline;">STORM SURGE:</span> Dangerous surf conditions are still possible along portions of the North Carolina coast, including the Outer Banks, through today.  For information specific to your area, please see products issued by your local National Weather Service office.
 www.force-13.com
 www.facebook.com/ForceThirteen
