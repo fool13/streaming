@@ -6,6 +6,6 @@ Eskdalemuir: 17.0&deg;C https://apidev.accuweather.com/developers/Media/Default/
 Albemarle: 13.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 Waddington: 10.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 Wittering: 10.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Milford Haven C.B.:&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png
+Milford Haven C.B.: 17.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png
 Lyneham: 11.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 St-Athan: 14.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
