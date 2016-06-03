@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: Jason HQ - Weather Cam (Updates every 60 seconds)
+LIVE_LOCATION: Jason HQ - Weather Cam (Updates every 15 seconds)
 TIME_BANNER: ON
 TIME_ZONE: UTC
 HEADLINE_SECTION: ON
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/jasonHQ.html?update
+CONTENT_URL: http://www.force-13.com/private/jasonHQ.html?la
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
