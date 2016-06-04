@@ -9,7 +9,7 @@ HEADING_BANNER: Historic Recon Flights
 DESCRIPTION_BANNER: Footage of Reconnaissance flights from the past
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/logo.png
+WATERMARK_URL: http://www.force-13.com/download/logo-v3.0.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
