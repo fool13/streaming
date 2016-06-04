@@ -7,7 +7,7 @@ TIME_ZONE: UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: <!--Hour Storm Update-->Force Thirteen Live
 DESCRIPTION_BANNER: <!--With your host Nathan Foy-->Hourly Storm Update
-GLOBAL_WEATHER: OFF
+GLOBAL_WEATHER: ON
 WATERMARK_URL: http://www.force-13.com/streaming/logo_live.png
 WATERMARK_ANIMATION: <!-- play 10s steps(71) infinite -->
 TICKER_BANNER: OFF
