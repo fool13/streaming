@@ -1,4 +1,4 @@
-BREAKING_MODE: *Recon: Hurricane Donna (1960)
+BREAKING_MODE: *Recon: Hurricane Isabel (2003)
 LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ - Weather Cam
