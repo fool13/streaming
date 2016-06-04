@@ -1,11 +1,11 @@
-Stornoway: 10.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Tiree: 12.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Glasgow/Bishopton: 13.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Eskdalemuir: 11.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
-Linton on Ouse: 11.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Lerwick (S. Screen): 7.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Tiree: 12.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Glasgow/Bishopton: 12.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
+Albemarle: 10.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
+Waddington: 11.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png
+Weybourne: 10.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png
 Lake Vyrnwy SAWS: 11.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Coleshill: 13.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Milford Haven C.B.: 11.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Northolt: 12.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Lyneham: 11.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-St-Athan: 12.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Coleshill: 13.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Milford Haven C.B.: 11.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
+St-Athan: 12.7&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Middle Wallop: 11.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
