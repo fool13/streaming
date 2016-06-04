@@ -6,6 +6,6 @@ Linton on Ouse: 11.9&deg;C https://apidev.accuweather.com/developers/Media/Defau
 Lake Vyrnwy SAWS: 11.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
 Coleshill: 13.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 Milford Haven C.B.: 11.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png
-Northolt: 12.0&deg;C &deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Northolt: 12.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 Lyneham: 11.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 St-Athan: 12.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
