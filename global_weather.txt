@@ -1,11 +1,11 @@
-Wick John O Groats A.P.: 7.8&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Stornoway: 10.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Aultbea: 10.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Aberdeen Airport: 9.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Edinburgh/Gogarbank: 11.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png
+Stornoway: 10.5&deg;C &deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
+Tiree: 12.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Glasgow/Bishopton: 13.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Eskdalemuir: 11.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
 Linton on Ouse: 11.9&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Rostherne No 2: 13.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Weybourne: 10.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
-Wittering: 12.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
+Lake Vyrnwy SAWS: 11.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
+Coleshill: 13.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+Milford Haven C.B.: 11.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
+Northolt: 12.0&deg;C &deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
 Lyneham: 11.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Middle Wallop: 12.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
+St-Athan: 12.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
