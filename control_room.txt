@@ -1,4 +1,4 @@
-BREAKING_MODE: *Recon: Hurricane Isabel (2003)
+BREAKING_MODE: *Recon: Hurricane Katrina (2005)
 LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ - Weather Cam
