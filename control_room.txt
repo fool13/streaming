@@ -9,7 +9,7 @@ HEADING_BANNER: SERVICE INACTIVE
 DESCRIPTION_BANNER: Next Hourly Storm Update at 15:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/passive.png?2
+WATERMARK_URL: http://www.force-13.com/private/passive.png?3
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
