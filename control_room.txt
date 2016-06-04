@@ -8,8 +8,8 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
 DESCRIPTION_BANNER: Storm Discussion Hour
 GLOBAL_WEATHER: ON
-WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/active.png
+WATERMARK: OFF
+WATERMARK_URL: http://www.force-13.com/private/passive.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
