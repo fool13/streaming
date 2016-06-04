@@ -6,10 +6,10 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Service will resume at 18:00 UTC
+DESCRIPTION_BANNER: Storm Discussion Hour
 GLOBAL_WEATHER: ON
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/passive.png
+WATERMARK_URL: http://www.force-13.com/private/active.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
