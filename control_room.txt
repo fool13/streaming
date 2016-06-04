@@ -1,4 +1,4 @@
-BREAKING_MODE: *Recon: Hurricane Daisy (1958)
+BREAKING_MODE: *Recon: Hurricane Helene (1958)
 LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ - Weather Cam
