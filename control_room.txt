@@ -9,7 +9,7 @@ HEADING_BANNER: Force Thirteen Live
 DESCRIPTION_BANNER: Service will resume at 18:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/download/logo-v3.0.png
+WATERMARK_URL: http://www.force-13.com/private/passive.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
