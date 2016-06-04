@@ -1,4 +1,4 @@
-BREAKING_MODE: *Force Thirteen Live
+BREAKING_MODE: *Recon: Hurricane Greta (1956)
 LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ - Weather Cam
