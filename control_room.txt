@@ -7,6 +7,7 @@ TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Depression 03L
 DESCRIPTION_BANNER: Tropical Storm Watch issued from Altahama Sound, GA to Flagler Beach, FL
+Live Discussion at 00:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
