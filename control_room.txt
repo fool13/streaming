@@ -4,9 +4,9 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: Perth Hills, Western Australia - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
-HEADLINE_SECTION: OFF
+HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Next storm update at 12:00 UTC
+DESCRIPTION_BANNER: Service Inactive at the moment
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
