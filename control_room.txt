@@ -6,9 +6,9 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Storm Colin
-DESCRIPTION_BANNER: Next live discussion to follow at 22:00 UTC
+DESCRIPTION_BANNER: Latest on the third tropical storm of the year
 GLOBAL_WEATHER: ON
-WATERMARK: ON
+WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/passive.png
 TICKER_BANNER: OFF
 USTREAM: OFF
