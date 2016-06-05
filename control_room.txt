@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: Australia/Perth AWST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Service Inactive at the moment
+DESCRIPTION_BANNER: Service will resume at 12:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
