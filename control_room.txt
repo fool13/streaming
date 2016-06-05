@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Storm Colin
-DESCRIPTION_BANNER: We will return in a few moments
+DESCRIPTION_BANNER: Third tropical storm of the Atlantic has formed
 GLOBAL_WEATHER: ON
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/passive.png
