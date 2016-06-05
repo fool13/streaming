@@ -1,20 +1,20 @@
 BREAKING_MODE: *Force Thirteen Live
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: Perth Hills, Western Australia - Weather Cam
+LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
-TIME_ZONE: Australia/Brisbane AEST
+TIME_ZONE: Europe/London BST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Currently Inactive
 DESCRIPTION_BANNER: Service will resume at 12:00 UTC
 GLOBAL_WEATHER: ON
-WATERMARK: ON
+WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/passive.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/jasonHQ.html
+CONTENT_URL: http://www.force-13.com/private/redirect.html
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: ON
 FORECAST_HOUR: OFF
