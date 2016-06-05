@@ -16,7 +16,7 @@ USTREAM_ID: 00000
 CONTENT: ON
 CONTENT_URL: http://www.force-13.com/private/jasonHQ.html
 REFRESH_RATE: 1000000000000000
-HQ_WEATHER: ON
+HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
