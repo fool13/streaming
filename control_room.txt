@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Storm Colin
-DESCRIPTION_BANNER: Next live discussion to follow imminently
+DESCRIPTION_BANNER: Next live discussion to follow at 22:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
