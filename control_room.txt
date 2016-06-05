@@ -3,7 +3,7 @@ LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: Perth Hills, Western Australia - Weather Cam
 TIME_BANNER: ON
-TIME_ZONE: UTC UTC
+TIME_ZONE: Australia/Perth AWST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
 DESCRIPTION_BANNER: Service Inactive at the moment
