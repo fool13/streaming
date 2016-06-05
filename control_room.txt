@@ -7,7 +7,7 @@ TIME_ZONE: Australia/Perth AWST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Currently Inactive
 DESCRIPTION_BANNER: Service will resume at 12:00 UTC
-GLOBAL_WEATHER: OFF
+GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
 TICKER_BANNER: OFF
