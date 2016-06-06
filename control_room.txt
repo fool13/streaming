@@ -1,12 +1,12 @@
-BREAKING_MODE: *BREAKING NEWS
+BREAKING_MODE: *LATEST INFORMATION
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ - Weather Cam
+LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: FLORIDA TORNADO WARNING
-DESCRIPTION_BANNER: A tornado warning remains in effect until 05:30 PM EDT for northeastern Flagler County, Florida
+HEADING_BANNER: Australia Weather Scene
+DESCRIPTION_BANNER: Discussion on the weather situation across Australia
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
