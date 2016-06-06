@@ -1,22 +1,22 @@
 BREAKING_MODE: OFF
-LIVE_BANNER: ON
+LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: Old Faithful, Wyoming - Monitoring Cam
-TIME_BANNER: ON
+TIME_BANNER: OFF
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: OFF
 HEADING_BANNER: TD 01-E & Tropical Storm Colin
 DESCRIPTION_BANNER: Discussion on the two tropical systems
-GLOBAL_WEATHER: ON
-WATERMARK: ON
+GLOBAL_WEATHER: OFF
+WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logo.png
-TICKER_BANNER: ON
+TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
 CONTENT_URL: http://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
-HQ_WEATHER: ON
+HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
