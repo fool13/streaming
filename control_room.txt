@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Storm Colin & TD 01-E
+HEADING_BANNER: TD 01-E & Tropical Storm Colin
 DESCRIPTION_BANNER: More discussion on the cyclones at 17:00 EDT
 GLOBAL_WEATHER: ON
 WATERMARK: OFF
