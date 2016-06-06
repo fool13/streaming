@@ -1,9 +1,11 @@
-Pensacola, FL: 83&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Milton NAS, FL: 82&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Crestview, FL: 80&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Duke Field, FL: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Valparaiso, FL: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Mary Esther, FL: 82&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
-Panama City, FL: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
-Tyndall AFB, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png?HeavyRain
-Apalachicola, FL: 79&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Stornoway: 12.4&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png?Clear
+Aultbea: 12.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Glasgow/Bishopton: 14.7&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png?Clear
+Magilligan No 2: 14.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Rostherne No 2: 16.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png?Clear
+Weybourne: 9.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png?Fog
+Coleshill: 16.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png?Clear
+Milford Haven C.B.: 14.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png?Overcast
+Northolt: 16.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+St-Athan: 16.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Middle Wallop: 16.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
