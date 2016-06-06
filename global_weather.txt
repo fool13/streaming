@@ -30,3 +30,14 @@ Orlando INTL, FL: 79&deg;F https://apidev.accuweather.com/developers/Media/Defau
 Winter Haven, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
 Lakeland, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
 Bartow, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Ormond Beach, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Daytona Beach, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+New Smyrna Beach, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlySunny
+JFK Space Center, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Titusville, FL: 84&deg;F 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Cape Canaveral, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Patrick AFB, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Melbourne, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Vero Beach, FL: 86&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlySunny
+Ft. Pierce, FL: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Stuart, FL: 88&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlySunny
