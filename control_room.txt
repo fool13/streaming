@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Australia Weather Scene
-DESCRIPTION_BANNER: Discussion on the weather situation across Australia
+HEADING_BANNER: TD 01-E & Tropical Storm Colin
+DESCRIPTION_BANNER: Discussion on the two active systems
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
