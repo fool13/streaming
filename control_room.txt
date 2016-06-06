@@ -21,14 +21,15 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
-...RAIN AND GUSTY WINDS BEGINNING TO REACH THE WEST COAST OF FLORIDA...
-<span style="background:white;color:#004a79;padding:2px 4px;border-radius:4px;">TROPICAL STORM COLIN:</span> Location: 27.0°N 87.0°W &bull; Moving: NNE at 16 mph &bull; Min pressure: 1004 mb &bull; Max sustained: 50 mph &bull; As of 10:00 AM CDT Mon, Jun 6
-The Tropical Storm Watch from North of Altamaha Sound to South Santee River has been changed to a Tropical Storm Warning.
+...BANDS OF THUNDERSTORMS WITH GUSTY WINDS APPROACHING SOUTHWEST FLORIDA AND THE KEYS...
+<span style="background:white;color:#004a79;padding:2px 4px;border-radius:4px;">TROPICAL STORM COLIN:</span> Location: 27.7°N 86.5°W &bull; Moving: NNE at 17 mph &bull; Min pressure: 1004 mb &bull; Max sustained: 50 mph &bull; As of 1:00 PM CDT Mon, Jun 6
 A Tropical Storm Warning is in effect for Indian Pass to Englewood
-A Tropical Storm Watch is in effect for Sebastian Inlet, Florida to South Santee River, South Carolina
-<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> Colin is expected to produce rainfall amounts of 3 to 5 inches with isolated maximum totals of 8 inches possible across the northeastern Yucatan peninsula, western Cuba, western to northern Florida, southeastern Georgia, and coastal areas of the Carolinas through Tuesday.
+A Tropical Storm Warning is in effect for Sebastian Inlet, Florida to South Santee River, South Carolina
+<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> Colin is expected to produce rainfall amounts of 3 to 5
+inches with isolated maximum totals of 8 inches possible across the northeastern Yucatan peninsula, western Cuba, western to northern
+Florida, southeastern Georgia, and coastal areas of the Carolinas through Tuesday.
 <span style="text-decoration:underline;font-weight:bold;">STORM SURGE:</span> The combination of a storm surge and the tide will cause normally dry areas near the coast to be flooded by rising waters.
-<span style="text-decoration:underline;font-weight:bold;">WIND:</span> Tropical storm conditions are expected to first reach the Gulf coast within the warning area this afternoon, and the Atlantic coast within the warning area by early Tuesday.
+<span style="text-decoration:underline;font-weight:bold;">WIND:</span> Brief squalls with winds to near tropical storm force will be moving through portions of the Florida Keys this afternoon. Tropical storm conditions reached the west coast of the Florida peninsula this morning, and will continue through this evening. Tropical storm conditions are expected to reach the warning area along the Atlantic coast by early Tuesday.
 <span style="text-decoration:underline;font-weight:bold;">TORNADOES:</span> A few tornadoes are possible today and tonight across portions of Florida and far southern Georgia.
 www.force-13.com
 www.facebook.com/ForceThirteen
