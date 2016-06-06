@@ -21,15 +21,14 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
-<span style="background:white;color:#004a79;padding:2px 4px;">COLIN</span> Location: 23.6°N 87.8°W &bull; Moving: N at 9 mph &bull; Min pressure: 1003 mb &bull; Max sustained: 40 mph &bull; As of 10:00 PM CDT Sun, Jun 5
-The Tropical Storm Watch is changed to a Tropical Storm Warning from Altamaha Sound, Georgia to the Flagler/Volusia County Line, Florida.
-A Tropical Storm Warning has been issued south of the Flagler/Volusia County Line to Sebastian Inlet, Florida.
-A Tropical Storm Watch has been issued north of Altamaha Sound, Georgia to the South Santee River, South Carolina.
+<span style="background:white;color:#004a79;padding:2px 4px;border-radius:4px;">TROPICAL STORM COLIN:</span> Location: 25.2°N 87.4°W &bull; Moving: NNE at 14 mph &bull; Min pressure: 1004 mb &bull; Max sustained: 50 mph &bull; As of 4:00 AM CDT Mon, Jun 6
 A Tropical Storm Warning is in effect for Indian Pass to Englewood
-<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> Colin is expected to produce rainfall amounts of 3 to 5 inches with isolated maximum totals of 8 inches possible across the northeastern Yucatan peninsula, western Cuba, western Florida, eastern Georgia, and coastal areas of the Carolinas through Tuesday.
+A Tropical Storm Warning is in effect for Altamaha Sound to Sebastian Inlet
+A Tropical Storm Watch is in effect North of Altamaha Sound to South Santee River
+<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> Colin is expected to produce rainfall amounts of 3 to 5 inches with isolated maximum totals of 8 inches possible across the northeastern Yucatan peninsula, western Cuba, western to northern Florida, southeastern Georgia, and coastal areas of the Carolinas through Tuesday.
 <span style="text-decoration:underline;font-weight:bold;">STORM SURGE:</span> The combination of a storm surge and the tide will cause normally dry areas near the coast to be flooded by rising waters. The water could reach the following heights above ground if the peak surge occurs at the time of high tide.
-<span style="text-decoration:underline;font-weight:bold;">WIND:</span> Tropical storm conditions are expected to first reach the Gulf coast within the warning area by Monday afternoon, and the Atlantic coast within the warning area by early Tuesday. Tropical storm conditions are possible along the Atlantic coast within the watch area on Tuesday.
-<span style="text-decoration:underline;font-weight:bold;">TORNADOES:</span> A few tornadoes are possible on Monday across portions of Florida and far southern Georgia.
+<span style="text-decoration:underline;font-weight:bold;">WIND:</span> Tropical storm conditions are expected to first reach the Gulf coast within the warning area this afternoon, and the Atlantic coast within the warning area by early Tuesday. Tropical storm conditions are possible along the Atlantic coast within the watch area on Tuesday.
+<span style="text-decoration:underline;font-weight:bold;">TORNADOES:</span> A few tornadoes are possible today and tonight across portions of Florida and far southern Georgia.
 Next storm discussion at 08:00 EDT / 12:00 UTC
 www.force-13.com
 www.facebook.com/ForceThirteen
