@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: RECON: Hurricane David (1978)
-DESCRIPTION_BANNER: Radar observation of Hurricane David in 1978
+HEADING_BANNER: RECON: Hurricane David (1979)
+DESCRIPTION_BANNER: Radar observation of Hurricane David in 1979
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
