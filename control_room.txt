@@ -3,7 +3,7 @@ LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: Old Faithful, Wyoming - Monitoring Cam
 TIME_BANNER: ON
-TIME_ZONE: America/Los_Angeles MDT
+TIME_ZONE: America/Inuvik MDT
 HEADLINE_SECTION: OFF
 HEADING_BANNER: TD 01-E & Tropical Storm Colin
 DESCRIPTION_BANNER: Discussion on the two tropical systems
