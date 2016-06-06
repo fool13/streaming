@@ -34,7 +34,7 @@ Ormond Beach, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Defau
 Daytona Beach, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
 New Smyrna Beach, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlySunny
 JFK Space Center, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Titusville, FL: 84&deg;F 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Titusville, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
 Cape Canaveral, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
 Patrick AFB, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
 Melbourne, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
