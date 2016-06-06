@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: STAY TUNED
-DESCRIPTION_BANNER: More discussion on TD 01-E and TS Colin at 17:00 EDT
+HEADING_BANNER: 
+DESCRIPTION_BANNER: <span style="background:#004a79;color:white;padding:2px 4px;">STAY TUNED</span> More discussion on TD 01-E and TS Colin at 17:00 EDT
 GLOBAL_WEATHER: ON
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logo.png
