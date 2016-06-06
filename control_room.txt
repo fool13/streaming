@@ -9,7 +9,7 @@ HEADING_BANNER: Currently Inactive
 DESCRIPTION_BANNER: Next storm discussion at 08:00 EDT
 GLOBAL_WEATHER: ON
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/passive.png
+WATERMARK_URL: http://www.force-13.com/private/logo.png
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
