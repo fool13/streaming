@@ -5,5 +5,5 @@ Miami: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherI
 West Kendall: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
 Homestead: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
 Marathon: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-Boca Chica Nas: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Boca Chica N.A.S.: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
 Key West Int.: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
