@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Service inactive
-DESCRIPTION_BANNER: Next storm discussion at 08:00 EDT / 12:00 UTC
+DESCRIPTION_BANNER: Next storm discussion at 08:00 EDT
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
