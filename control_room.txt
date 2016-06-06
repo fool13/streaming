@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Storm Colin
-DESCRIPTION_BANNER: Discussion on Tropical Storm Colin
+HEADING_BANNER: Tropical Storm Colin & TD 01-E
+DESCRIPTION_BANNER: Discussion on tropical cyclones either side of North America
 GLOBAL_WEATHER: ON
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logo.png
