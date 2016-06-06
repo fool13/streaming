@@ -7,7 +7,7 @@ TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: OFF
 HEADING_BANNER: TD 01-E & Tropical Storm Colin
 DESCRIPTION_BANNER: Discussion on the two active systems
-GLOBAL_WEATHER: ON
+GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
 TICKER_BANNER: ON
