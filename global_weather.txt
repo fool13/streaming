@@ -6,4 +6,4 @@ Mary Esther: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/We
 Tri County: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png?MostlyCloudy
 Panama City: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
 Tyndall A.F.B.: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.png?LightRain
-Apalachicola: 80&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.pngLightRain
+Apalachicola: 80&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.png?LightRain
