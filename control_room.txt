@@ -3,10 +3,10 @@ LIVE_BANNER: ON
 LIVE_MODE: GOES-East
 LIVE_LOCATION: Colin Floater
 TIME_BANNER: ON
-TIME_ZONE: UTC UTC
+TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Service inactive
-DESCRIPTION_BANNER: Next storm discussion at 12:00 UTC
+DESCRIPTION_BANNER: Next storm discussion at 08:00 EDT / 12:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
@@ -30,7 +30,7 @@ A Tropical Storm Warning is in effect for Indian Pass to Englewood
 <span style="text-decoration:underline;font-weight:bold;">STORM SURGE:</span> The combination of a storm surge and the tide will cause normally dry areas near the coast to be flooded by rising waters. The water could reach the following heights above ground if the peak surge occurs at the time of high tide.
 <span style="text-decoration:underline;font-weight:bold;">WIND:</span> Tropical storm conditions are expected to first reach the Gulf coast within the warning area by Monday afternoon, and the Atlantic coast within the warning area by early Tuesday. Tropical storm conditions are possible along the Atlantic coast within the watch area on Tuesday.
 <span style="text-decoration:underline;font-weight:bold;">TORNADOES:</span> A few tornadoes are possible on Monday across portions of Florida and far southern Georgia.
-Next storm discussion at 12:00 UTC
+Next storm discussion at 08:00 EDT / 12:00 UTC
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
