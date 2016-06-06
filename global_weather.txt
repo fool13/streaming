@@ -1,10 +1,9 @@
-Pensacola: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Milton N.A.S: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Crestview: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Duke Field: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png
-Valparaiso: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
-Mary Esther: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
-Tri County: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png
-Panama City: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Tyndall A.F.B.: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.png
-Apalachicola: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Pensacola: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png?PartlyCloudy
+Crestview: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png?MostlyCloudy
+Duke Field: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png?Fair
+Valparaiso: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Mary Esther: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png?MostlyCloudy
+Tri County: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png?MostlyCloudy
+Panama City: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Tyndall A.F.B.: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.png?LightRain
+Apalachicola: 80&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.pngLightRain
