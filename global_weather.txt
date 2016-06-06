@@ -1,9 +1,10 @@
-Fort Myers: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
-SW Regional A.P.: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-Naples: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
-Miami: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-West Kendall: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-Homestead: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-Marathon: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-Boca Chica N.A.S.: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
-Key West Int.: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Pensacola: 80&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
+Milton N.A.S: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Crestview: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
+Duke Field: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png
+Valparaiso: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
+Mary Esther: 79&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Tri County: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png
+Panama City: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png
+Tyndall A.F.B.: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/39-s.png
+Apalachicola: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
