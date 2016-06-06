@@ -21,15 +21,17 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
-...BANDS OF THUNDERSTORMS WITH GUSTY WINDS APPROACHING SOUTHWEST FLORIDA AND THE KEYS...
-<span style="background:white;color:#004a79;padding:2px 4px;border-radius:4px;">TROPICAL STORM COLIN:</span> Location: 27.7°N 86.5°W &bull; Moving: NNE at 17 mph &bull; Min pressure: 1004 mb &bull; Max sustained: 50 mph &bull; As of 1:00 PM CDT Mon, Jun 6
+...FIRST TROPICAL DEPRESSION OF THE EAST PACIFIC SEASON FORMS NEAR THE COAST OF SOUTHERN MEXICO...
+<span style="background:white;color:#004a79;padding:2px 4px;border-radius:4px;">TROPICAL DEPRESSION ONE-E:</span> Location: 14.2°N 97.0°W &bull; Moving: NE at 7 mph &bull; Min pressure: 1006 mb &bull; Max sustained: 35 mph &bull; As of 4:00 PM CDT Mon, Jun 6
+A Tropical Storm Watch is in effect for Puerto Escondido to Boca De Pijijiapan
+<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> The depression is expected to produce total rain accumulations of 4 to 6 inches with isolated amounts of around 8 inches possible through Wednesday over the southern Mexican states of Oaxaca, Chiapas, Tabasco, and eastern Veracruz.These rains could produce life-threatening flash floods and mud slides, especially in areas of mountainous terrain.
+...HEAVY RAINS FROM COLIN SPREADING ACROSS MUCH OF FLORIDA... SOUTHERN GEORGIA...AND SOUTH CAROLINA...
+<span style="background:white;color:#004a79;padding:2px 4px;border-radius:4px;">TROPICAL STORM COLIN:</span> Location: 28.8°N 85.5°W &bull; Moving: NNE at 23 mph &bull; Min pressure: 1002 mb &bull; Max sustained: 50 mph &bull; As of 4:00 PM CDT Mon, Jun 6
 A Tropical Storm Warning is in effect for Indian Pass to Englewood
-A Tropical Storm Warning is in effect for Sebastian Inlet, Florida to South Santee River, South Carolina
-<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> Colin is expected to produce rainfall amounts of 3 to 5
-inches with isolated maximum totals of 8 inches possible across the northeastern Yucatan peninsula, western Cuba, western to northern
-Florida, southeastern Georgia, and coastal areas of the Carolinas through Tuesday.
+A Tropical Storm Warning is in effect for Sebastian Inlet, Florida to Oregon Inlet, North Carolina
+<span style="text-decoration:underline;font-weight:bold;">RAINFALL:</span> Colin is expected to produce rainfall amounts of 3 to 6 inches with isolated maximum totals of 8 inches possible across the northeastern Yucatan peninsula, western Cuba, northern Florida, southeastern Georgia, and coastal areas of the Carolinas through Tuesday.
 <span style="text-decoration:underline;font-weight:bold;">STORM SURGE:</span> The combination of a storm surge and the tide will cause normally dry areas near the coast to be flooded by rising waters.
-<span style="text-decoration:underline;font-weight:bold;">WIND:</span> Brief squalls with winds to near tropical storm force will be moving through portions of the Florida Keys this afternoon. Tropical storm conditions reached the west coast of the Florida peninsula this morning, and will continue through this evening. Tropical storm conditions are expected to reach the warning area along the Atlantic coast by early Tuesday.
+<span style="text-decoration:underline;font-weight:bold;">WIND:</span> Brief squalls with winds to near tropical storm force will be moving through portions of South Florida through this evening. Tropical storm conditions will continue across portions of the warning area along the west coast of the Florida peninsula through the evening. Tropical storm conditions are expected to reach the warning area along the Atlantic coast by overnight tonight.
 <span style="text-decoration:underline;font-weight:bold;">TORNADOES:</span> A few tornadoes are possible today and tonight across portions of Florida and far southern Georgia.
 www.force-13.com
 www.facebook.com/ForceThirteen
