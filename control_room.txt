@@ -1,11 +1,11 @@
-BREAKING_MODE: Tropical Storm Colin
+BREAKING_MODE: *Force Thirteen Live
 LIVE_BANNER: ON
-LIVE_MODE: GOES-East
-LIVE_LOCATION: Colin Floater
+LIVE_MODE: LIVE
+LIVE_LOCATION: F13 HQ - Weather Cam
 TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: HURRICANE HUNTER AIRCRAFT FINDS THAT COLIN IS STRONGER
+HEADING_BANNER: Currently Inactive
 DESCRIPTION_BANNER: Next storm discussion at 08:00 EDT
 GLOBAL_WEATHER: ON
 WATERMARK: ON
@@ -16,7 +16,7 @@ USTREAM_ID: 00000
 CONTENT: ON
 CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/03L/imagery/rb-animated.gif
 REFRESH_RATE: 1000000000000000
-HQ_WEATHER: OFF
+HQ_WEATHER: ON
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
