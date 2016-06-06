@@ -14,7 +14,7 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/camera.png?2
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/03L/imagery/rb-animated.gif
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: ON
 FORECAST_HOUR: OFF
