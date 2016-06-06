@@ -2,11 +2,11 @@ BREAKING_MODE: OFF
 LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ - Weather Cam
-TIME_BANNER: OFF
+TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: OFF
-HEADING_BANNER: Tropical Storm Colin
-DESCRIPTION_BANNER: Colin continues to strengthen in the Gulf of Mexico
+HEADING_BANNER: Hour Storm Update
+DESCRIPTION_BANNER: With your host Nathan Foy
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logo.png
