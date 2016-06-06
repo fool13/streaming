@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/New_York EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Australia weather scene
-DESCRIPTION_BANNER: Discussion the weather situation in the eastern states
+DESCRIPTION_BANNER: Discussion on the weather situation in the eastern states
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
