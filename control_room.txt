@@ -1,12 +1,12 @@
-BREAKING_MODE: *LATEST
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION:   
+LIVE_LOCATION: F13 HQ 
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Storm Colin
-DESCRIPTION_BANNER: Third tropical storm of the Atlantic has formed
+HEADING_BANNER: Force Thirteen's Open Mic
+DESCRIPTION_BANNER: Interactive live discussion from the team
 GLOBAL_WEATHER: ON
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/passive.png
