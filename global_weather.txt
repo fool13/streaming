@@ -1,23 +1,32 @@
-Melbourne, FL: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Fort Pierce, FL: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Orlando INTL, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Daytona Beach, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Vero Beach, FL: 83&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Patrick AFB, FL: 82&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-KSC, FL: 82&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Cape Canaveral, FL: 82&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Orlando EXEC, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Leesburg, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Pensacola, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Pensacola NAS, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Milton NAS, FL: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Crestview, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Duke Field, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Valparaiso, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Tri County, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Panama City, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Tyndall AFB, FL: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Apalachicola, FL: 80&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Marianna, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Tallahassee, FL: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Perry, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Lake City, FL: 72&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/12-s.png?Rain
+Gainesville, FL: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Williston, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?Fair
+Palatka, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Mayport NAS, FL: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Jacksonville, FL: 72&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Jax NAS, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
+Jax Cecil, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Fernandina Beach, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+St. Augustine, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Palm Coast, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Ocala, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Leesburg, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
 Sanford, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Winter Haven, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
-Tampa, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
-Palm Coast, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png?MostlyCloudy
-St. Augustine, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/14-s.png?LightRain
-Ocala, FL: 72&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Gainesville, FL: 74&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Jacksonville, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Tallahassee, FL: 77&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png?Rain
-Stuart, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-West Palm Beach, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Miami, FL: 83&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-Key West, FL: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png?MostlyCloudy
+Orlando EXEC, FL: 79&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlySunny
+Orlando INTL, FL: 79&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Winter Haven, FL: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
+Lakeland, FL: 75&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?PartlySunny
+Bartow, FL: 73&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
