@@ -10,7 +10,7 @@ DESCRIPTION_BANNER: Next storm discussion at 12:00 UTC
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/passive.png
-TICKER_BANNER: OFF
+TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
@@ -19,7 +19,7 @@ REFRESH_RATE: 1000000000000000
 HQ_WEATHER: ON
 FORECAST_HOUR: OFF
 
-<marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
+<marquee behavior="scroll" direction="left" style="padding-bottom:2px;opacity:0;">
 You're Watching Force Thirteen Live
 Service will resume at 15:00 UTC
 www.force-13.com
