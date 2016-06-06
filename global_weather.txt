@@ -1,11 +1,9 @@
-Lerwick (S. Screen): 7.6&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Aultbea: 10.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Glasgow/Bishopton: 12.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/08-s.png
-Eskdalemuir: 10.0&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png
-Belfast Int. Airport: 14.2&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Linton on Ouse: 9.7&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Rostherne No 2: 11.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Waddington: 7.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
-Middle Wallop: 13.1&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Exeter Airport 2: 11.5&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/33-s.png
-Camborne: 11.3&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/11-s.png
+Fort Myers: 76&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
+SW Regional A.P.: 78&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Naples: 81&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/38-s.png
+Miami: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+West Kendall: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Homestead: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Marathon: 85&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Boca Chica Nas: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
+Key West Int.: 84&deg;F https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/35-s.png
