@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: TD 01-E & Tropical Storm Colin
-DESCRIPTION_BANNER: Discussion on the two active systems
+DESCRIPTION_BANNER: Have any questions? use the handle #AskThirteen on Facebook and Twitter
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
