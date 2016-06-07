@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.nhc.noaa.gov/storm_graphics/EP01/refresh/EP0116R+gif/234922R_sm.gif
+CONTENT_URL: http://www.nhc.noaa.gov/storm_graphics/EP01/refresh/EP0116_PROB34_F120+gif/234922.gif
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
