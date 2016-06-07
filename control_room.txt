@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.tropicaltidbits.com/storminfo/91E_geps_latest.png
+CONTENT_URL: http://www.tropicaltidbits.com/storminfo/91E_gefs_latest.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
