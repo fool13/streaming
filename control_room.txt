@@ -1,7 +1,7 @@
 BREAKING_MODE: ON
 LIVE_BANNER: ON
-LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ - Weather Cam
+LIVE_MODE: <img src="http://vignette3.wikia.nocookie.net/force-13/images/8/87/Flag_of_Caldland.png/revision/latest/scale-to-width-down/100"> Caldland 0
+LIVE_LOCATION: <img src="http://vignette2.wikia.nocookie.net/force-13/images/0/00/Flag_of_Colombii.png/revision/latest/scale-to-width-down/100"> Colombii 0
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
