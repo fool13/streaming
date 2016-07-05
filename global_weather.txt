@@ -1,5 +1,5 @@
 Manila: 26&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlyClear
-Okinawa: 29&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png?Rain
+Okinawa: 29&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/01-s.png?Rain
 Shanghai: 27&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/03-s.png?MostlySunny
 Taipei: 29&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlyClear
 Tokyo: 23&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
