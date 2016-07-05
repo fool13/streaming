@@ -9,7 +9,7 @@ HEADING_BANNER: Typhoon Nepartak / PAGASA: Butchoy
 DESCRIPTION_BANNER: Nepartak becomes a category 4 typhoon in the Western Pacific
 GLOBAL_WEATHER: ON
 WATERMARK: ON
-WATERMARK_URL: http://www.force-13.com/private/black.png?http://www.force-13.com/private/activestorms.gif
+WATERMARK_URL: http://www.force-13.com/private/activestorms.gif?http://www.force-13.com/private/black.png
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
