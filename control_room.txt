@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: Asia/Taipei CST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Typhoon Nepartak / #ButchoyPH
+HEADING_BANNER: Typhoon Nepartak / PAGASA: Butchoy
 DESCRIPTION_BANNER: Nepartak becomes a category 4 typhoon in the Western Pacific
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
