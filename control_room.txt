@@ -21,7 +21,7 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
-<img src="http://www.force-13.com/tracker/img/NHem_C4.gif" style="height:60px;position:absolute;margin-top:-15px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nepartak 140mph
+<img src="http://www.force-13.com/tracker/img/NHem_C4.gif" style="height:60px;position:absolute;margin-top:-15px;"> <span style="background:#f22d00;padding:2px 4px;border-radius:0 5px 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nepartak 140mph</span>
 <img src="http://www.force-13.com/tracker/img/NHem_C2.gif" style="height:60px;position:absolute;margin-top:-15px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blas 100mph
 <img src="http://www.force-13.com/tracker/img/Ex.gif" style="height:60px;position:absolute;margin-top:-15px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agatha 30mph
 www.force-13.com
