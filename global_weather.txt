@@ -1,3 +1,3 @@
-Manila: 26&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/18-s.png?Rain
-Taipei: 30&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png?MostlyClear
-Tokyo: 21&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png?MostlyClear
+Manila: 26&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png?MostlyClear
+Taipei: 29&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/34-s.png?MostlyClear
+Tokyo: 22&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
