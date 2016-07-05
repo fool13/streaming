@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: Asia/Taipei CST
 HEADLINE_SECTION: ON
-HEADING_BANNER: STY Nepartak and MHU Blas
-DESCRIPTION_BANNER: Both systems are the first majors in their respected seasons for 2016
+HEADING_BANNER: Talkin' Tropics
+DESCRIPTION_BANNER: Super Typhoon Nepartak &amp; Major Hurricane Blas
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/activestorms.gif?05/07/2016_16:30_UTC
