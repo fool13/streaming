@@ -21,8 +21,8 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
-<span style="background: -moz-linear-gradient(left,  rgba(242,45,0,0) 0%, rgba(242,45,0,0.65) 100%);background: -webkit-linear-gradient(left,  rgba(242,45,0,0) 0%,rgba(242,45,0,0.65) 100%);background: linear-gradient(to right,  rgba(242,45,0,0) 0%,rgba(242,45,0,0.65) 100%);padding:2px 4px;border-radius:0 5px 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typhoon Nepartak: 140mph</span>
-<span style="background: -moz-linear-gradient(left,  rgba(242,194,6,0) 0%, rgba(242,194,6,0.65) 100%);background: -webkit-linear-gradient(left,  rgba(242,194,6,0) 0%,rgba(242,194,6,0.65) 100%);background: linear-gradient(to right,  rgba(242,194,6,0) 0%,rgba(242,194,6,0.65) 100%);padding:2px 4px;border-radius:0 5px 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hurricane Blas: 100mph</span>
+<span style="background: -moz-linear-gradient(left,  rgba(242,45,0,0) 0%, rgba(242,45,0,0.65) 100%);background: -webkit-linear-gradient(left,  rgba(242,45,0,0) 0%,rgba(242,45,0,0.65) 100%);background: linear-gradient(to right,  rgba(242,45,0,0) 0%,rgba(242,45,0,0.65) 100%);padding:2px 4px;border-radius:0 5px 5px 0;">Typhoon Nepartak: 140mph</span>
+<span style="background: -moz-linear-gradient(left,  rgba(242,194,6,0) 0%, rgba(242,194,6,0.65) 100%);background: -webkit-linear-gradient(left,  rgba(242,194,6,0) 0%,rgba(242,194,6,0.65) 100%);background: linear-gradient(to right,  rgba(242,194,6,0) 0%,rgba(242,194,6,0.65) 100%);padding:2px 4px;border-radius:0 5px 5px 0;">Hurricane Blas: 100mph</span>
 www.force-13.com
 www.facebook.com/ForceThirteen
 @ForceThirteen on Twitter
