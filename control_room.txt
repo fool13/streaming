@@ -22,7 +22,7 @@ FORECAST_HOUR: OFF
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
 <img src="http://www.force-13.com/tracker/img/NHem_C4.gif" style="height:60px;position:absolute;margin-top:-15px;"> <span style="background: -moz-linear-gradient(left,  rgba(242,45,0,0) 0%, rgba(242,45,0,0.65) 100%);background: -webkit-linear-gradient(left,  rgba(242,45,0,0) 0%,rgba(242,45,0,0.65) 100%);background: linear-gradient(to right,  rgba(242,45,0,0) 0%,rgba(242,45,0,0.65) 100%);padding:2px 4px;border-radius:0 5px 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nepartak 140mph</span>
-<img src="http://www.force-13.com/tracker/img/NHem_C2.gif" style="height:60px;position:absolute;margin-top:-15px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blas 100mph
+<img src="http://www.force-13.com/tracker/img/NHem_C2.gif" style="height:60px;position:absolute;margin-top:-15px;"> <span style="background: -moz-linear-gradient(left,  rgba(242,194,6,0) 0%, rgba(242,194,6,0.65) 100%);background: -webkit-linear-gradient(left,  rgba(242,194,6,0) 0%,rgba(242,194,6,0.65) 100%);background: linear-gradient(to right,  rgba(242,194,6,0) 0%,rgba(242,194,6,0.65) 100%);padding:2px 4px;border-radius:0 5px 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blas 100mph</span>
 <img src="http://www.force-13.com/tracker/img/Ex.gif" style="height:60px;position:absolute;margin-top:-15px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agatha 30mph
 www.force-13.com
 www.facebook.com/ForceThirteen
