@@ -1,12 +1,12 @@
-BREAKING_MODE: *BREAKING NEWS
+BREAKING_MODE: *FORCE THIRTEEN LIVE
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: Asia/Taipei CST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Depression Four-E
-DESCRIPTION_BANNER: New depression forms in the Eastern Pacific Ocean
+HEADING_BANNER: Typhoon Nepartak
+DESCRIPTION_BANNER: Storm continues to move closer to Taiwan
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/activestorms.gif?05/07/2016_16:30_UTC
