@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: Asia/Taipei CST
-HEADLINE_SECTION: ON
+HEADLINE_SECTION: OFF
 HEADING_BANNER: Super Typhoon Nepartak
 DESCRIPTION_BANNER: Weather buoy measured a pressure of 897mb inside Nepartak earlier today
 GLOBAL_WEATHER: OFF
