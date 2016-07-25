@@ -22,7 +22,6 @@ FORECAST_HOUR: OFF
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're Watching Force Thirteen Live
 Hurricane Week 2016 is going ahead this year. Dates for the largest event on the Force Thirteen calendar is yet to be announced, though is likely to take place in late November or early December. Get your votes in: http://www.force-13.com/hw2016.html
-Force Thirteen's <b>Storm Early Warning System</b> (S.E.W.S) is running hourly updates on <b>NEPARTAK</b>. See: http://www.force-13.com/sews.html
 Track the tropics! Visit the Force Thirteen Storm Tracker at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
