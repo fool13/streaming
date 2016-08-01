@@ -7,7 +7,7 @@ TIME_ZONE: America/Cayman EST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Caribbean Weather Desk
 DESCRIPTION_BANNER: Monitoring Invest 97L in the Caribbean Sea
-GLOBAL_WEATHER: OFF
+GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logo.png
 TICKER_BANNER: ON
