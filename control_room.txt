@@ -5,8 +5,8 @@ LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: America/Cayman EST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Caribbean Weather Desk
-DESCRIPTION_BANNER: Monitoring Invest 97L in the Caribbean Sea
+HEADING_BANNER: Tropical Storm Earl
+DESCRIPTION_BANNER: Earl maintains Tropical Storm Strength, Warnings issued for southern Bay of Campeche coast
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
