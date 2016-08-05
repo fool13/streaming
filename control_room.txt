@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Cayman EST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Storm Earl
-DESCRIPTION_BANNER: Earl maintains Tropical Storm Strength, Warnings issued for southern Bay of Campeche coast
+DESCRIPTION_BANNER: Earl maintains strength, Warnings issued for southern Bay of Campeche coast.
 GLOBAL_WEATHER: ON
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
