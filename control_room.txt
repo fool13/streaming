@@ -8,7 +8,7 @@ HEADLINE_SECTION: OFF
 HEADING_BANNER: Tropical Weather Update
 DESCRIPTION_BANNER: Fiona barely a tropical storm, new areas to watch this week
 GLOBAL_WEATHER: ON
-WATERMARK: ON
+WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
 TICKER_BANNER: ON
 USTREAM: OFF
