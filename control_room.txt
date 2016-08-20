@@ -4,9 +4,9 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: UTC
-HEADLINE_SECTION: OFF
-HEADING_BANNER: Caribbean Weather Desk
-DESCRIPTION_BANNER: Fiona barely a tropical storm, new areas to watch this week
+HEADLINE_SECTION: ON
+HEADING_BANNER: Tropical Weather Bulletin
+DESCRIPTION_BANNER: Fiona and the Western Pacific
 GLOBAL_WEATHER: ON
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
