@@ -3,7 +3,7 @@ LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
-TIME_ZONE: Coordinated Universal Time UTC
+TIME_ZONE: UTC
 HEADLINE_SECTION: OFF
 HEADING_BANNER: Caribbean Weather Desk
 DESCRIPTION_BANNER: Fiona barely a tropical storm, new areas to watch this week
