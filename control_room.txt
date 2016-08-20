@@ -4,16 +4,16 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: America/Cayman EST
-HEADLINE_SECTION: OFF
+HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Weather Update
 DESCRIPTION_BANNER: Fiona barely a tropical storm, new areas to watch this week
 GLOBAL_WEATHER: ON
-WATERMARK: OFF
+WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: OFF
+CONTENT: ON
 CONTENT_URL: http://www.force-13.com/private/black.png?http://www.force-13.com/private/logoCWD.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
