@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 Team
 TIME_BANNER: ON
 TIME_ZONE: America/Cayman EST
-HEADLINE_SECTION: ON
+HEADLINE_SECTION: OFF
 HEADING_BANNER: Caribbean Weather Desk
 DESCRIPTION_BANNER: Fiona barely a tropical storm, new areas to watch this week
 GLOBAL_WEATHER: ON
