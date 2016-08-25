@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tornado Activity
-DESCRIPTION_BANNER: Toledo, OH under a Tornado Warning
+DESCRIPTION_BANNER: Tornado Warnings in effect for Indiana and Ohio
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
