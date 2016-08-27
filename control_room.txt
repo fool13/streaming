@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Thunderstorm Activity
-DESCRIPTION_BANNER: Latest situation in the UK - Coverage begins at 15:00 UTC
+DESCRIPTION_BANNER: Latest situation in the UK
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
