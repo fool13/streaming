@@ -22,7 +22,8 @@ FORECAST_HOUR: OFF
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're watching Force Thirteen Live
 Tropical Storm Gaston is located in the Central Atlantic and could become a hurricane
-Typhoon Lionrock is maintaining Category 4 intensity in the Western Pacific
+Typhoon Lionrock is attempting to reintensify
+Invest 99L not likely to be a threat
 Track the tropics! Visit the Force Thirteen Storm Tracker at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
