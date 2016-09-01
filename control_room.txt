@@ -8,7 +8,7 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live
 DESCRIPTION_BANNER: Discussing Hurricane Gaston, Lester, Madeline, and more
 GLOBAL_WEATHER: OFF
-WATERMARK: OFF
+WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
 TICKER_BANNER: ON
 USTREAM: OFF
