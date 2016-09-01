@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: EST CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Hermine
-DESCRIPTION_BANNER: Tropical Storm Watches extend to New Jersey
+DESCRIPTION_BANNER: F13 SATOPS shows Hermine to have 80mph winds
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
