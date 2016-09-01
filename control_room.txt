@@ -3,10 +3,10 @@ LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
-TIME_ZONE: UTC UTC
+TIME_ZONE: EDT EDT
 HEADLINE_SECTION: OFF
 HEADING_BANNER: Force Thirteen Live
-DESCRIPTION_BANNER: Discussing Hurricane Gaston, Lester, Madeline, and more
+DESCRIPTION_BANNER: Hurricane Hermine
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
@@ -21,9 +21,9 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're watching Force Thirteen Live
-Major Hurricane Gaston moving off towards the northeast
-Major Hurricane Madeline nearing Hawaii
-Tropical Depression Nine located in the Gulf of Mexico
+Hurricane Gaston continues towards the northeast
+Tropical Storm Madeline and Hurricane Lester in the Central Pacific
+Hurricane Hermine approaches Florida
 Track the tropics! Visit the Force Thirteen Storm Tracker at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
