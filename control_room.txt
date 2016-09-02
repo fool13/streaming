@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: EST CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Hermine
-DESCRIPTION_BANNER: NHC confirms Hermine up to 80mph winds
+DESCRIPTION_BANNER: Hermine to make landfall later tonight
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
