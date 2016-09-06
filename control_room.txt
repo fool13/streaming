@@ -21,9 +21,7 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're watching Force Thirteen Live
-Hurricane Gaston continues towards the northeast
-Tropical Storm Madeline and Hurricane Lester in the Central Pacific
-Hurricane Hermine approaches Florida
+Hurricane Newton continues to strengthen. Outer rainbands approaching the Baja California Peninsula.
 Track the tropics! Visit the Force Thirteen Storm Tracker at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
