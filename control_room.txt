@@ -3,10 +3,10 @@ LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
-TIME_ZONE: America/New_York EST
+TIME_ZONE: Asia/Taipei CST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Caribbean Weather Desk
-DESCRIPTION_BANNER: Update on the Tropics
+HEADING_BANNER: Super Typhoon Meranti
+DESCRIPTION_BANNER: Typhoon Meranti (#FerdiePH) a severe threat
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
@@ -21,7 +21,7 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're watching Force Thirteen Live
-Hurricane Newton continues to strengthen. Outer rainbands approaching the Baja California Peninsula.
+Super Typhoon Meranti beginning to pass through the Luzon Strait
 Track the tropics! Visit the Force Thirteen Storm Tracker at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
