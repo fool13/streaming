@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: Asia/Taipei CST
 HEADLINE_SECTION: ON
 HEADING_BANNER: Super Typhoon Meranti
-DESCRIPTION_BANNER: Stay tuned to Force Thirteen - next update at 22:00 CST (14:00 UTC)
+DESCRIPTION_BANNER: Latest on the storm
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
@@ -21,7 +21,7 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're watching Force Thirteen Live
-Super Typhoon Meranti beginning to pass through the Luzon Strait
+Super Typhoon Meranti passing through the Luzon Strait
 Track the tropics! Visit the Force Thirteen Storm Tracker at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
