@@ -8,8 +8,8 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: Typhoon Megi Approaches Taiwan
 DESCRIPTION_BANNER: Latest information on the storm
 GLOBAL_WEATHER: OFF
-WATERMARK: OFF
-WATERMARK_URL: http://www.force-13.com/private/logoCWD.png
+WATERMARK: ON
+WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
