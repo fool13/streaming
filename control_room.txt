@@ -5,10 +5,10 @@ LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Typhoon Megi Approaches Taiwan
-DESCRIPTION_BANNER: Latest information on the storm
+HEADING_BANNER: Invest 97L a tropical threat
+DESCRIPTION_BANNER: Latest information on the system
 GLOBAL_WEATHER: OFF
-WATERMARK: OFF
+WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: ON
 USTREAM: OFF
