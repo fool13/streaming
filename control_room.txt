@@ -5,10 +5,10 @@ LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Weather Discussion
-DESCRIPTION_BANNER: Typhoon Megi and Invest 97L
+HEADING_BANNER: Hurricane Matthew
+DESCRIPTION_BANNER: Category 4 Matthew continues to intensify
 GLOBAL_WEATHER: OFF
-WATERMARK: OFF
+WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: ON
 USTREAM: OFF
