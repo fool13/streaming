@@ -8,7 +8,7 @@ HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: Hurricane Matthew still a Category 4 storm
 GLOBAL_WEATHER: OFF
-WATERMARK: OFF
+WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: ON
 USTREAM: OFF
