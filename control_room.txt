@@ -10,7 +10,7 @@ DESCRIPTION_BANNER: EYE OF EXTREMELY DANGEROUS HURRICANE MATTHEW MADE LANDFALL N
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
-TICKER_BANNER: OFF
+TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
@@ -21,8 +21,8 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You're watching Force Thirteen Live
-Hurricane Matthew remains a Category 4 storm as it approaches Haiti
-Chaba weakening from its Category 5 peak
+Hurricane Matthew has made landfall in Haiti with 145mph winds
+Chaba continues to weaken substantially as it heads towards Korea
 Track the tropics! Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
 www.force-13.com
