@@ -1,4 +1,4 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: *LANDFALL IMMINENT
 LIVE_BANNER: ON
 LIVE_MODE: !<!--LIVE-->
 LIVE_LOCATION: <!--F13 HQ-->Service Inactive - We Will Return at 16:00 UTC
@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: EYE OF CATEGORY 4 HURRICANE MATTHEW NEARING THE SOUTHWEST PENINSULA OF HAITI. LIFE-THREATENING RAIN, WIND, AND STORM SURGE SPREADING OVER PORTIONS OF HAITI.
+DESCRIPTION_BANNER: Matthew expected to make landfall over the Tiburon Peninsula within the next 2 hours.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://radar.weather.gov/lite/N0R/GMO_loop.gif?17http://www.force-13.com/private/black.png
+CONTENT_URL: http://www.force-13.com/private/matthew3.gif?17http://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
