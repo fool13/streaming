@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://weather.msfc.nasa.gov/GOES/GOES10452016278HtCotn.jpg?19http://www.force-13.com/private/black.png
+CONTENT_URL: http://weather.msfc.nasa.gov/GOES/GOES10452016278wqbHTO.jpg?19http://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
