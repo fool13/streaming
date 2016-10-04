@@ -1,4 +1,4 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: ON
 LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Tropical Storm Watch has been issued for Middle and Upper Keys, Florida
+DESCRIPTION_BANNER: Hurricane Watch issued for East coast of Florida
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
