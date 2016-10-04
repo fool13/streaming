@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/atlantic/winds/wg8sht.GIF?50http://www.force-13.com/private/black.png
+CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/atlantic/winds/wg8vor.GIF?50http://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
