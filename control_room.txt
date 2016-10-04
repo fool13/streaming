@@ -4,7 +4,7 @@ LIVE_MODE: !<!--LIVE-->
 LIVE_LOCATION: <!--F13 HQ-->Service Inactive - We Will Return at 16:00 UTC
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
-HEADLINE_SECTION: OFF
+HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: Matthew expected to make landfall over the Tiburon Peninsula within the next 2 hours.
 GLOBAL_WEATHER: OFF
