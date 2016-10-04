@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: ...MATTHEW BEARING DOWN ON HAITI... ...LIFE-THREATENING RAIN...WIND...AND STORM SURGE BEGINNING TO SPREAD OVER PORTIONS OF HAITI...
+DESCRIPTION_BANNER: MATTHEW BEARING DOWN ON HAITI. LIFE-THREATENING RAIN, WIND, AND STORM SURGE BEGINNING TO SPREAD OVER PORTIONS OF HAITI
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/carb/rgb-animated.gif?http://www.force-13.com/private/black.pnghttp://www.force-13.com/private/logoCWD.png
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/14L/imagery/rgb-animated.gif?http://www.force-13.com/private/black.pnghttp://www.force-13.com/private/logoCWD.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
