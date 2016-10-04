@@ -13,8 +13,8 @@ WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: OFF
-CONTENT_URL: http://www.force-13.com/private/black.png?http://www.force-13.com/private/logoCWD.png
+CONTENT: ON
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/14L/imagery/rbtop-animated.gif?http://www.force-13.com/private/black.pnghttp://www.force-13.com/private/logoCWD.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
