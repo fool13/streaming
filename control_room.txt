@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: OFF
-LIVE_MODE: Himawari-8
-LIVE_LOCATION: <!--F13 HQ-->Typhoon Chaba in the East China Sea
+LIVE_MODE: LIVE
+LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: OFF
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/21W/imagery/rb-animated.gif?http://www.force-13.com/private/black.pnghttp://www.force-13.com/private/logoCWD.png
+CONTENT_URL: http://www.force-13.com/private/matthew1.gif?http://www.force-13.com/private/black.pnghttp://www.force-13.com/private/logoCWD.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
