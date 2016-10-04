@@ -1,10 +1,10 @@
-BREAKING_MODE: LANDFALL IMMINENT
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: !<!--LIVE-->
 LIVE_LOCATION: <!--F13 HQ-->Service Inactive - We Will Return at 16:00 UTC
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
-HEADLINE_SECTION: ON
+HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: Matthew expected to make landfall over the Tiburon Peninsula within the hour.
 GLOBAL_WEATHER: OFF
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://weather.msfc.nasa.gov/GOES/GOES10372016278MHyltP.jpg?18http://www.force-13.com/private/black.png
+CONTENT_URL: http://radar.weather.gov/lite/N0R/GMO_loop.gif?19http://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
