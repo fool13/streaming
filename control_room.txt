@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: !
-LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
+LIVE_LOCATION: Service Inactive - We will return in less than 30 minutes.
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: OFF
