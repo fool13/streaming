@@ -1,12 +1,12 @@
-BREAKING_MODE: *NHC Update
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: !
 LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Matthew 5:00AM EDT
-DESCRIPTION_BANNER: Located at 21.1&deg;N 74.6&deg;W, moving north at 10mph, with winds of 125mph and a pressure of 962mb.
+HEADING_BANNER: Subtropical Depression Bransby
+DESCRIPTION_BANNER: A brief look at a rare system in the South-Western Indian Ocean.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/pr/h5-loop-rb.html
+CONTENT_URL: http://www.force-13.com/private/bransby.gif
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
