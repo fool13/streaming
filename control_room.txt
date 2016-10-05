@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/14L/imagery/rb-animated.gif?003
+CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/14L/imagery/rbtop-animated.gif?003
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
