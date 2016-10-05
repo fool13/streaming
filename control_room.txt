@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew 8:00 AM EDT
-DESCRIPTION_BANNER: HURRICANE MATTHEW HEADING FOR THE CENTRAL AND NORTHWESTERN BAHAMAS.
+DESCRIPTION_BANNER: Located at 21.5&deg;N 74.9&deg;W, moving north-northwest at 10mph, with winds of 115mph, and pressure of 964mb.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
