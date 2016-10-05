@@ -1,4 +1,4 @@
-BREAKING_MODE: NHC Update
+BREAKING_MODE: *NHC Update
 LIVE_BANNER: ON
 LIVE_MODE: !
 LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.insmet.cu/Radar/06Gran%20Piedra/gpdMAXw01a.gif?w
+CONTENT_URL: http://www.ssd.noaa.gov/goes/east/tatl/rgb-animated.gif?w
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
