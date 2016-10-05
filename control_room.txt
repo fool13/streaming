@@ -1,12 +1,12 @@
-BREAKING_MODE: *NHC Update
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Matthew 11:00 AM EDT
-DESCRIPTION_BANNER: Located at 21.8&deg;N 75.2&deg;W, moving northwest at 12mph, with winds of 120mph, and pressure of 962mb.
+HEADING_BANNER: Hurricane Matthew
+DESCRIPTION_BANNER: Hurricane Matthew intensifying near the Bahamas
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
