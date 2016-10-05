@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/goes/east/carb/rgb-animated.gif?http://www.insmet.cu/Radar/06Gran%20Piedra/gpdMAXw01a.gif
+CONTENT_URL: http://www.insmet.cu/Radar/06Gran%20Piedra/gpdMAXw01a.gif
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
