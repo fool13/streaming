@@ -34,11 +34,11 @@ Hurricane Matthew heads for the Central and Northwestern Bahamas
 <span style="font-weight:bold;padding:3px;color:white;background:blue;">A Tropical Storm Warning</span> is in effect for <span style="font-weight:bold;text-decoration:underline;">Chokoloskee, FL</span> to <span style="font-weight:bold;text-decoration:underline;">Golden Beach, FL</span>
 <span style="font-weight:bold;padding:3px;color:white;background:blue;">A Tropical Storm Warning</span> is in effect for <span style="font-weight:bold;text-decoration:underline;">Florida Keys</span> from <span style="font-weight:bold;text-decoration:underline;">Seven Mile Bridge, FL</span> eastwards
 <span style="font-weight:bold;padding:3px;color:white;background:blue;">A Tropical Storm Warning</span> is in effect for <span style="font-weight:bold;text-decoration:underline;">Florida Bay, FL</span>
-<span style="font-weight:bold;color:#004a75;background:#d8ebf9;">#JulianPH</span> Signal 1 Warning issued for <span style="font-weight:bold;text-decoration:underline;">Batanes</span>, <span style="font-weight:bold;text-decoration:underline;">Northern Cagayan</span> including <span style="font-weight:bold;text-decoration:underline;">Babuyan Group of Islands</span>, <span style="font-weight:bold;text-decoration:underline;">Apayao</span> and <span style="font-weight:bold;text-decoration:underline;">Ilocos Norte</span>
-Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone
-Have a question? use the handle <b>#AskThirteen</b> on many of our social media outlets.
-www.force-13.com
-www.facebook.com/ForceThirteen
-@ForceThirteen on Twitter
-Fool13 on Skype
+<span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">#JulianPH</span> Signal 1 Warning issued for <span style="font-weight:bold;text-decoration:underline;">Batanes</span>, <span style="font-weight:bold;text-decoration:underline;">Northern Cagayan</span> including <span style="font-weight:bold;text-decoration:underline;">Babuyan Group of Islands</span>, <span style="font-weight:bold;text-decoration:underline;">Apayao</span> and <span style="font-weight:bold;text-decoration:underline;">Ilocos Norte</span>
+Track the tropics; Visit Force Thirteen&apos;s <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">Disaster Tracker&#174;</span> at: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;http://www.force-13.com/tracker/?event=cyclone&nbsp;</span>
+Have a question? use the handle <b>#ForceThirteen</b> in the YouTube chatroom for us to respond.
+Visit our website: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.force-13.com</span>
+Monitor our Facebook page: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.facebook.com/ForceThirteen</span>
+Brownse through our tweets: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">@ForceThirteen on Twitter
+or add font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px"><i>&quot;&nbsp;Fool13&nbsp;&quot;</i></span> on Skype
 </marquee>
