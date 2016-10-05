@@ -1,12 +1,12 @@
-BREAKING_MODE: NHC Update
+BREAKING_MODE: PAGASA
 LIVE_BANNER: ON
 LIVE_MODE: !
 LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Matthew 8:00 AM EDT
-DESCRIPTION_BANNER: Located at 21.5&deg;N 74.9&deg;W, moving north-northwest at 10mph, with winds of 115mph and a pressure of 964mb.
+HEADING_BANNER: <!--Hurricane Matthew 8:00 AM EDT--> Tropical Depression JULIAN
+DESCRIPTION_BANNER: #JulianPH: Signal 1 Warning for Batanes, Northern Cagayan including Babuyan Group of Islands, Apayao and Ilocos Norte.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.insmet.cu/Radar/06Gran%20Piedra/gpdMAXw01a.gif?866
+CONTENT_URL: http://www.pagasa.dost.gov.ph/images/tracks/julian_16100506.png?866
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
