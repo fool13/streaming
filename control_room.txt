@@ -41,5 +41,5 @@ Visit our website: <span style="font-weight:bold;color:#004a75;background:#d8ebf
 Monitor our Facebook page: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.facebook.com/ForceThirteen</span>
 Brownse through our tweets: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">@ForceThirteen on Twitter</span>
 or add <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;"><i>&quot;&nbsp;Fool13&nbsp;&quot;</i></span> on Skype
-Ensure you&apos; up to date. Keep <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.hurricanes.gov</span> in your bookmarks.
+Ensure you&apos;re up to date. Keep <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.hurricanes.gov</span> in your bookmarks.
 </marquee>
