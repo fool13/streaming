@@ -5,8 +5,8 @@ LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: HURRICANE HUNTER AIRCRAFT FINDS CENTER OF MATTHEW NORTH OF EASTERN CUBA.
+HEADING_BANNER: Hurricane Matthew 2:00AM EDT
+DESCRIPTION_BANNER: Located at 20.7&deg;N 74.4&deg;W, moving north at 8mph with winds of 125mph and pressure of 962mb.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
