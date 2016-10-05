@@ -1,12 +1,12 @@
-BREAKING_MODE: PAGASA
+BREAKING_MODE: NHC Update
 LIVE_BANNER: ON
 LIVE_MODE: !
 LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: <!--Hurricane Matthew 8:00 AM EDT--> Tropical Depression JULIAN
-DESCRIPTION_BANNER: #JulianPH: Signal 1 Warning for Batanes, Northern Cagayan including Babuyan Group of Islands, Apayao and Ilocos Norte.
+HEADING_BANNER: Hurricane Matthew 8:00 AM EDT
+DESCRIPTION_BANNER: HURRICANE MATTHEW HEADING FOR THE CENTRAL AND NORTHWESTERN BAHAMAS.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
