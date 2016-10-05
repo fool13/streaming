@@ -10,7 +10,7 @@ DESCRIPTION_BANNER: Hurricane Watches for Florida upgraded to Hurricane Warnings
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
-TICKER_BANNER: ON
+TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
