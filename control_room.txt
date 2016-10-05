@@ -1,4 +1,4 @@
-BREAKING_MODE: ON
+BREAKING_MODE: *BREAKING NEWS
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
@@ -14,7 +14,7 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.ssd.noaa.gov/PS/TROP/floaters/14L/imagery/rgb-animated.gifhttp://www.force-13.com/private/black.png
+CONTENT_URL: http://www.force-13.com/private/black.png?http://www.ssd.noaa.gov/PS/TROP/floaters/14L/imagery/rgb-animated.gif
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
