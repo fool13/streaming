@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://my.sfwmd.gov/sfwmd/common/images/weather/plots/storm_14.gif?dt
+CONTENT_URL: http://www.tropicaltidbits.com/storminfo/14L_tracks_latest.png?dt
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
