@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://tropic.ssec.wisc.edu/real-time/mimic-tc/2016_14L/webManager/last48hrs.gif?004
+CONTENT_URL: http://my.sfwmd.gov/sfwmd/common/images/weather/plots/storm_14.gif?004
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
