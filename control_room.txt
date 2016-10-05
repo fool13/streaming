@@ -14,7 +14,7 @@ TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.nhc.noaa.gov/archive/2016/graphics/al14/AL142016_3W_028_0.GIF?bhttp://www.force-13.com/private/black.png
+CONTENT_URL: http://radar.weather.gov/lite/N0R/GMO_loop.gif?chttp://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
