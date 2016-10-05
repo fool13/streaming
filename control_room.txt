@@ -1,12 +1,12 @@
-BREAKING_MODE: *NHC Update
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: !
 LIVE_LOCATION: Service Inactive - We Will Return at 10:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Matthew 8:00 AM EDT
-DESCRIPTION_BANNER: Located at 21.5&deg;N 74.9&deg;W, moving north-northwest at 10mph, with winds of 115mph, and pressure of 964mb.
+HEADING_BANNER: Service Inactive
+DESCRIPTION_BANNER: We Will Return Shortly.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
