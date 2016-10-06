@@ -1,12 +1,12 @@
 BREAKING_MODE: OFF
-LIVE_BANNER: ON
-LIVE_MODE: !
-LIVE_LOCATION: Service Inactive - We will return at 10:00am EDT
+LIVE_BANNER: OFF
+LIVE_MODE: LIVE
+LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Hurricane Warnings extended to Fernandina Beach, Florida
+DESCRIPTION_BANNER: Hurricane Matthew is intensifying over the Bahamas
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
