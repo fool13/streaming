@@ -1,4 +1,4 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: ON
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Hurricane Matthew remains a Category 3 storm
+DESCRIPTION_BANNER: Hurricane Warnings extended to Fernandina Beach, Florida
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
