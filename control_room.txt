@@ -8,7 +8,7 @@ HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: Hurricane Matthew is intensifying over the Bahamas
 GLOBAL_WEATHER: OFF
-WATERMARK: ON
+WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: OFF
 USTREAM: OFF
