@@ -6,14 +6,14 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Hurricane Matthew now a Category 4 with winds of 140mph
+DESCRIPTION_BANNER: Haiti Death toll reaches 108
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: ON
+CONTENT: OFF
 CONTENT_URL: http://members.iinet.net.au/~larrymudd/automated.html
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
