@@ -13,8 +13,8 @@ WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: OFF
-CONTENT_URL: http://members.iinet.net.au/~larrymudd/automated.html
+CONTENT: ON
+CONTENT_URL: http://www.force-13.com/private/satrad.html
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
