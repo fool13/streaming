@@ -1,4 +1,4 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: ON
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Hurricane Matthew is intensifying over the Bahamas
+DESCRIPTION_BANNER: Hurricane Matthew now a Category 4 with winds of 140mph
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
