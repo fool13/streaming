@@ -4,17 +4,17 @@ LIVE_MODE: !
 LIVE_LOCATION: Service Inactive - We will return at 10:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
-HEADLINE_SECTION: ON
+HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: Hurricane Warnings extended to Fernandina Beach, Florida
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
-TICKER_BANNER: ON
+TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/black.png?http://www.insmet.cu/Radar/06Gran%20Piedra/gpdMAXw01a.gif
+CONTENT_URL: http://members.iinet.net.au/~larrymudd/automated.html
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
