@@ -14,20 +14,15 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/rad_sat3.html
+CONTENT_URL: http://www.force-13.com/private/rad_sat4.html
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-NHC: ...EYE OF MATTHEW NOW NORTHWEST OF GRAND BAHAMA... ...9 PM EDT POSITION UPDATE...
-SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION: LOCATION...26.6&deg;N 78.9&deg;W
-ABOUT 15 MI...25 KM WNW OF FREEPORT GRAND BAHAMA ISLAND
-ABOUT 75 MI...120 KM E OF WEST PALM BEACH FLORIDA
-MAXIMUM SUSTAINED WINDS...130 MPH...210 KM/H
-PRESENT MOVEMENT...NW OR 325 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...939 MB...27.73 INCHES
+NHC: ...MATTHEW STILL PRODUCING STRONG WINDS OVER GRAND BAHAMA...
+SUMMARY OF 1000 PM EDT...0200 UTC...INFORMATION: LOCATION...27.0&deg;N 79.1&deg;W
 WATCHES AND WARNINGS: The Hurricane Warning has been changed to a Tropical Storm Warning from south of Boca Raton, Florida, to north of Golden Beach.
 The Tropical Warning has been discontinued south of Ocean Reef,Florida, to Chokoloskee.
 The Tropical Storm Watch has been discontinued south of Englewood to Chokoloskee.
