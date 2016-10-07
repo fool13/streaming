@@ -13,25 +13,31 @@ WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
-CONTENT: OFF
-CONTENT_URL: http://www.force-13.com/private/automated5.html
+CONTENT: ON
+CONTENT_URL: http://www.force-13.com/private/radar_satellite.html
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-NHC: ...MATTHEW STILL PRODUCING STRONG WINDS OVER GRAND BAHAMA...
-SUMMARY OF 1000 PM EDT...0200 UTC...INFORMATION: LOCATION...27.0&deg;N 79.1&deg;W
-WATCHES AND WARNINGS: The Hurricane Warning has been changed to a Tropical Storm Warning from south of Boca Raton, Florida, to north of Golden Beach.
-The Tropical Warning has been discontinued south of Ocean Reef,Florida, to Chokoloskee.
-The Tropical Storm Watch has been discontinued south of Englewood to Chokoloskee.
-A Hurricane Warning is in effect for... Northwestern Bahamas, including the Abacos, Andros Island, Berry Islands, Bimini, Eleuthera, Grand Bahama Island, and New Providence | Boca Raton to South Santee River | Lake Okeechobee.
-A Tropical Storm Warning is in effect for... Chokoloskee to Golden Beach | Florida Keys from Seven Mile Bridge eastward | Florida Bay | Anclote River to Suwannee River | North of South Santee River to Surf City.
-A Tropical Storm Watch is in effect for... Ocean Reef to south of Boca Raton | Florida Keys from Seven Mile Bridge eastward | Florida Bay | Anclote River to Suwannee River | North of South Santee River to Surf City.
-A Tropical Storm Watch is in effect for... Englewood to Anclote River.
-At 800 PM EDT (0000 UTC), the eye of Hurricane Matthew was located over the western end of Grand Bahama Island near latitude 26.6 North, longitude 78.9 West. The hurricane is moving toward the northwest near 13 mph (20 km/h), and this general motion is expected to continue tonight with a turn toward the north-northwest early Friday.  On the forecast track, the eye of Matthew should move away from Grand Bahama Island during the next few hours, and move close to or over the east coast of the Florida peninsula through Friday night. Reports from a NOAA Hurricane Hunter aircraft indicate that maximum sustained winds are now near 130 mph (210 km/h) with higher gusts. Matthew is a category 4 hurricane on the Saffir-Simpson Hurricane Wind Scale.  Some fluctuations in intensity are likely while the hurricane moves toward the coast of Florida.
-Hurricane-force winds extend outward up to 60 miles (95 km) from the center and tropical-storm-force winds extend outward up to 185 miles (295 km).  Settlement Point in the Bahamas recently reported a sustained wind of 79 mph (128 km/h) with a gust of 105 mph (169 km/hr).  The Lake Worth Pier near Palm Beach, Florida, recently reported a sustained wind of 46 mph (74 km/h) and a wind gust of 60 mph (96 km/h).
+NHC: ...9 AM EDT POSITION UPDATE... ...MATTHEW'S EYEWALL BRUSHING THE COAST OF NORTH-CENTRAL FLORIDA...
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION: LOCATION...28.9&deg;N 80.3&deg;W
+ABOUT 35 MI...55 KM NNE OF CAPE CANAVERAL FLORIDA
+ABOUT 45 MI...75 KM ESE OF DAYTONA BEACH FLORIDA
+MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
+PRESENT MOVEMENT...NNW OR 330 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...944 MB...27.86 INCHES
+WATCHES AND WARNINGS: The Tropical Storm Warning along the east coast of Florida south of Jupiter Inlet has been discontinued.
+The Hurricane Warning from north of Jupiter Inlet to Sebastian Inlet has been changed to a Tropical Storm Warning.
+The government of the Bahamas has discontinued the Hurricane Warning for the Bahamas.
+A Hurricane Warning is in effect for... Sebastian Inlet to South Santee River.
+A Tropical Storm Warning is in effect for... Jupiter Inlet to Sebastian Inlet | Anclote River to Suwannee River | North of South Santee River to Surf City.
+A Tropical Storm Watch is in effect for... Anna Maria Island to Anclote River.
+At 800 AM EDT (1200 UTC), the eye of Hurricane Matthew was located near latitude 28.9 North, longitude 80.3 West. Matthew is moving toward the north-northwest near 13 mph (20 km/h), and this general motion is expected to continue today. A turn toward the north is expected tonight or Saturday.  On the forecast track, the center of Matthew will be moving near or over the east coast of the Florida peninsula through tonight, and near or over the coasts of Georgia and South Carolina on Saturday.
+Maximum sustained winds are near 120 mph (195 km/h) with higher gusts.  Matthew is a category 3 hurricane on the Saffir-Simpson Hurricane Wind Scale.  Although weakening is forecast during the next 48 hours, Matthew is expected to be a category 3 hurricane as it moves near the coast of Florida today.
+Hurricane-force winds extend outward up to 60 miles (95 km) from the center, and tropical-storm-force winds extend outward up to 185 miles (295 km).  Cape Canaveral recently reported and wind gust to 97 mph (155 km/h), and Daytona Beach reported a wind gust of 67 mph (110 km/h).
+The latest minimum central pressure reported by the reconnaissance aircraft was 944 mb (27.86 inches).
 Track the tropics; Visit Force Thirteen&apos;s <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">Disaster Tracker&#174;</span> at: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;http://www.force-13.com/tracker/?event=cyclone&nbsp;</span>
 Have a question? use the handle <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;#ForceThirteen&nbsp;</span> in the YouTube chatroom for us to respond.
 Visit our website: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.force-13.com</span>
