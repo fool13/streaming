@@ -1,6 +1,6 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
-LIVE_MODE: !
+LIVE_MODE: &#9888;
 LIVE_LOCATION: Service Inactive - We will return at 1600 EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
