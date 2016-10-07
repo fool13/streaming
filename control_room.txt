@@ -4,13 +4,13 @@ LIVE_MODE: &#9888;
 LIVE_LOCATION: Service Inactive - We will return at 1600 EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
-HEADLINE_SECTION: ON
+HEADLINE_SECTION: OFF
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: 842 lives lost in Haiti due to Hurricane Matthew, local officials.
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
-TICKER_BANNER: ON
+TICKER_BANNER: OFF
 USTREAM: OFF
 USTREAM_ID: 00000
 CONTENT: ON
