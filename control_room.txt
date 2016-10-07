@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Matthew approaches Florida and the northern Bahamas
+DESCRIPTION_BANNER: Matthew over the western end of Grand Bahama. Tropical Storm Conditions spreading onto Florida&apos;s east coast.
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -21,22 +21,22 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-NHC: ...EYE OF EXTREMELY DANGEROUS HURRICANE MATTHEW ABOUT TO HIT FREEPORT IN THE BAHAMAS... ...POTENTIALLY DISASTROUS IMPACTS FOR FLORIDA...
-SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION: LOCATION...26.2&deg;N 78.6&deg;W ABOUT 25 MI...40 KM SSE OF FREEPORT GRAND BAHAMA ISLAND
-ABOUT 100 MI...160 KM ESE OF WEST PALM BEACH FLORIDA
-MAXIMUM SUSTAINED WINDS...140 MPH...220 KM/H
+NHC: ...EYE OF EXTREMELY DANGEROUS HURRICANE MATTHEW OVER THE WESTERN END OF GRAND BAHAMA ISLAND... ...TROPICAL STORM CONDITIONS SPREADING ONTO THE FLORIDA EAST COAST...
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION: LOCATION...26.6&deg;N 78.9&deg;W
+ABOUT 15 MI...25 KM WNW OF FREEPORT GRAND BAHAMA ISLAND
+ABOUT 75 MI...120 KM E OF WEST PALM BEACH FLORIDA
+MAXIMUM SUSTAINED WINDS...130 MPH...210 KM/H
 PRESENT MOVEMENT...NW OR 325 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...938 MB...27.70 INCHES
-WATCHES AND WARNINGS: The Hurricane Warning has been extended northward to South Santee River, South Carolina.
-A Tropical Storm Warning has been issued from north of South Santee River to Surf City, North Carolina.
-The Government of the Bahamas has discontinued the Hurricane Warning for the Central Bahamas.
-SUMMARY OF WATCHES AND WARNINGS IN EFFECT: A Hurricane Warning is in effect for... Northwestern Bahamas, including the Abacos, Andros Island, Berry Islands, Bimini, Eleuthera, Grand Bahama Island, and New Providence | North of Golden Beach to South Santee River | Lake Okeechobee.
-A Tropical Storm Warning is in effect for... Chokoloskee to Golden Beach | Florida Keys from Seven Mile Bridge eastward | Florida Bay | Anclote River to Suwannee River | North of South Santee River to Surf City
-A Tropical Storm Watch is in effect for... North of Chokoloskee to Anclote River.
-At 500 PM EDT (2100 UTC), the eye of Hurricane Matthew was located near latitude 26.2 North, longitude 78.6 West. The hurricane is moving toward the northwest near 14 mph (22 km/h), and this general motion is expected to continue tonight with a turn toward the north-northwest early Friday.  On the forecast track, the eye of Matthew should move near or over Freeport in the Bahamas in the next hour or so, and move close to or over the east coast of the Florida peninsula through Friday night.
-Maximum sustained winds are near 140 mph (220 km/h) with higher gusts.  Matthew is a category 4 hurricane on the Saffir-Simpson Hurricane Wind Scale.  Some fluctuations in intensity are likely while the hurricane moves toward the coast of Florida.
-Hurricane-force winds extend outward up to 60 miles (95 km) from the center and tropical-storm-force winds extend outward up to 185 miles (295 km).  Settlement Point in the Bahamas, recently reported a sustained wind of 54 mph (87 km/h) with a gust of 62 mph (100 km/hr).
-The minimum central pressure reported by a NOAA Hurricane Hunter plane was 938 mb (27.70 inches).
+MINIMUM CENTRAL PRESSURE...939 MB...27.73 INCHES
+WATCHES AND WARNINGS: The Hurricane Warning has been changed to a Tropical Storm Warning from south of Boca Raton, Florida, to north of Golden Beach.
+The Tropical Warning has been discontinued south of Ocean Reef,Florida, to Chokoloskee.
+The Tropical Storm Watch has been discontinued south of Englewood to Chokoloskee.
+A Hurricane Warning is in effect for... Northwestern Bahamas, including the Abacos, Andros Island, Berry Islands, Bimini, Eleuthera, Grand Bahama Island, and New Providence | Boca Raton to South Santee River | Lake Okeechobee.
+A Tropical Storm Warning is in effect for... Chokoloskee to Golden Beach | Florida Keys from Seven Mile Bridge eastward | Florida Bay | Anclote River to Suwannee River | North of South Santee River to Surf City.
+A Tropical Storm Watch is in effect for... Ocean Reef to south of Boca Raton | Florida Keys from Seven Mile Bridge eastward | Florida Bay | Anclote River to Suwannee River | North of South Santee River to Surf City.
+A Tropical Storm Watch is in effect for... Englewood to Anclote River.
+At 800 PM EDT (0000 UTC), the eye of Hurricane Matthew was located over the western end of Grand Bahama Island near latitude 26.6 North, longitude 78.9 West. The hurricane is moving toward the northwest near 13 mph (20 km/h), and this general motion is expected to continue tonight with a turn toward the north-northwest early Friday.  On the forecast track, the eye of Matthew should move away from Grand Bahama Island during the next few hours, and move close to or over the east coast of the Florida peninsula through Friday night. Reports from a NOAA Hurricane Hunter aircraft indicate that maximum sustained winds are now near 130 mph (210 km/h) with higher gusts. Matthew is a category 4 hurricane on the Saffir-Simpson Hurricane Wind Scale.  Some fluctuations in intensity are likely while the hurricane moves toward the coast of Florida.
+Hurricane-force winds extend outward up to 60 miles (95 km) from the center and tropical-storm-force winds extend outward up to 185 miles (295 km).  Settlement Point in the Bahamas recently reported a sustained wind of 79 mph (128 km/h) with a gust of 105 mph (169 km/hr).  The Lake Worth Pier near Palm Beach, Florida, recently reported a sustained wind of 46 mph (74 km/h) and a wind gust of 60 mph (96 km/h).
 Track the tropics; Visit Force Thirteen&apos;s <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">Disaster Tracker&#174;</span> at: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;http://www.force-13.com/tracker/?event=cyclone&nbsp;</span>
 Have a question? use the handle <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;#ForceThirteen&nbsp;</span> in the YouTube chatroom for us to respond.
 Visit our website: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">www.force-13.com</span>
