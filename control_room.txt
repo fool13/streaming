@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: !
-LIVE_LOCATION: We will return with a bulletin on Matthew at 3:00am EDT
+LIVE_LOCATION: We will return with a bulletin on Matthew at 6:00am EDT
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: OFF
