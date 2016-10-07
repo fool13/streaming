@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Matthew over the western end of Grand Bahama. Tropical Storm Conditions spreading onto Florida&apos;s east coast.
+DESCRIPTION_BANNER: Eye of Matthew northwest of Grand Bahama.
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
