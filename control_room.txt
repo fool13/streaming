@@ -21,20 +21,22 @@ FORECAST_HOUR: OFF
 
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-NHC: SEVERE HURRICANE MATTHEW LASHING THE NORTHEAST COAST OF FLORIDA.
-SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION: LOCATION...29.7&deg;N 80.7&deg;W
-ABOUT 40 MI...60 KM ESE OF ST. AUGUSTINE FLORIDA
-ABOUT 60 MI...95 KM SE OF JACKSONVILLE BEACH FLORIDA
-MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
-PRESENT MOVEMENT...NNW OR 345 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...947 MB...27.97 INCHES
-A Hurricane Warning is in effect for... Cocoa Beach to Surf City.
+NHC: HURRICANE MATTHEW CAUSES DEVASTATION ALONG THE NORTHEAST COAST OF FLORIDA.
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION: LOCATION...30.2&deg;N 80.7&deg;W
+ABOUT 40 MI...70 KM E OF JACKSONVILLE BEACH FLORIDA
+ABOUT 135 MI...215 KM S OF SAVANNAH GEORGIA
+MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...948 MB...28.00 INCHES
+All coastal warnings have been discontinued south of the Volusia/Brevard county line.
+The Hurricane Warning from the Volusia/Brevard county line to the Flagler/Volusia county line has been changed to a Tropical Storm Warning.
+A Hurricane Warning is in effect for... North of Flagler/Volusia county line to Surf City.
 A Hurricane Watch is in effect for... North of Surf City to Cape Lookout.
-A Tropical Storm Warning is in effect for... Sebastian Inlet to Cocoa Beach &bull; North of Surf City to Duck &bull; Pamlico and Albemarle Sounds.
-At 200 PM EDT (1800 UTC), the eye of Hurricane Matthew was located near latitude 29.7 North, longitude 80.7 West. Matthew is moving toward the north-northwest near 13 mph (20 km/h), and this general motion is expected to continue today. A turn toward the north is expected tonight or Saturday.  On the forecast track, the center of Matthew will continue to move near or over the coast of northeast Florida and Georgia through tonight, and near or over the coast of South Carolina on Saturday.
-Maximum sustained winds are near 115 mph (185 km/h) with higher gusts. Matthew is a category 3 hurricane on the Saffir-Simpson Hurricane Wind Scale.  Although weakening is forecast during the next 48 hours, Matthew is expected to remain a hurricane until it begins to move away from the United States on Sunday.
-Hurricane-force winds extend outward up to 60 miles (95 km) from the center and tropical-storm-force winds extend outward up to 185 miles (295 km).  A wind gust to 84 mph (135 km/h) was recently reported at Ponte Vedra, and a coastal marine observing station at St. Augustine recently measured a wind gust of 85 mph (137 km/h). A tidal gauge at Fernandina Beach reported a storm surge inundation of 3.11 feet above mean higher high water.
-The latest minimum central pressure reported by an Air Force Hurricane Hunter plane was 947 mb (27.97 inches).
+A Tropical Storm Warning is in effect for... Volusia/Brevard county line to the Flagler/Volusia county line &bull; North of Surf City to Duck &bull; Pamlico and Albemarle Sounds.
+At 500 PM EDT (2100 UTC), the eye of Hurricane Matthew was located near latitude 30.2 North, longitude 80.7 West.  Matthew is moving toward the north near 12 mph (19 km/h), and this motion is expected to continue tonight.  A turn toward toward the north-northeast and then to the northeast is expected on Saturday.  On the forecast track, the center of Matthew will continue to move near or over the coast of northeast Florida and Georgia through tonight, and near or over the coast of South Carolina on Saturday.
+Maximum sustained winds are near 110 mph (175 km/h) with higher gusts.  Although weakening is forecast during the next 48 hours, Matthew is expected to remain a hurricane until it begins to move away from the southeastern United States on Sunday.
+Hurricane-force winds extend outward up to 60 miles (95 km) from the center and tropical-storm-force winds extend outward up to 185 miles (295 km).  A private weather station in Jacksonville recently reported a wind gust of 82 mph (131 km/h).
+The minimum central pressure recently reported by NOAA and Air Force Hurricane Hunter planes was 948 mb (28.00 inches).
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;#ForceThirteen&nbsp;</span> in the YouTube chatroom for us to respond.
 Visit our website: www.force-13.com
