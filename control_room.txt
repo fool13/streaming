@@ -1,4 +1,4 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: @Reuters
 LIVE_BANNER: ON
 LIVE_MODE: &#9888;
 LIVE_LOCATION: Service Inactive - We will return at 1600 EDT
@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Death toll in Haiti reaches 842
+DESCRIPTION_BANNER: 842 lives lost in Haiti due to Hurricane Matthew, local officials.
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
