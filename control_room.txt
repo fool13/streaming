@@ -1,12 +1,12 @@
 BREAKING_MODE: OFF
-LIVE_BANNER: ON
+LIVE_BANNER: OFF
 LIVE_MODE: LIVE
-LIVE_LOCATION: Myrtle Beach, SC
+LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
-HEADLINE_SECTION: OFF
+HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: Flash Flood Warnings extended to cover large parts of Georgia and South Carolina
+DESCRIPTION_BANNER: The latest updates on the storm at 5:00pm EDT
 GLOBAL_WEATHER: OFF
 WATERMARK: OFF
 WATERMARK_URL: http://www.force-13.com/private/black.png
