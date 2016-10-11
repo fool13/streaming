@@ -8,7 +8,7 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Matthew
 DESCRIPTION_BANNER: The latest updates on the storm
 GLOBAL_WEATHER: OFF
-WATERMARK: OFF
+WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
 TICKER_BANNER: OFF
 USTREAM: OFF
