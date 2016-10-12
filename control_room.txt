@@ -1,12 +1,12 @@
-BREAKING_MODE: ON
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ
+LIVE_LOCATION: NEW ORLEANS, LA
 TIME_BANNER: ON
 TIME_ZONE: America/Nassau EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Matthew
-DESCRIPTION_BANNER: The latest updates on the storm
+HEADING_BANNER: Hurricane Nicole
+DESCRIPTION_BANNER: On Track for Near-Bermuda Pass
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -21,21 +21,6 @@ FORECAST_HOUR: ON
  
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-NHC: EYE OF HURRICANE MATTHEW CONTINUING NORTHWARD JUST OFF OF THE COAST OF GEORGIA. STORM SURGE FLOODING CONTINUES IN FLORIDA AND GEORGIA.
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION: LOCATION...31.2&deg;N 80.5&deg;W
-BOUT 70 MI...115 KM SSE OF SAVANNAH GEORGIA
-ABOUT 115 MI...185 KM SSW OF CHARLESTON SOUTH CAROLINA
-MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
-PRESENT MOVEMENT...N OR 10 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...948 MB...28.00 INCHES
-The Hurricane Warning is changed to a Tropical Storm Warning from north of Flagler/Volusia county line to Fernandina Beach, Florida.
-A Hurricane Warning is in effect for... North of Fernandina Beach to Surf City.
-A Hurricane Watch is in effect for... North of Surf City to Cape Lookout.
-A Tropical Storm Warning is in effect for... North of Surf City to Duck &bull; Pamlico and Albemarle Sounds &bull; north of Flagler/Volusia county line to Fernandina Beach.
-At 1100 PM EDT (0300 UTC), the center of Hurricane Matthew was located near latitude 31.2 North, longitude 80.5 West. Matthew is moving toward the north near 12 mph (19 km/h) and this motion is expected to continue tonight.  A turn toward toward the north-northeast and then to the northeast is expected on Saturday. On the forecast track, the center of Matthew will continue to move near or over the coast of Georgia through tonight, near or over the coast of South Carolina later tonight and Saturday, and near the coast of southern North Carolina on Saturday night.
-Maximum sustained winds are near 105 mph (165 km/h) with higher gusts.  Although weakening is forecast during the next 48 hours, Matthew is expected to remain a hurricane while the center is near the coast.
-Hurricane-force winds extend outward up to 60 miles (95 km) from the center and tropical-storm-force winds extend outward up to 185 miles (295 km).  NOAA buoy 41008 located off of the Georgia coast recently reported sustained winds of 54 mph (87 km/h) and a wind gust of 72 mph (115 km/h).
-The estimated minimum central pressure is 948 mb (28.00 inches).
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;#ForceThirteen&nbsp;</span> in the YouTube chatroom for us to respond.
 Visit our website: www.force-13.com
