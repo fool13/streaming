@@ -14,7 +14,7 @@ TICKER_BANNER: ON
 USTREAM: OFF
 USTREAM_ID: 0000
 CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/black.png
+CONTENT_URL: https://www.thesun.co.uk/wp-content/uploads/2016/10/nintchdbpict000273645459.jpg?w=632
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: ON
