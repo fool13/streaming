@@ -1,12 +1,12 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: ON
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIME_BANNER: ON
-TIME_ZONE: AST/(EDT)
+TIME_ZONE: UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: HURRICANE NICOLE: Max Winds 130 MPH
-DESCRIPTION_BANNER: OUTER BANDS OF NICOLE NOW PSSING OVER BERMUDA
+HEADING_BANNER: HURRICANE NICOLE: UPPER* ALWAYS
+DESCRIPTION_BANNER: Sentence case.
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: http://www.force-13.com/private/black.png
@@ -20,6 +20,7 @@ HQ_WEATHER: OFF
 FORECAST_HOUR: ON
  
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
+Edited: Nelson
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone
 Have a question? use the handle <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;#ForceThirteen&nbsp;</span> in the YouTube chatroom for us to respond.
