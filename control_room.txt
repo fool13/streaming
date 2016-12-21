@@ -6,7 +6,7 @@ TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Cyclone Yvette
-DESCRIPTION_BANNER: 35 KTS WITH GUSTS TO 50 KTS
+DESCRIPTION_BANNER: 40 KTS WITH GUSTS TO 55 KTS
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: https://scontent.fper1-1.fna.fbcdn.net/t31.0-8/13443260_618006265023100_5528821665382963001_o.jpg
@@ -23,7 +23,6 @@ FORECAST_HOUR: OFF
 You&apos;re watching Force Thirteen&apos;s Australia Streaming Service
 REPORT: Perth Tropical Warning Ctr- 0656z 21/12/16
 Location: Within 55 kilometres of 14.5 degrees South, 114.0 degrees East , 760 kilometres north northwest of Karratha and 810 kilometres northwest of Port Hedland . 
-Movement: slow moving
 MIN PRESSURE: 987 hPa
 MOVEMENT: Nearly Stationary
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone 
