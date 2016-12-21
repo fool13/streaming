@@ -21,10 +21,10 @@ FORECAST_HOUR: OFF
  
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Australia Streaming Service
-REPORT: Perth Tropical Warning Ctr- 0109z 21/12/16
-LOW 07U at 14.5S 114.0E
-MIN PRESSURE: 994 hPa
-FORMATION CHANCES: Strong shear from the ENE, decreasing into Wednesday; Likely to be a tropical cyclone by 0700z 21/12/16
+REPORT: Perth Tropical Warning Ctr- 0656z 21/12/16
+Location: Within 55 kilometres of 14.5 degrees South, 114.0 degrees East , 760 kilometres north northwest of Karratha and 810 kilometres northwest of Port Hedland . 
+Movement: slow moving
+MIN PRESSURE: 987 hPa
 MOVEMENT: Nearly Stationary
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone 
 Visit our website: www.force-13.com 
