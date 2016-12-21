@@ -1,7 +1,7 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: AU HQ
+LIVE_LOCATION: via AU HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
@@ -21,8 +21,8 @@ FORECAST_HOUR: OFF
  
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-LOW 01 AT 14.5S 114.0E
-MIN PRESSURE: 994 HpA
+LOW 01 at 14.5S 114.0E
+MIN PRESSURE: 994 hPa
 FORMATION CHANCES: Strong shear from the ENE, decreasing into Wednesday; Likely to be a tropical cylcone by 0600z 10122016
-MOVEMENT: EXtremely Slow to the ENE
+MOVEMENT: Extremely Slow to the ENE
 </marquee>
