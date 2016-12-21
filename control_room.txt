@@ -20,7 +20,7 @@ HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
  
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
-You&apos;re watching Force Thirteen&apos;s Austrailia Streaming Service
+You&apos;re watching Force Thirteen&apos;s Australia Streaming Service
 REPORT: Perth Tropical Warning Ctr- 0109z 21/12/16
 LOW 07U at 14.5S 114.0E
 MIN PRESSURE: 994 hPa
