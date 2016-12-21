@@ -1,12 +1,12 @@
 BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ
+LIVE_LOCATION: AU HQ
 TIME_BANNER: ON
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Week 2016
-DESCRIPTION_BANNER: www.force-13.com/hw/2016/
+HEADING_BANNER: TROPICAL LOW O2
+DESCRIPTION_BANNER: 35 KTS WITH GUSTS TO 50
 GLOBAL_WEATHER: OFF
 WATERMARK: ON
 WATERMARK_URL: https://scontent.fper1-1.fna.fbcdn.net/t31.0-8/13443260_618006265023100_5528821665382963001_o.jpg
@@ -21,11 +21,8 @@ FORECAST_HOUR: OFF
  
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone
-Have a question? use the handle <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">&nbsp;#ForceThirteen&nbsp;</span> in the YouTube chatroom for us to respond.
-Visit our website: www.force-13.com
-Monitor our Facebook page: www.facebook.com/ForceThirteen
-Brownse through our tweets: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">@ForceThirteen</span>  on Twitter
-or add <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;"><i>&quot;&nbsp;Fool13&nbsp;&quot;</i></span> on Skype
-Ensure you&apos;re up to date. Keep www.hurricanes.gov in your bookmarks.
+LOW 01 AT 14.5S 114.0E
+MIN PRESSURE: 994 HpA
+FORMATION CHANCES: Strong shear from the ENE, decreasing into Wednesday; Likely to be a tropical cylcone by 0600z 10122016
+MOVEMENT: EXtremely Slow to the ENE
 </marquee>
