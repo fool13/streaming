@@ -22,7 +22,7 @@ FORECAST_HOUR: OFF
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Australia Streaming Service 
 REPORT: Latest from the BOM's Perth Tropical Warning Ctr- 23/12/16
-Location:  Tropical Cyclone Yvette (Category 1) at 2:00 am AWST was located within 45 kilometres of 14.5 degrees South, 114.6 degrees East , 730 kilometres north northwest of Karratha and 770 kilometres north northwest of Port Hedland 2. Is not expected to affect the Western Australia mainland in the next 48 hours.
+Location:  Tropical Cyclone Yvette (Category 1) at 2:00 am AWST was located within 45 kilometres of 14.5 degrees South, 114.6 degrees East , 730 kilometres north northwest of Karratha and 770 kilometres north northwest of Port Hedland 2 & is not expected to affect the Western Australia mainland in the next 48 hours.
 MOVEMENT: Yvette remains slow moving but is forecast to increase its speed of movement in a southeasterly direction during Friday and Saturday
 MIN PRESSURE: 990 hPa
 Areas Affected: None 
