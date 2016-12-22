@@ -18,11 +18,11 @@ CONTENT_URL: http://www.force-13.com/private/black.png
 REFRESH_RATE: 1000000000000000
 HQ_WEATHER: OFF
 FORECAST_HOUR: OFF
+
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Australia Streaming Service 
 REPORT: Perth Tropical Warning Ctr- 22/12/16
-Location:  Tropical Cyclone Yvette (Category 1) was located at 8:00 am AWST near 14.4S 114.4E, 
-that is 750 km north northwest of Karratha and 800 km northwest of PortHedland and is slow moving.
+Location:  Tropical Cyclone Yvette (Category 1) was located at 8:00 am AWST near 14.4S 114.4E, that is 750 km north northwest of Karratha and 800 km northwest of PortHedland and is slow moving.
 MIN PRESSURE: 990 hPa
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone 
 Visit our website: www.force-13.com 
