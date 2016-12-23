@@ -22,10 +22,12 @@ FORECAST_HOUR: OFF
 <marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
 You&apos;re watching Force Thirteen&apos;s Australia Streaming Service 
 REPORT: Latest from the BOM's Perth Tropical Warning Ctr- 23/12/16
-Location:  Tropical Cyclone Yvette (Category 1) at 2:00 am AWST was located within 45 kilometres of 14.5 degrees South, 114.6 degrees East , 730 kilometres north northwest of Karratha and 770 kilometres north northwest of Port Hedland 2 & is not expected to affect the Western Australia mainland in the next 48 hours.
-MOVEMENT: Yvette remains slow moving but is forecast to increase its speed of movement in a southeasterly direction during Friday and Saturday
+Location:  Details of Ex-Tropical Cyclone Yvette at 8:00 am AWST: Intensity: tropical low, sustained winds near the centre of 65 kilometres per hour with wind gusts to 95 kilometres per hour. 
+MOVEMENT:Location: within 45 kilometres of 14.3 degrees South, 115.2 degrees East , 850 kilometres west northwest of Broome and 760 kilometres north northwest of Port Hedland . 
+Movement: east at 6 kilometres per hour .
 MIN PRESSURE: 990 hPa
-Areas Affected: None 
+Areas Affected: None DFES advises that there are no community alerts at present.
+Communities between Cape Leveque and Port Hedland should listen for the next advice.
 OTHER NEWS. The Fiji Met Office has, TROPICAL DEPRESSION 05F CENTRE [1005HPA] WAS ANALYSED NEAR 17.5S
 162.0W AT 220900UTC. POSITION POOR BASED ON HIMAWARI-8 VIS/IR Image - TD05F SLOW MOVING.
 Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone 
