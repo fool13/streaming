@@ -2,7 +2,8 @@ BREAKING_MODE: OFF
 TIME_ZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADLINE_BANNER: Example Headline
-DESCRIPTION_BANNER: Example Description goes here
+DESCRIPTION_1: Example Description goes here
+DESCRIPTION_2: Further information goes here
 CONTENT: ON
 CONTENT_URL: http://www.force-13.com/private/black.png
 
