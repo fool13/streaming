@@ -1,0 +1,5 @@
+<ul>
+<li><a href="#"><span class="newsTopic">Title 1</span><span class="newsDescription">Description of topic 1 will display here. Add additional information about this topic, then finalise the topic.</span></a></li>
+<li><a href="#"><span class="newsTopic">Title 2</span><span class="newsDescription">Description of topic 2 will display here. Add additional information about this topic, then finalise the topic.</span></a></li>
+<li><a href="#"><span class="breakingTopic">Title 3</span><span class="breakingDescription">Description of topic 3 will display here. Add additional information about this topic, then finalise the topic.</span></a></li>
+</ul>
