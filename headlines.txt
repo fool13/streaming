@@ -1,3 +1,3 @@
-<li class="news"><a href="#"><span>HELLO</span><span>Test message recieved from GitHub.</span></a></li>
+<li class="news"><a href="#"><span>ALPHA</span><span>Test message recieved from GitHub.</span></a></li>
 <li class="breaking"><a href="#"><span>TEST</span><span>This is a test message for previewing in the news ticker banner.</span></a></li>
 <li class="news"><a href="#"><span>#ONE</span><span>One two three. FOUR five SiX. Seven EIGHT nine # _ . // ~</span></a></li>
