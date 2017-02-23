@@ -1,5 +1,3 @@
-<ul>
-<li><a href="#"><span class="newsTopic">Title 1</span><span class="newsDescription">Description of topic 1 will display here. Add additional information about this topic, then finalise the topic.</span></a></li>
-<li><a href="#"><span class="newsTopic">Title 2</span><span class="newsDescription">Description of topic 2 will display here. Add additional information about this topic, then finalise the topic.</span></a></li>
-<li><a href="#"><span class="breakingTopic">Title 3</span><span class="breakingDescription">Description of topic 3 will display here. Add additional information about this topic, then finalise the topic.</span></a></li>
-</ul>
+<li class="news"><a href="#"><span>HELLO</span><span>Test message recieved from GitHub.</span></a></li>
+<li class="breaking"><a href="#"><span>TEST</span><span>This is a test message for previewing in the news ticker banner.</span></a></li>
+<li class="news"><a href="#"><span>#ONE</span><span>One two three. FOUR five SiX. Seven EIGHT nine # _ . // ~</span></a></li>
