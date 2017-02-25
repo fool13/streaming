@@ -1,3 +1,7 @@
-<li class="news"><a href="#"><span>ALPHA</span><span>Test message recieved from GitHub.</span></a></li>
-<li class="breaking"><a href="#"><span>TEST</span><span>This is a test message for previewing in the news ticker banner.</span></a></li>
-<li class="news"><a href="#"><span>#ONE</span><span>One two three. FOUR five SiX. Seven EIGHT nine # _ . // ~</span></a></li>
+<li class="news"><a href="#"><span>TEST</span><span>Test message recieved from GitHub.</span></a></li>
+<li class="breaking"><a href="#"><span>EXAMPLE</span><span>Hurricane EXAMPLE intensifies to a Category 5 Hurricane in the Gulf of Mexico.</span></a></li>
+<li class="breaking"><a href="#"><span>EXAMPLE</span><span>A Hurricane Warning is in effect for AAA to BBB and from CCC to DDD.</span></a></li>
+<li class="breaking"><a href="#"><span>EXAMPLE</span><span>A Hurricane Watch is in effect for XXX to YYY and from VVV to WWW.</span></a></li>
+<li class="breaking"><a href="#"><span>EXAMPLE</span><span>Heavy rain and strong winds are expected to reach XXX, YYY within the next 24 hours.</span></a></li>
+<li class="news"><a href="#"><span>AGGRH</span><span>Cyclone AGGRH forms in the Arabian Sea. Oman should monitor the progress of this storm.</span></a></li>
+<li class="breaking"><a href="#"><span>EARTHQUAKE</span><span><b>M7.9</b> earthquake hits XXX, YYY. More information to follow.</span></a></li>
