@@ -1,4 +1,4 @@
-<li class="news"><a href="#"><span>DZZYZ</span><span>Tropical Storm DZZYZ dissipates south of XXX. This is the final warning on the system unless the system re-intensifies.</span></a></li>
+<li class="news"><a href="#"><span>WELCOME</span><span>Hello and welcome to the new Force Thirteen. Check out the available products located below.</span></a></li>
 <li class="breaking"><a href="#"><span>EXAMPLE</span><span>Hurricane EXAMPLE intensifies to a Category 5 Hurricane in the Gulf of Mexico.</span></a></li>
 <li class="breaking"><a href="#"><span>EXAMPLE</span><span>A Hurricane Warning is in effect for AAA to BBB and from CCC to DDD.</span></a></li>
 <li class="breaking"><a href="#"><span>EXAMPLE</span><span>A Hurricane Watch is in effect for XXX to YYY and from VVV to WWW.</span></a></li>
