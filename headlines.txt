@@ -1,7 +1,4 @@
-<li class="news"><a href="#"><span>WELCOME</span><span>Hello and welcome to the new Force Thirteen. Check out the available products located below.</span></a></li>
-<li class="breaking"><a href="#"><span>EXAMPLE</span><span>Hurricane EXAMPLE intensifies to a Category 5 Hurricane in the Gulf of Mexico.</span></a></li>
-<li class="breaking"><a href="#"><span>EXAMPLE</span><span>A Hurricane Warning is in effect for AAA to BBB and from CCC to DDD.</span></a></li>
-<li class="breaking"><a href="#"><span>EXAMPLE</span><span>A Hurricane Watch is in effect for XXX to YYY and from VVV to WWW.</span></a></li>
-<li class="breaking"><a href="#"><span>EXAMPLE</span><span>Heavy rain and strong winds are expected to reach XXX, YYY within the next 24 hours.</span></a></li>
-<li class="news"><a href="#"><span>AGGRH</span><span>Cyclone AGGRH forms in the Arabian Sea. Oman should monitor the progress of this storm.</span></a></li>
-<li class="breaking"><a href="#"><span>EARTHQUAKE</span><span><b>M7.9</b> earthquake hits XXX, YYY. More information to follow.</span></a></li>
+<li class="news"><a href="#"><span>WELCOME</span><span>Hello and welcome to the new Force Thirteen.</span></a></li>
+<li class="breaking"><a href="#"><span>IMPORTANT</span><span>Please note that <b>Not all links</b> are currently available.</span></a></li>
+<li class="breaking"><a href="#"><span>REPORTS</span><span>The individual storm reports will be moved to the /database/reports/ directory.</span></a></li>
+<li class="breaking"><a href="#"><span>DISASTER TRACKER&reg;</span><span>The <b>Disaster Tracker&reg;</b> will be undergoing changes, including zooming and custom satellite imagery.</span></a></li>
