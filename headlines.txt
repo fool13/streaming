@@ -1,4 +1,4 @@
 <li class="news"><a href="#"><span>WELCOME</span><span>Hello and welcome to the new Force Thirteen.</span></a></li>
-<li class="breaking"><a href="#"><span>IMPORTANT</span><span>Please note that <b>Not all links</b> are currently available.</span></a></li>
+<li class="breaking"><a href="#"><span>IMPORTANT</span><span>Site is still being developed.</span></a></li>
 <li class="breaking"><a href="#"><span>REPORTS</span><span>The individual storm reports will be moved to the /database/reports/ directory.</span></a></li>
 <li class="breaking"><a href="#"><span>DISASTER TRACKER&reg;</span><span>The <b>Disaster Tracker&reg;</b> will be undergoing changes, including zooming and custom satellite imagery.</span></a></li>
