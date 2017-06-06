@@ -1,3 +1,11 @@
+## :earth_africa: Force Thirteen: Streaming Repository :arrow_forward:  ##
+`http://www.force-13.co.uk/`
+
+Welcome to the Force Thirteen Streaming Repository. This repository allows you to do modifications to the Force Thirteen streaming webpages by allowing you to edit or create text files in the repository that will display and update accordingly on the Force Thirteen webpages.
+
+
+
+
 /// STREAMING ///   
 
 GLOSSARY --------------------------------------------------------------------------------------------------
