@@ -1,8 +1,0 @@
-Playa&nbsp;del&nbsp;Carmen: 22&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/04-s.png?PartlyCloudy
-George&nbsp;Town: 29&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlyClear
-Kingston: 29&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/02-s.png?MostlyClear
-Port-au-Prince: 27&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png?MostlyCloudy
-Santo&nbsp;Domingo: 26&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/07-s.png?Cloudy
-San&nbsp;Juan: 26&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png?MostlyCloudy
-Tegucigalpa: 21&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png?MostlyCloudy
-Belize&nbsp;City: 26&deg;C https://apidev.accuweather.com/developers/Media/Default/WeatherIcons/06-s.png?MostlyCloudy
