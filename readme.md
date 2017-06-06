@@ -3,15 +3,20 @@
 
 Welcome to the Force Thirteen Streaming Repository. This repository allows you to do modifications to the Force Thirteen streaming webpages by allowing you to edit or create text files in the repository that will display and update accordingly on the Force Thirteen webpages.
 
-<b>Accessing the Streaming Webpages:</b>
-
+<b>&bull; Accessing the Streaming Webpages &bull;</b><br>
 Force Thirteen: http://www.force-13.co.uk/_private/streaming.html<br>
 Force Thirteen AU & Oceania: http://www.force-13.co.uk/_private/streamingAU.html<br>
 Force Thirteen UK & Ireland: http://www.force-13.co.uk/_private/streamingUK.html<br>
 Force Thirteen US & Caribbean: http://www.force-13.co.uk/_private/streamingUS.html<br>
 
-
-/// STREAMING ///   
+<b>&bull; Key JavaScript Functions &bull;</b><br>
+`show('bannerHeading');`                          Shows the heading banner on the streaming webpage.
+`show('bannerDescription');`                      Shows the description banner on the streaming webpage.
+`show('bannerDescription');`                      Shows the description banner on the streaming webpage.
+`appendText('Nathan Foy','bannerHeading');`       Changes the heading banner text to `Nathan Foy`.
+`appendText('Host','bannerDescription');`         Changes the description banner text to `Host`.
+`show('newsTicker');`                             Shows the news ticker on the streaming webpage.
+`show('sideBar');`                                Shows the side bar on the streaming webpage.
 
 GLOSSARY --------------------------------------------------------------------------------------------------
 ALERT_MODE - ON/OFF - Toggle from red or blue text and background in the Breaking News banners.
