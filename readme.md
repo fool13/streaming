@@ -3,8 +3,7 @@
 
 Welcome to the Force Thirteen Streaming Repository. This repository allows you to do modifications to the Force Thirteen streaming webpages by allowing you to edit or create text files in the repository that will display and update accordingly on the Force Thirteen webpages.
 
-<b>Accessing the streaming webpages</b>
-
+<b><h3>Accessing the streaming webpages:</h3></b>
 Force Thirteen: http://www.force-13.co.uk/_private/streaming.html
 
 Force Thirteen AU & Oceania: http://www.force-13.co.uk/_private/streamingAU.html
