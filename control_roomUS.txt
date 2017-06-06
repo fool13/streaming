@@ -9,11 +9,9 @@ OPTION08: VAL
 OPTION09: VAL
 OPTION10: VAL
 
-Headline Number ONE
-Headline Number TWO 2 two
-Headline Number THREE 3 3 3 three ThRee
-Headline Number FOUR 4 four FOUR FOUR FoUr FouR 4 FOUr
-Headline Number FIVE 5 5 5
-Headline Number SIX six SiX 6 sIx 6 6 6 6 6 SIX six SIx 6 6 SIX
-Headline Number SEVEN 7 seven 7 7 7 SevEN sEvEn 7 7 SEVEn 7
-Headline Number EIGHT 8 8 8 eight EIGht
+A Severe Thunderstorm Warning has been issued for northern Davidson County in Middle Tennessee.
+A Severe Thunderstorm Warning remains in effect for South Central Robertson County in Middle Tennessee.
+A Severe Thunderstorm Warning remains in effect for Southwestern Sumner County in Middle Tennessee.
+A Severe Thunderstorm Warning remains in effect for Northwestern Wilson County in Middle Tennessee.
+A Severe Thunderstorm Warning remains in effect for Northern Cheatham County in Middle Tennessee.
+At 430 PM CDT...A Severe Thunderstorm was located near Ashland City...and moving east at 50 mph.
