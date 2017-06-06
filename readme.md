@@ -10,13 +10,13 @@ Force Thirteen UK & Ireland: http://www.force-13.co.uk/_private/streamingUK.html
 Force Thirteen US & Caribbean: http://www.force-13.co.uk/_private/streamingUS.html<br>
 
 <b>&bull; Key JavaScript Functions &bull;</b><br>
-`show('bannerHeading');`                          Shows the heading banner on the streaming webpage.
-`show('bannerDescription');`                      Shows the description banner on the streaming webpage.
-`show('bannerDescription');`                      Shows the description banner on the streaming webpage.
-`appendText('Nathan Foy','bannerHeading');`       Changes the heading banner text to `Nathan Foy`.
-`appendText('Host','bannerDescription');`         Changes the description banner text to `Host`.
-`show('newsTicker');`                             Shows the news ticker on the streaming webpage.
-`show('sideBar');`                                Shows the side bar on the streaming webpage.
+`show('bannerHeading');`                          Shows the heading banner on the streaming webpage.<br>
+`show('bannerDescription');`                      Shows the description banner on the streaming webpage.<br>
+`show('bannerDescription');`                      Shows the description banner on the streaming webpage.<br>
+`appendText('Nathan Foy','bannerHeading');`       Changes the heading banner text to `Nathan Foy`.<br>
+`appendText('Host','bannerDescription');`         Changes the description banner text to `Host`.<br>
+`show('newsTicker');`                             Shows the news ticker on the streaming webpage.<br>
+`show('sideBar');`                                Shows the side bar on the streaming webpage.<br>
 
 GLOSSARY --------------------------------------------------------------------------------------------------
 ALERT_MODE - ON/OFF - Toggle from red or blue text and background in the Breaking News banners.
