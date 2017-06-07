@@ -17,9 +17,9 @@ WATCHES_WARNINGS: VAL
 DISTANCE: VAL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
-A Severe Thunderstorm Warning has been issued for northern Davidson County in Middle Tennessee.
+⚡ A Severe Thunderstorm Warning has been issued for northern Davidson County in Middle Tennessee.
 A Severe Thunderstorm Warning remains in effect for South Central Robertson County in Middle Tennessee.
-A Severe Thunderstorm Warning remains in effect for Southwestern Sumner County in Middle Tennessee.
+⚡ A Severe Thunderstorm Warning remains in effect for Southwestern Sumner County in Middle Tennessee.
 A Severe Thunderstorm Warning remains in effect for Northwestern Wilson County in Middle Tennessee.
 A Severe Thunderstorm Warning remains in effect for Northern Cheatham County in Middle Tennessee.
 At 430 PM CDT...A Severe Thunderstorm was located near Ashland City...and moving east at 50 mph.
