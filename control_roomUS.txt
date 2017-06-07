@@ -4,8 +4,8 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: America/New_York EST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Cyclone Debbie makes landfall
-DESCRIPTION_BANNER: Debbie had unofficially made landfall as a Category 4 storm on the Australian Scale
+HEADING_BANNER: Severe Weather Across the US
+DESCRIPTION_BANNER: More Thunderstorm Warnings are in place for much of Alabama.
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
