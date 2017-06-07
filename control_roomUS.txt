@@ -1,13 +1,21 @@
-OPTION01: VAL
-OPTION02: VAL
-OPTION03: VAL
-OPTION04: VAL
-OPTION05: VAL
-OPTION06: VAL
-OPTION07: VAL
-OPTION08: VAL
-OPTION09: VAL
-OPTION10: VAL
+BREAKING_MODE: OFF
+LIVE_BANNER: ON
+LIVE_MODE: LIVE
+LIVE_LOCATION: F13 HQ
+TIMEZONE: America/New_York EST
+HEADLINE_SECTION: ON
+HEADING_BANNER: Cyclone Debbie makes landfall
+DESCRIPTION_BANNER: Debbie had unofficially made landfall as a Category 4 storm on the Australian Scale
+TICKER_BANNER: ON
+USTREAM: OFF
+USTREAM_ID: 0000
+CONTENT: ON
+CONTENT_URL: http://www.force-13.com/private/black.png
+SATELLITE: VAL
+RADAR: VAL
+WATCHES_WARNINGS: VAL
+DISTANCE: VAL
+LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
 A Severe Thunderstorm Warning has been issued for northern Davidson County in Middle Tennessee.
 A Severe Thunderstorm Warning remains in effect for South Central Robertson County in Middle Tennessee.
