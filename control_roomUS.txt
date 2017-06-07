@@ -8,9 +8,9 @@ HEADING_BANNER: Cyclone Debbie makes landfall
 DESCRIPTION_BANNER: Debbie had unofficially made landfall as a Category 4 storm on the Australian Scale
 TICKER_BANNER: ON
 USTREAM: OFF
-USTREAM_ID: 0000
 CONTENT: OFF
-CONTENT_URL:
+YOUTUBE: OFF
+BRANCH: TX STUDIO
 SATELLITE: VAL
 RADAR: VAL
 WATCHES_WARNINGS: VAL
