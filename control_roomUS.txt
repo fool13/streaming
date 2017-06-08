@@ -17,8 +17,8 @@ WATCHES_WARNINGS: VAL
 DISTANCE: VAL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
-Here&apos;s the latest news from Force Thirteen:
-&apos;I expect loyalty&apos; - Comey says Trump told him to back off Flynn probe
+The latest from Force Thirteen:
+<span style="background:rgba(0,0,0,0.2);"><i> I expect loyalty </i></span> - Comey says Trump told him to back off Flynn probe
 Polls put Theresa May ahead as UK election race enters home stretch
 North Korea fires multiple surface-to-ship missiles off east coast, South says
 At least 13 killed in twin attack on Iranian Parliament, shrine
