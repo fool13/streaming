@@ -1,4 +1,4 @@
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>...DISTURBANCE CONTINUES MOVING RAPIDLY TOWARD THE SOUTHERN WINDWARD ISLANDS...</span></a></li>
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>5AM AST...0900 UTC: LOCATION...8.4&deg;N 54.5&deg;W &bull; ABOUT 485 MI...780 KM ESE OF TRINIDAD OR ABOUT 550 MI...890 KM ESE OF GRENADA</span></a></li>
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H &bull; PRESENT MOVEMENT...W OR 280 DEGREES AT 23 MPH...37 KM/H</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>...NEW TROPICAL STORM WARNINGS ON DISTURBANCE ISSUED FOR VENEZUELA...</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>11AM AST...1500 UTC: LOCATION...8.8&deg;N 56.8&deg;W &bull; ABOUT 325 MI...525 KM ESE OF TRINIDAD OR ABOUT 405 MI...650 KM SE OF GRENADA</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H &bull; PRESENT MOVEMENT...W OR 280 DEGREES AT 25 MPH...41 KM/H</span></a></li>
 <li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES</span></a></li>
