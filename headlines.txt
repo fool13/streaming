@@ -1,4 +1,10 @@
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>...NEW TROPICAL STORM WARNINGS ON DISTURBANCE ISSUED FOR VENEZUELA...</span></a></li>
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>11AM AST...1500 UTC: LOCATION...8.8&deg;N 56.8&deg;W &bull; ABOUT 325 MI...525 KM ESE OF TRINIDAD OR ABOUT 405 MI...650 KM SE OF GRENADA</span></a></li>
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H &bull; PRESENT MOVEMENT...W OR 280 DEGREES AT 25 MPH...41 KM/H</span></a></li>
-<li class="news"><a href="http://www.nhc.noaa.gov/"><span>TWO</span><span>MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>BRET</span><span>...BRET NEAR TRINIDAD...</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>BRET</span><span>11PM AST 0300 UTC: LOCATION...10.0&deg;N 61.3&deg;W &bull; ABOUT 30 MI...45 KM S OF TRINIDAD &bull; ABOUT 150 MI...235 KM S OF GRENADA</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>BRET</span><span>MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>BRET</span><span>PRESENT MOVEMENT...WNW OR 285 DEGREES AT 23 MPH...37 KM/H</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>BRET</span><span>MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>PTC THREE</span><span>...DISTURBANCE MOVING SLOWLY NORTH-NORTHWESTWARD OVER THE CENTRAL GULF OF MEXICO...</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>PTC THREE</span><span>10PM CDT 0300 UTC: LOCATION...24.4&deg;N 89.5&deg;W &bull; ABOUT 325 MI...525 KM S OF THE MOUTH OF THE MISSISSIPPI RIVER &bull; ABOUT 380 MI...610 KM SSE OF MORGAN CITY LOUISIANA</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>PTC THREE</span><span>MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>PTC THREE</span><span>PRESENT MOVEMENT...NNW OR 330 DEGREES AT 8 MPH...13 KM/H</span></a></li>
+<li class="news"><a href="http://www.nhc.noaa.gov/"><span>PTC THREE</span><span>MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES</span></a></li>
