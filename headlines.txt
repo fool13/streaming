@@ -1,3 +1,2 @@
-<li class="news"><a href="#"><span>WELCOME</span><span>Welcome to Force Thirteen.</span></a></li>
 <li class="breaking"><a href="#"><span>TEST</span><span>This is a test.</span></a></li>
 <li class="breaking"><a href="#"><span>TEST 1 2 3</span><span>This is a test message here.</span></a></li>
