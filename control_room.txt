@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live Webcam
-DESCRIPTION_BANNER: The next live event is scheduled for 00:00 UTC on August 7
+DESCRIPTION_BANNER: This is shown when there is no other live output on the channel
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
