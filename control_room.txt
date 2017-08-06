@@ -2,7 +2,7 @@ BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
-TIMEZONE: Asia/Tokyo JST
+TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Force Thirteen Live Webcam
 DESCRIPTION_BANNER: This is shown when there is no other live output on the channel
