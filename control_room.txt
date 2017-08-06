@@ -19,8 +19,8 @@ LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny s
 
 <a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel</a>
 The next live event is scheduled for 00:00 UTC on August 7
-Invest 90L: 1500 UTC - 15.4&deg;N 81.7&deg;W | 35mph | 1008mb | WNW at 17mph
-Invest 99L: 1500 UTC - 13.2&deg;N 40.4&deg;W | 29mph | 1010mb | WNW at 9mph
-Typhoon NORU: 1500 UTC - 32.1&deg;N 132.8&deg;E | 75mph | 968mb | NNE at 12mph
-Ex-TC NALGAE: 1500 UTC - 45.2&deg;N 156.0&deg;E | 32mph | 1002mb | NW at 30mph
+Invest 90L: 1530 UTC - 15.5&deg;N 81.8&deg;W | 35mph | 1008mb | WNW at 17mph
+Invest 99L: 1530 UTC - 13.3&deg;N 40.5&deg;W | 29mph | 1010mb | WNW at 9mph
+Typhoon NORU: 1530 UTC - 32.2&deg;N 132.9&deg;E | 74mph | 968mb | NNE at 12mph
+Ex-TC NALGAE: 1530 UTC - 45.3&deg;N 155.9&deg;E | 31mph | 1002mb | NW at 29mph
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
