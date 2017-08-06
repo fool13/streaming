@@ -7,7 +7,7 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: Potential Tropical Cyclone Seven Forms
 DESCRIPTION_BANNER: PTC Seven in the Atlantic and Typhoon Noru over Japan
 TICKER_BANNER: ON
-SIDEBAR: ON
+SIDEBAR: OFF
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
@@ -15,7 +15,7 @@ SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07W/imagery/vis-animated.gif
 RADAR: http://www.jma.go.jp/jp/radnowc/imgs/radar/213/201708070250-00.png / bottom left / 130%
 WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/213/99.png / center right / 100%
 DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24l/1705-00.png / center center / 130%
-LATEST_INFO: <span style="font-size:22px;font-weight:bold;">Potential TC SEVEN<br></span> / 119 NNE of Puerto Lempira, HN / 201 SSE of George Town, CY / 275 ENE of La Ceiba, HN
+LATEST_INFO: <span style="font-size:22px;font-weight:bold;">Potential TC SEVEN<br></span> / 119 NNE of Puerto Lempira / 201 SSE of George Town / 275 ENE of La Ceiba
 
 PTC Seven: 2100 UTC - 16.7&deg;N 82.8&deg;W | 35mph | 1008mb | WNW at 18mph
 Invest 99L: 1745 UTC - 13.4&deg;N 40.7&deg;W | 29mph | 1010mb | WNW at 7mph
