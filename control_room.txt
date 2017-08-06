@@ -11,7 +11,7 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: VAL
+SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07W/imagery/rgb-animated.gif / center center / 130%
 RADAR: VAL
 WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/000/99.png / center center / 100%
 DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24d/1705-00.png / center center / 130%
