@@ -13,7 +13,7 @@ CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07W/imagery/rgb-animated.gif?201708070200 / center right / 130%
 RADAR: http://www.jma.go.jp/jp/radnowc/imgs/radar/213/201708070200-00.png / bottom left / 130%
-WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/000/99.png?201708070200 / bottom right / 130%
+WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/213/99.png?201708070200 / center right / 100%
 DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24l/1705-00.png?201708070200 / center center / 130%
 LATEST_INFO: THIS IS A GRAPHICS TEST<br> / <span style="font-size:12px;">THE NEXT LIVE EVENT IS SCHEDULED FOR:</span> / <b style="font-size:17px;">00:00 UTC ON AUGUST 7</b>
 
