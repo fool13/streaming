@@ -11,11 +11,11 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07W/imagery/rgb-animated.gif / center center / 130%
-RADAR: http://www.jma.go.jp/jp/radnowc/imgs/radar/215/201708070105-00.png / top left / 130%
-WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/000/99.png / center center / 100%
+SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07W/imagery/rgb-animated.gif / center right / 130%
+RADAR: http://www.jma.go.jp/jp/radnowc/imgs/radar/215/201708070105-00.png / top right / 130%
+WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/000/99.png / bottom right / 100%
 DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24d/1705-00.png / center center / 130%
-LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
+LATEST_INFO: THIS IS A GRAPHICS TEST / <small>THE NEXT LIVE EVENT IS SCHEDULED FOR:</small> / <b>00:00 UTC ON AUGUST 7</b>
 
 <a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel</a>
 The next live event is scheduled for 00:00 UTC on August 7
