@@ -20,7 +20,7 @@ LATEST_INFO: THIS IS A GRAPHICS TEST / <small>THE NEXT LIVE EVENT IS SCHEDULED F
 <a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel</a>
 The next live event is scheduled for 00:00 UTC on August 7
 Invest 90L: 1530 UTC - 15.5&deg;N 81.8&deg;W | 35mph | 1008mb | WNW at 17mph
-ASCAT to pass over Invest 90L in the next two hours
+Recent ASCAT pass found 35mph winds in Invest 90L
 Invest 99L: 1530 UTC - 13.3&deg;N 40.5&deg;W | 29mph | 1010mb | WNW at 9mph
 Recent ASCAT pass found 25mph winds in Invest 99L
 Typhoon NORU: 1530 UTC - 32.2&deg;N 132.9&deg;E | 74mph | 968mb | NNE at 12mph
