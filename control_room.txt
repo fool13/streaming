@@ -13,8 +13,8 @@ CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: VAL
 RADAR: VAL
-WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/000/99.png
-DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24d/1705-00.png
+WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/000/99.png / center center / 100%
+DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24d/1705-00.png / center center / 130%
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
 <a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel</a>
