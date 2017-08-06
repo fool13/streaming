@@ -1,16 +1,16 @@
-BREAKING_MODE: *US Severe Weather Coverage
+BREAKING_MODE: *This is a graphics test
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
-TIMEZONE: America/New_York EST
+TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Severe Weather Across the US
-DESCRIPTION_BANNER: More Thunderstorm Warnings are in place for much of Alabama.
+HEADING_BANNER: Force Thirteen Live Webcam
+DESCRIPTION_BANNER: The next live event is scheduled for 00:00 UTC on August 7
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
-BRANCH: FORCE THIRTEEN / TX STUDIO
+BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: VAL
 RADAR: VAL
 WATCHES_WARNINGS: VAL
@@ -18,13 +18,10 @@ DISTANCE: VAL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
 The latest from Force Thirteen:
-<a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;"><i> I expect loyalty </i></a> - Comey says Trump told him to back off Flynn probe
-Polls put Theresa May ahead as UK election race enters home stretch
-North Korea fires multiple surface-to-ship missiles off east coast, South says
-At least 13 killed in twin attack on Iranian Parliament, shrine
-Bodies found in water after Myanmar military transport plane goes down over Andaman Sea
-PNG students demand justice for police shooting protesters
-23 killed in Indian fireworks factory blast
-UK police find body of eighth London Bridge attack victim in Thames
-Discovery of 300,000-year-old fossils rewrites origins of our species
+<a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel
+The next live event is scheduled for 00:00 UTC on August 7
+Invest 90L: 1445 UTC - 15.4&deg;N 81.7&deg;W | 35mph | 1008mb | WNW at 17mph
+Invest 99L: 1445 UTC - 13.2&deg;N 40.4&deg;W | 29mph | 1010mb | WNW at 10mph
+Typhoon NORU: 1445 UTC - 32.1&deg;N 132.8&deg;E | 75mph | 968mb | NNE at 12mph
+Ex-TC NALGAE: 1445 UTC - 45.1&deg;N 156.1&deg;E | 32mph | 1002mb | NW at 30mph
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
