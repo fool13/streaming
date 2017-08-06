@@ -1,4 +1,4 @@
-BREAKING_MODE: *This is a graphics test
+BREAKING_MODE: This is a graphics test [Breaking Mode Test]
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
