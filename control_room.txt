@@ -17,12 +17,9 @@ WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/213/99.png?201708070200 / ce
 DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24l/1705-00.png?201708070200 / center center / 130%
 LATEST_INFO: <span style="font-size:22px;font-weight:bold;">STANDBY MODE</span><br> / <span style="font-size:12px;">THE NEXT LIVE EVENT IS SCHEDULED FOR:</span> / <b style="font-size:17px;">00:00 UTC ON AUGUST 7</b>
 
-<a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel</a>
-The next live event is scheduled for 00:00 UTC on August 7
 Invest 90L: 1745 UTC - 15.9&deg;N 82.3&deg;W | 35mph | 1008mb | WNW at 18mph
 Recent ASCAT pass found 35mph winds in Invest 90L
 Invest 99L: 1745 UTC - 13.4&deg;N 40.7&deg;W | 29mph | 1010mb | WNW at 7mph
 Recent ASCAT pass found 25mph winds in Invest 99L
 Typhoon NORU: 1745 UTC - 32.5&deg;N 133.2&deg;E | 73mph | 968mb | NNE at 11mph
-Ex-TC NALGAE: 1745 UTC - 46.2&deg;N 155.3&deg;E | 29mph | 1004mb | NW at 29mph
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
