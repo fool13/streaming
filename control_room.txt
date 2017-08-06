@@ -17,7 +17,7 @@ WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/213/99.png / center right / 
 DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24l/1705-00.png / center center / 130%
 LATEST_INFO: <span style="font-size:22px;font-weight:bold;">Potential TC SEVEN<br></span> / 119 NNE of Puerto Lempira / 201 SSE of George Town / 275 ENE of La Ceiba
 
-PTC Seven: 2100 UTC - 16.7&deg;N 82.8&deg;W | 35mph | 1008mb | WNW at 18mph
+PTC Seven: 2100 UTC - 15.6&deg;N 82.0&deg;W | 35mph | 1008mb | WNW at 12mph
 Invest 99L: 1745 UTC - 13.4&deg;N 40.7&deg;W | 29mph | 1010mb | WNW at 7mph
 Typhoon NORU: 1745 UTC - 32.5&deg;N 133.2&deg;E | 73mph | 968mb | NNE at 11mph
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
