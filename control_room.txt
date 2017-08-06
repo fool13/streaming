@@ -1,32 +1,30 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: *US Severe Weather Coverage
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 NOLA
-TIME_BANNER: ON
-TIME_ZONE: UTC UTC
+LIVE_LOCATION: F13 HQ
+TIMEZONE: America/New_York EST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Cyclone Debbie makes landfall
-DESCRIPTION_BANNER: Debbie had unofficially made landfall as a Category 4 storm on the Australian Scale
-GLOBAL_WEATHER: OFF
-WATERMARK: ON
-WATERMARK_URL: https://scontent.fper1-1.fna.fbcdn.net/t31.0-8/13443260_618006265023100_5528821665382963001_o.jpg
-TICKER_BANNER: OFF
+HEADING_BANNER: Severe Weather Across the US
+DESCRIPTION_BANNER: More Thunderstorm Warnings are in place for much of Alabama.
+TICKER_BANNER: ON
+SIDEBAR: ON
 USTREAM: OFF
-USTREAM_ID: 0000
-CONTENT: ON
-CONTENT_URL: http://www.force-13.com/private/black.png
-REFRESH_RATE: 1000000000000000
-HQ_WEATHER: OFF
-FORECAST_HOUR: OFF
+CONTENT: OFF
+BRANCH: FORCE THIRTEEN / TX STUDIO
+SATELLITE: VAL
+RADAR: VAL
+WATCHES_WARNINGS: VAL
+DISTANCE: VAL
+LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
-<marquee behavior="scroll" direction="left" style="padding-bottom:2px;">
-You&apos;re watching Force Thirteen&apos;s Live Streaming Service
-Cyclone Debbie is a Category 4 on the Australian Cyclone Scale
-Cyclone Warnings are in effect from Lucinda to St Lawrence
-Warnings extend inland as far as Pentland and Moranbah
-Landfall is expected at around 00:00 UTC near Bowen
-Track the tropics; Visit Force Thirteen&apos;s Disaster Tracker&#174; at: http://www.force-13.com/tracker/?event=cyclone 
-Visit our website: www.force-13.com 
-Monitor our Facebook page: www.facebook.com/ForceThirteen 
-Browse through our tweets: <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">@ForceThirteen</span> <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;">@Force13AU</span> on Twitter or add <span style="font-weight:bold;color:#004a75;background:#d8ebf9;padding:2px 4px;"><i>&quot;&nbsp;Fool13&nbsp;&quot;</i></span> on Skype
-</marquee>
+The latest from Force Thirteen:
+<a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;"><i> I expect loyalty </i></a> - Comey says Trump told him to back off Flynn probe
+Polls put Theresa May ahead as UK election race enters home stretch
+North Korea fires multiple surface-to-ship missiles off east coast, South says
+At least 13 killed in twin attack on Iranian Parliament, shrine
+Bodies found in water after Myanmar military transport plane goes down over Andaman Sea
+PNG students demand justice for police shooting protesters
+23 killed in Indian fireworks factory blast
+UK police find body of eighth London Bridge attack victim in Thames
+Discovery of 300,000-year-old fossils rewrites origins of our species
+Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
