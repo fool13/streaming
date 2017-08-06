@@ -19,10 +19,10 @@ LATEST_INFO: THIS IS A GRAPHICS TEST<br> / <span style="font-size:12px;">THE NEX
 
 <a style="background:rgba(0,0,0,0.2);color:white;text-decoration:none;">Webcam: This is shown when there is no other live output on the channel</a>
 The next live event is scheduled for 00:00 UTC on August 7
-Invest 90L: 1530 UTC - 15.5&deg;N 81.8&deg;W | 35mph | 1008mb | WNW at 17mph
+Invest 90L: 1630 UTC - 15.7&deg;N 82.0&deg;W | 35mph | 1008mb | WNW at 18mph
 Recent ASCAT pass found 35mph winds in Invest 90L
-Invest 99L: 1530 UTC - 13.3&deg;N 40.5&deg;W | 29mph | 1010mb | WNW at 9mph
+Invest 99L: 1630 UTC - 13.3&deg;N 40.6&deg;W | 29mph | 1010mb | WNW at 8mph
 Recent ASCAT pass found 25mph winds in Invest 99L
-Typhoon NORU: 1530 UTC - 32.2&deg;N 132.9&deg;E | 74mph | 968mb | NNE at 12mph
-Ex-TC NALGAE: 1530 UTC - 45.3&deg;N 155.9&deg;E | 31mph | 1002mb | NW at 29mph
+Typhoon NORU: 1630 UTC - 32.3&deg;N 133.0&deg;E | 74mph | 968mb | NNE at 12mph
+Ex-TC NALGAE: 1630 UTC - 45.7&deg;N 155.6&deg;E | 30mph | 1003mb | NW at 29mph
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
