@@ -2,7 +2,7 @@ BREAKING_MODE: *US Severe Weather Coverage
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
-TIMEZONE: America/New_York EST
+TIMEZONE: America/New_York EDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Severe Weather Across the US
 DESCRIPTION_BANNER: More Thunderstorm Warnings are in place for much of Alabama.
