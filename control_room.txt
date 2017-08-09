@@ -11,14 +11,13 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07W/imagery/vis-animated.gif / center center / 240%
+SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07L/imagery/vis-animated.gif / center center / 240%
 RADAR: http://www.jma.go.jp/jp/radnowc/imgs/radar/213/201708070250-00.png / bottom left / 130%
-WATCHES_WARNINGS: http://www.jma.go.jp/en/warn/imgs/213/99.png / center right / 100%
-DISTANCE: http://www.jma.go.jp/en/typh/images/zoom24l/1705-00.png / center center / 130%
-LATEST_INFO: <span style="font-size:22px;font-weight:bold;">Potential TC SEVEN<br></span> / 119 NNE of Puerto Lempira / 201 SSE of George Town / 275 ENE of La Ceiba
+WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_5day_cone_no_line_and_wind+png/145554_5day_cone_no_line_and_wind.png / center center / 130%
+DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_earliest_reasonable_toa_no_wsp_34+png/145554_earliest_reasonable_toa_no_wsp_34.png / center center / 130%
+LATEST_INFO: <span style="font-size:22px;font-weight:bold;">Tropical Storm FRANKLIN<br></span> / 140mi NNE of Coatzacoalcos, MX / 165mi ENE of Veracruz, MX
 
-PTC Seven: 2100 UTC - 15.6&deg;N 82.0&deg;W | 35mph | 1008mb | WNW at 12mph
-Invest 99L: 1745 UTC - 13.4&deg;N 40.7&deg;W | 29mph | 1010mb | WNW at 7mph
-Typhoon NORU: 1745 UTC - 32.5&deg;N 133.2&deg;E | 73mph | 968mb | NNE at 11mph
+TS FRANKLIN: 1715 UTC - 20.2&deg;N 94.4&deg;W | 73mph | 987mb | W at 13mph
+Invest 99L: 1715 UTC - 17.6&deg;N 56.6&deg;W | 29mph | 1012mb | WNW at 12mph
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
