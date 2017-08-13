@@ -4,10 +4,10 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tracking the Tropics
-DESCRIPTION_BANNER: Watching Tropical Storm FRANKLIN
+HEADING_BANNER: Tropical Weather Bulletin
+DESCRIPTION_BANNER: Latest on Tropical Storm Gert, Typhoon Banyan
 TICKER_BANNER: ON
-SIDEBAR: ON
+SIDEBAR: OFF
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
@@ -17,8 +17,9 @@ WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_5
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_earliest_reasonable_toa_no_wsp_34+png/145554_earliest_reasonable_toa_no_wsp_34.png / center center / 140%
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm FRANKLIN<br></span> / <span style="font-size:14px;font-weight:bold;">140mi NNE of Coatzacoalcos, MX</span> / <span style="font-size:14px;font-weight:bold;">165mi ENE of Veracruz, MX</span>
 
-TS FRANKLIN: 1715 UTC - 20.2&deg;N 94.4&deg;W | 73mph | 987mb | W at 13mph
-Invest 99L: 1715 UTC - 17.6&deg;N 56.6&deg;W | 29mph | 1012mb | WNW at 12mph
-Invest 90S: 1715 UTC - 10.2&deg;S 83.5&deg;E | 34mph | 1007mb | WSW at 12mph
+You're watching Force Thirteen's Live Streaming Service
+Tropical Storm Gert is currently located in the Western Atlantic
+Typhoon Banyan is continuing to move away from Wake Island
+No watches or warnings are in effect
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
