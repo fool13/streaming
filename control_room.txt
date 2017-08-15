@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Weather Bulletin
-DESCRIPTION_BANNER: Latest on Tropical Storm Gert, Typhoon Banyan
+DESCRIPTION_BANNER: Latest on Hurricane Gert, Typhoon Banyan
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
@@ -18,7 +18,7 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm FRANKLIN<br></span> / <span style="font-size:14px;font-weight:bold;">140mi NNE of Coatzacoalcos, MX</span> / <span style="font-size:14px;font-weight:bold;">165mi ENE of Veracruz, MX</span>
 
 You're watching Force Thirteen's Live Streaming Service
-Tropical Storm Gert is on the verge of becoming a hurricane
+Hurricane Gert proceeding off towards the northeast
 Typhoon Banyan is continuing to move north in the open Western Pacific ocean
 No watches or warnings are in effect
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
