@@ -18,7 +18,7 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / <span style="font-size:14px;font-weight:bold;">295mi E of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">410mi E of ST. LUCIA</span>
 
 You're watching Force Thirteen's Live Streaming Service
-Gert becomes a post-tropical cyclone
+Gert becomes post-tropical in the open North Atlantic
 Tropical Storm Harvey heads for the Windward Islands
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> A Tropical Storm Watch is in effect for <b>Dominica</b>
 <a style="color:blue;font-weight:bold;text-decoration:none;">&#9648;</a> A Tropical Storm Warning is in effect for <b>Martinique</b>, <b>St. Lucia</b>, <b>Barbados</b>, and <b>St. Vincent and the Grenadines</b>
