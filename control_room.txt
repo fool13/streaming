@@ -11,11 +11,11 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/09L/imagery/vis-animated.gif?510 / center center / 210%
-RADAR: http://www.meteofrance.gp/integration/sim-portail/generated/integration/img/produits/rad/an/FB6GG9WEA9Y.tiff / 50% 100% / 230%
+SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/09L/imagery/rb-animated.gif?510 / center center / 210%
+RADAR: http://www.meteofrance.gp/integration/sim-portail/generated/integration/img/produits/rad/an/4NBO1NG2A9Y.tiff / 50% 100% / 230%
 WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_5day_cone_no_line_and_wind+png/181804_5day_cone_no_line_and_wind.png / 80% 63% / 500%
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
-LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.20&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
+LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
 Gert becomes post-tropical in the open North Atlantic
