@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Weather Bulletin
-DESCRIPTION_BANNER: Latest on Hurricane Gert, Typhoon Banyan
+DESCRIPTION_BANNER: Potential TC NINE heads for the Windward Islands
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
