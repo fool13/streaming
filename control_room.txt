@@ -11,15 +11,17 @@ SIDEBAR: OFF
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/07L/imagery/vis-animated.gif / center center / 210%
-RADAR: http://tropicalatlantic.com/recon/radar/al/2017/Franklin/NOAA/04/radar/2017-08-09-120642-20.183N-93.450W-NOAA-2-PPITL9E_Center.png / center center / 130%
-WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_5day_cone_no_line_and_wind+png/145554_5day_cone_no_line_and_wind.png / center center / 140%
-DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072017_earliest_reasonable_toa_no_wsp_34+png/145554_earliest_reasonable_toa_no_wsp_34.png / center center / 140%
-LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm FRANKLIN<br></span> / <span style="font-size:14px;font-weight:bold;">140mi NNE of Coatzacoalcos, MX</span> / <span style="font-size:14px;font-weight:bold;">165mi ENE of Veracruz, MX</span>
+SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/09L/imagery/vis-animated.gif / center center / 210%
+RADAR: http://barbadosweather.org/Composite/Sabre/EC_Bar/201708171936.png / center right / 130%
+WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_5day_cone_no_line_and_wind+png/181804_5day_cone_no_line_and_wind.png / center right / 140%
+DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / center center / 140%
+LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Potential TC NINE<br></span> / <span style="font-size:14px;font-weight:bold;">295mi E of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">410mi E of ST. LUCIA</span>
 
 You're watching Force Thirteen's Live Streaming Service
-Hurricane Gert proceeding off towards the northeast
-Typhoon Banyan is continuing to move north in the open Western Pacific ocean
+Hurricane Gert skirts off towards the northeast
+Potential TC NINE heads for the Windward Islands
+<span style="color:yellow;font-weight:bold;">&#9648;</span> A Tropical Storm Watch is in effect for <b>Dominica</b>
+<span style="color:blue;font-weight:bold;">&#9648;</span> A Tropical Storm Warning is in effect for <b>Martinique</b>, <b>St. Lucia</b>, <b>Barbados</b>, and <b>St. Vincent and the Grenadines</b>
 No watches or warnings are in effect
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
