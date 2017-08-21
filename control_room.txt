@@ -3,9 +3,9 @@ LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
-HEADLINE_SECTION: OFF
-HEADING_BANNER: Force Thirteen En Espanol
-DESCRIPTION_BANNER: Our weekly hour of weather discussion in Spanish
+HEADLINE_SECTION: ON
+HEADING_BANNER: Solar Eclipse Live
+DESCRIPTION_BANNER: Track the eclipse with us from coast to coast!
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
