@@ -24,6 +24,6 @@ Greatest Eclipse begins at <a style="background:#1080c0;font-weight:bold;padding
 Greatest Eclipse location <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">37&deg;N 87.7&deg;W</a>
 Eclipse Total ends at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">20:01:35 UTC</a>
 Eclipse Partial ends at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">21:04:19 UTC</a>
-Best Locations: <b>Salem, OR * Boise, ID * Casper, WY * Omaha, NE * Kansas City, MO * St. Louis, IL * Nashville, TN * Athens, GA * Charleston, SC</b>
+Best Locations: <b style="font-size:12px;">Salem, OR * Boise, ID * Casper, WY * Omaha, NE * Kansas City, MO * St. Louis, IL * Nashville, TN * Athens, GA * Charleston, SC</b>
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
