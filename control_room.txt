@@ -4,8 +4,8 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Weather Bulletin
-DESCRIPTION_BANNER: Latest on the worldwide tropics
+HEADING_BANNER: Force Thirteen En Espanol
+DESCRIPTION_BANNER: Our weekly hour of weather discussion in Spanish
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
