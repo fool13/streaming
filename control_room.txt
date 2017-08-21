@@ -18,10 +18,12 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
-Tropical Storm Hato passes Luzon
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Signal #2 Warnings in effect for <b>Batanes Islands</b>
-<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Signal #1 Warnings in effect for <b>Babuyan Islands</b>
-Hurricane Kenneth intensifies in the Eastern Pacific
-Remnants of Harvey near Central America
+Eclipse Partial begins at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">15:46:48 UTC</a>
+Eclipse Total begins at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">16:48:32 UTC</a>
+Greatest Eclipse begins at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">18:26:40 UTC</a> for a duration of <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">2m 40s</a>
+Greatest Eclipse location <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">37&deg;N 87.7&deg;W</a>
+Eclipse Total ends at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">20:01:35 UTC</a>
+Eclipse Partial ends at <a style="background:#1080c0;font-weight:bold;padding:2px 4px;border-radius:4px;">21:04:19 UTC</a>
+Best Locations: <b>Salem, OR * Boise, ID * Casper, WY * Omaha, NE * Kansas City, MO * St. Louis, IL * Nashville, TN * Athens, GA * Charleston, SC</b>
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
