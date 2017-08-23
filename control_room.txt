@@ -20,7 +20,7 @@ LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVE
 You're watching Force Thirteen's Live Streaming Service
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>North of Port Mansfield to San Luis Pass</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Boca De Catan Mexico to Port Mansfield Texas<b/>
-<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>North of San Luis Pass to High Island</b>
+<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch: <b>North of San Luis Pass to High Island</b>
 Storm surge watches are also in effect in Texas
 Typhoon Hato weakens over inland China
 Kenneth dying in the open East Pacific
