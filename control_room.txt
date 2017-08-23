@@ -4,8 +4,8 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: OFF
-HEADING_BANNER: Solar Eclipse Live
-DESCRIPTION_BANNER: Track the eclipse with us from coast to coast!
+HEADING_BANNER: Tropical Depression Harvey
+DESCRIPTION_BANNER: Hurricane Watches in effect in Texas
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
@@ -18,10 +18,11 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
-Tropical Storm Hato passes Luzon
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Signal #2 Warnings in effect for <b>Batanes Islands</b>
-<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Signal #1 Warnings in effect for <b>Babuyan Islands</b>
-Hurricane Kenneth intensifies in the Eastern Pacific
-Remnants of Harvey near Central America
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>North of Port Mansfield to San Luis Pass</b>
+<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Boca De Catan Mexico to Port Mansfield Texas<b/>
+<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>North of San Luis Pass to High Island</b>
+Storm surge watches are also in effect in Texas
+Typhoon Hato weakens over inland China
+Kenneth dying in the open East Pacific
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
