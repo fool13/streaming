@@ -18,7 +18,7 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Port Mansfield to Matagorda Texas</b>
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Port Mansfield to Sargent Texas</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>North of Matagorda to High Island Texas</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>South of Port Mansfield Texas to the Mouth of the Rio Grande</b>
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>South of Port Mansfield Texas to the Mouth of the Rio Grande</b>
