@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Harvey
-DESCRIPTION_BANNER: NHC - Harvey remains at 85mph
+DESCRIPTION_BANNER: NHC - Harvey a Category 3 hurricane
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
@@ -24,6 +24,6 @@ You're watching Force Thirteen's Live Streaming Service
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>South of Port Mansfield Texas to the Mouth of the Rio Grande</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>South of the Mouth of the Rio Grande to Boca de Catan Mexico</b>
 Storm surge warnings and watches are also in effect
-Tropical Depression Sixteen forms near the Philippines
+Tropical Storm Pakhar moving through the Philippines
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
