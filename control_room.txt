@@ -18,9 +18,10 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Antigua, Barbuda, Anguilla, Montserrat, St. Kitts, and Nevis</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Saba, St. Eustatius, and Sint Maarten</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Saint Martin and Saint Barthelemy</b>
-Warnings will likely be issued later today.
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warnimg in effect for <b>Antigua, Barbuda, Anguilla, Montserrat, St. Kitts, and Nevis</b>
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Saba, St. Eustatius, and Sint Maarten</b>
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Saint Martin and Saint Barthelemy</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Guadeloupe, Virgin Islands, Puerto Rico</b>
+<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Dominica</b>
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
