@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Irma
-DESCRIPTION_BANNER: Irma intensifying significantly
+DESCRIPTION_BANNER: New Hurricane Warnings in effect, Hurricane Watch for Puerto Rico
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
