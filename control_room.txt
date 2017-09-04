@@ -4,8 +4,8 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Harvey
-DESCRIPTION_BANNER: NHC - Harvey now a Category 4 hurricane with winds of 130mph
+HEADING_BANNER: Hurricane Irma
+DESCRIPTION_BANNER: Irma intensifying significantly
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
@@ -18,12 +18,9 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Port Mansfield to Sargent Texas</b>
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>North of Matagorda to High Island Texas</b>
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>South of Port Mansfield Texas to the Mouth of the Rio Grande</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>South of Port Mansfield Texas to the Mouth of the Rio Grande</b>
-<a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>South of the Mouth of the Rio Grande to Boca de Catan Mexico</b>
-Storm surge warnings and watches are also in effect
-Tropical Storm Pakhar moving through the Philippines
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Antigua, Barbuda, Anguilla, Montserrat, St. Kitts, and Nevis</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Saba, St. Eustatius, and Sint Maarten</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Saint Martin and Saint Barthelemy</b>
+Warnings will likely be issued later today.
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
