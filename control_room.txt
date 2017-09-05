@@ -23,7 +23,7 @@ You're watching Force Thirteen's Live Streaming Service
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Saint Martin and Saint Barthelemy</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>British and US Virgin Islands</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Puerto Rico, Vieques and Culebra</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Guadeloupe, Dominican Republic from Cabo Engano to the northern border with Haiti</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b style="font-size:10px;">Guadeloupe, Dominican Republic from Cabo Engano to the northern border with Haiti</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Guadeloupe, Dominica</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Dominican Republic from south of Cabo Engao to Isla Saona</b>
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
