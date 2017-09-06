@@ -32,5 +32,6 @@ You're watching Force Thirteen's Live Streaming Service
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Guadeloupe, Dominica</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Dominican Republic from south of Cabo Engao to Isla Saona</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Haiti from south of Le Mole St. Nicholas to Port-Au-Prince</b>
+No warnings in effect for Tropical Storms Jose and Katia
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
