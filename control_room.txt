@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Hurricane Irma
-DESCRIPTION_BANNER: Hurricane Warning issued for Dominican Republic
+DESCRIPTION_BANNER: Still with winds of 185mph
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
@@ -27,6 +27,8 @@ You're watching Force Thirteen's Live Streaming Service
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Dominican Republic from Cabo Engano to the northern border with Haiti</b>
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Haiti from the northern border with the Dominican Republic to Le Mole St. Nicholas</b>
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Turks and Caicos Islands and the southeastern Bahamas</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Southeastern and central Bahamas</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Cuba from Matanzas province eastward to Guantanamo province</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Guadeloupe, Dominica</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Dominican Republic from south of Cabo Engao to Isla Saona</b>
 <a style="color:yellow;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Watch in effect for <b>Haiti from south of Le Mole St. Nicholas to Port-Au-Prince</b>
