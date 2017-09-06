@@ -4,8 +4,8 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricane Irma
-DESCRIPTION_BANNER: Still with winds of 185mph
+HEADING_BANNER: Hurricanes Irma, Jose and Katia
+DESCRIPTION_BANNER: Hurricane Watches in Mexico and Warnings in the Caribbean
 TICKER_BANNER: ON
 SIDEBAR: OFF
 USTREAM: OFF
@@ -28,6 +28,6 @@ You're watching Force Thirteen's Live Streaming Service
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Cuba from Matanzas province eastward to Guantanamo province</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Dominican Republic from south of Cabo Engao to Isla Saona</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Haiti from south of Le Mole St. Nicholas to Port-Au-Prince</b>
-No warnings in effect for Tropical Storms Jose and Katia
+No warnings in effect for Hurricane Jose
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
