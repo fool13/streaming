@@ -9,7 +9,7 @@ DESCRIPTION_BANNER: A TROPICAL CYCLONE ALERT IS NOW N FORCE FOR ONO-I-LAU, VATOA
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
-CONTENT: OFF
+CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/09L/imagery/rb-animated.gif?510 / center center / 210%
 RADAR: http://www.meteofrance.gp/integration/sim-portail/generated/integration/img/produits/rad/an/4NBO1NG2A9Y.tiff / 50% 100% / 230%
