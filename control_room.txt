@@ -18,8 +18,8 @@ DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
 You're watching Force Thirteen's Live Streaming Service
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a>  SEVERE TROPICAL CYCLONE GITA CENTRE 935HPA CATEGORY 4 
-<b>British and US Virgin Islands</b>
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> SEVERE TROPICAL CYCLONE GITA CENTRE 921 HPA CATEGORY 5 
+<b>located, 21.1South 178.7East -230kms SSE of Kadavu & 240kms SSW of Matuku </b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Puerto Rico, Vieques and Culebra</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Haiti from the northern border with the Dominican Republic to Le Mole St. Nicholas</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Southeastern and Central Bahamas and the Turks and Caicos Islands</b>
