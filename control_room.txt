@@ -16,7 +16,6 @@ RADAR: http://www.meteofrance.gp/integration/sim-portail/generated/integration/i
 WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_5day_cone_no_line_and_wind+png/181804_5day_cone_no_line_and_wind.png / 80% 63% / 500%
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
-
 You're watching Force Thirteen's Live Streaming Service
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> SEVERE TROPICAL CYCLONE GITA CENTRE 921 HPA CATEGORY 5 
 <b>located, 21.1South 178.7East -230kms SSE of Kadavu & 240kms SSW of Matuku </b>
