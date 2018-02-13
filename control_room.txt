@@ -11,7 +11,7 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/09p/imagery/rb-animated.gif?510 / center center / 210%
+SATELLITE: http://www.ssd.noaa.gov/PS/TROP/floaters/09P/html5-rb-long.html
 RADAR: http://www.met.gov.fj/aifs_prods/nausori/loop/animated_nau.gif / 50% 100% / 230%
 WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_5day_cone_no_line_and_wind+png/181804_5day_cone_no_line_and_wind.png / 80% 63% / 500%
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
