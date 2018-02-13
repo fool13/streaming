@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Tropical Cyclone "Gita"Cat 5.
+HEADING_BANNER: Tropical Cyclone "Gita" Cat 5.
 DESCRIPTION_BANNER: A GALE WARNING REMAINS IN FORCE FOR MATUKU, TOTOYA, MOALA, KADAVU AND NEARBY SMALLER ISLANDS AND VATOA.
 TICKER_BANNER: ON
 SIDEBAR: OFF
@@ -17,7 +17,7 @@ WATCHES_WARNINGS: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_5
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 You're watching Force Thirteen's Live Streaming Service
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> SEVERE TROPICAL CYCLONE GITA CENTRE 921 HPA CATEGORY 5 
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> SEVERE TC "GITA" 921HPA CAT 5. 
 <b>located, 21.1South 178.7East -230kms SSE of Kadavu & 240kms SSW of Matuku </b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Puerto Rico, Vieques and Culebra</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Haiti from the northern border with the Dominican Republic to Le Mole St. Nicholas</b>
