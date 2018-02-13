@@ -7,7 +7,7 @@ HEADLINE_SECTION: ON
 HEADING_BANNER: Tropical Cyclone "Gita" Cat 5.
 DESCRIPTION_BANNER: A GALE WARNING REMAINS IN FORCE FOR MATUKU, TOTOYA, MOALA, KADAVU AND NEARBY SMALLER ISLANDS AND VATOA.
 TICKER_BANNER: ON
-SIDEBAR: OFF
+SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
@@ -28,6 +28,5 @@ You're watching Force Thirteen's Live Streaming Service
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Haiti from south of Le Mole St. Nicholas to Port-Au-Prince</b>
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Cuba provinces of Guantanamo, Holguin, and Las Tunas</b>
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> <b>KATIA</b>Hurricane Watch in effect for <b>Tuxpan to Laguna Verde</b>
-
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
