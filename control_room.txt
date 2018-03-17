@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Banner Test David 
+HEADING_BANNER: TROPICAL CYCLONE "MARCUS". 
 DESCRIPTION_BANNER: Storm Force Wind Warning for the following areas:Beagle Bonaparte Coast, Van Diemen Gulf and Darwin Harbour
 
 Gale Warning for the following areas:
