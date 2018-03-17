@@ -5,7 +5,10 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: Banner Test David 
-DESCRIPTION_BANNER: A GALE WARNING REMAINS IN FORCE FOR MATUKU, TOTOYA, MOALA, KADAVU AND NEARBY SMALLER ISLANDS AND VATOA.
+DESCRIPTION_BANNER: Storm Force Wind Warning for the following areas:Beagle Bonaparte Coast, Van Diemen Gulf and Darwin Harbour
+
+Gale Warning for the following areas:
+North Tiwi Coast and Arafura Coast
 TICKER_BANNER: ON
 SIDEBAR: OFF 
 USTREAM: OFF
