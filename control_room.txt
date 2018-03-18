@@ -4,9 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: AEST
 HEADLINE_SECTION: TROPICAL CYCLONE "MARCUS" TO DEEPEN. 
-DESCRIPTION_BANNER: Storm Force Wind Warning for the following areas:Beagle Bonaparte Coast, Van Diemen Gulf and Darwin Harbour
-Gale Warning for the following areas:
-North Tiwi Coast and Arafura Coast
+DESCRIPTION_BANNER: 
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
