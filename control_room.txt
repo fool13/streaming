@@ -10,7 +10,7 @@ DESCRIPTION_BANNER: Storm Force Wind Warning for the following areas:Beagle Bona
 Gale Warning for the following areas:
 North Tiwi Coast and Arafura Coast
 TICKER_BANNER: ON
-SIDEBAR: OFF 
+SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
