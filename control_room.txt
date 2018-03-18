@@ -9,7 +9,7 @@ Gale Warning for the following areas:
 North Tiwi Coast and Arafura Coast
 TICKER_BANNER: ON
 SIDEBAR: ON
-USTREAM: ON
+USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
 RADAR: http:// http://www.met.gov.fj/aifs_prods/fijicomp/loop/animated_fij.gif / 50% 100% / 230%
