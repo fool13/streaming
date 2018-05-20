@@ -12,7 +12,7 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / TX STUDIO
 SATELLITE: VAL
-RADAR: VAL
+RADAR: KLIX
 WATCHES_WARNINGS: VAL
 DISTANCE: VAL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
