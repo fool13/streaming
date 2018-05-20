@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: America/New_York EDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Who will lead F13US? The Blob or nelson?
+HEADING_BANNER: Severe Weather across the US
 DESCRIPTION_BANNER: More Thunderstorm Warnings are in place for much of Alabama.
 TICKER_BANNER: ON
 SIDEBAR: ON
