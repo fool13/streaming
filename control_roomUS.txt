@@ -12,7 +12,7 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / TX STUDIO
 SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/20181402130_GOES16-ABI-FD-GEOCOLOR-678x678.jpg  / 10% 
-RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 10%
+RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 10% 3% 40%
 WATCHES_WARNINGS: VAL
 DISTANCE: VAL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
