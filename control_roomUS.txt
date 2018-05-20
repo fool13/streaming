@@ -11,8 +11,8 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / TX STUDIO
-SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/20181402130_GOES16-ABI-FD-GEOCOLOR-678x678.jpg  / 50% 100% / 230%
-RADAR: https://radar.weather.gov/ridge/radar.php?rid=LSX&product=NCR&overlay=11101111&loop=yes
+SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/20181402130_GOES16-ABI-FD-GEOCOLOR-678x678.jpg  / 25% 
+RADAR: https://www.wunderground.com/weather-radar/united-states-regional/co/denver/animated
 WATCHES_WARNINGS: VAL
 DISTANCE: VAL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
