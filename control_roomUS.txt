@@ -13,28 +13,20 @@ CONTENT: OFF
 BRANCH: FORCE THIRTEEN / LA STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2018AL01/4KMIRIMG/2018AL01_4KMIRIMG_201805280500.GIF / 20x20 / 85% 
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
-WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 20x20 / 85%
-DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 20x20 / 50%
-LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking NNW @ 9 
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/053040_key_messages_sm.png/ 20x20 / 85%
+DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 20x20 / 85%
+LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking NW @ 9 
 
 The latest from Force Thirteen:
-
 ...ALBERTO MAINTAINING ITS STRENGTH AS IT APPROACHES THE FLORIDA PANHANDLE...
-
 SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
-
 LOCATION...28.6N 86.1W
 ABOUT 115 MI...185 KM SSW OF PANAMA CITY FLORIDA
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
 PRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...990 MB...29.23 INCHES
-
-
 HAZARDS AFFECTING LAND
-
-RAINFALL:  Alberto is expected to produce the following rain
-accumulations through Tuesday:
-
+RAINFALL:  Alberto is expected to produce the following rain accumulations through Tuesday:
 Central Cuba...Additional 5 to 10 inches, isolated storm-totals of20 to 25 inches.
 The Florida panhandle into much of Alabama and western Georgia...4to 8 inches, isolated 12 inches.
 The Florida Keys and south Florida...Additional 3 to 6 inches,isolated storm totals of 10 inches.
