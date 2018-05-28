@@ -1,4 +1,4 @@
-BREAKING_MODE: *Tropical Coverage
+BREAKING_MODE: Tropical Coverage
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ- New Orleans 
@@ -11,7 +11,7 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / LA STUDIO
-SATELLITE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 40x40 
+SATELLITE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 40x40 / 60% 
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
 WATCHES_WARNINGS: VAL
 DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 20x20 / 800%
