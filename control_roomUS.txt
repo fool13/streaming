@@ -11,10 +11,11 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / TX STUDIO
-SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/20181402130_GOES16-ABI-FD-GEOCOLOR-678x678.jpg  / 3% 
+SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL012018&starting_image=2018AL01_4KMIRIMG_201805272145.GIF  / 3%
+http://tropic.ssec.wisc.edu/real-time/storm.php?&basin=atlantic&sname=01L&invest=NO&zoom=4&img=1&vars=11111000000000000000000&loop=0
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 33%
-WATCHES_WARNINGS: VAL
-DISTANCE: VAL
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/024444_5day_cone_no_line_and_wind.png
+DISTANCE: 95 Mi. SSW of Appalachicola, FL
 LATEST_INFO: Severe Thunderstorms for much of TN. / 60 mph wind gusts. / Penny size hail. / Severe Thunderstorm near Ashland City.
 
 The latest from Force Thirteen:
