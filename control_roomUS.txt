@@ -18,19 +18,22 @@ DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_con
 LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking N @ 9 MPH / Pressure 991mb
 
 The latest from Force Thirteen:
-...ALBERTO MAINTAINING ITS STRENGTH AS IT APPROACHES THE FLORIDA PANHANDLE...
-SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
-LOCATION...28.6N 86.1W
-ABOUT 115 MI...185 KM SSW OF PANAMA CITY FLORIDA
+...ALBERTO HOLDING 65-MPH WINDS...
+...EXPECTED TO MAKE LANDFALL LATER TODAY...
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+LOCATION...28.6N 86.2W
+ABOUT 125 MI...200 KM S OF DESTIN FLORIDA
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...990 MB...29.23 INCHES
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+
 HAZARDS AFFECTING LAND
+----------------------
 RAINFALL:  Alberto is expected to produce the following rain accumulations through Tuesday:
 Central Cuba...Additional 5 to 10 inches, isolated storm-totals of 20 to 25 inches.
-The Florida panhandle into much of Alabama and western Georgia...4to 8 inches, isolated 12 inches.
-The Florida Keys and south Florida...Additional 3 to 6 inches, isolated storm totals of 10 inches.
-Rest of the Florida peninsula...1 to 4 inches.
-Rest of the Southeast and Tennessee Valley into the lower mid
-Atlantic from Tennessee east through the Carolinas...2 to 6 inches.
+The Florida panhandle into much of Alabama and western Georgia...4 to 8 inches, isolated 12 inches.
+The Florida Keys and Florida peninsula...Additional 1 to 4 inches, isolated 10 inches.
+Rest of the Southeast and Tennessee Valley into the lower mid Atlantic from Tennessee east through the Carolinas...2 to 6 inches.
+Rains in Cuba could produce life-threatening flash floods and mudsldes.  Flooding and flash flooding are possible in the
+southeast United States, including Florida.
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
