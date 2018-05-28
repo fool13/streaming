@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ- New Orleans
 TIMEZONE: America/ New_Orleans CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER:  STS Alberto Tracks Towards the Coast
-DESCRIPTION_BANNER: Mexico Beach in the Crosshairs
+DESCRIPTION_BANNER: Panama City Beach & Mexico Beach in the Crosshairs
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
