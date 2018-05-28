@@ -4,16 +4,16 @@ LIVE_MODE: ON
 LIVE_LOCATION: F13 HQ- New Orleans
 TIMEZONE: America/New_Orleans CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Alberto Nears Landfall
-DESCRIPTION_BANNER: Residents of the Panhandle Brace for Impact
+HEADING_BANNER: Alberto Nears Florida's Panhandle
+DESCRIPTION_BANNER: Residents of Destin Brace for Impact
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / LA STUDIO
-SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/07/1000x1000.jpg / 11%
+SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
-WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/024444_5day_cone_no_line_and_wind.png / 11%
+KEY_MESSAGES: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/024444_key_messages_sm.png /25%
 DISTANCE: 
 LATEST_INFO:  Maximum sustained winds / are near 65 mph / (100 km/h). 
 
