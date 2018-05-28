@@ -13,7 +13,7 @@ CONTENT: OFF
 BRANCH: FORCE THIRTEEN / LA STUDIO
 SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
-KEY_MESSAGES: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/024444_key_messages_sm.png /25%
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/024444_key_messages_sm.png /25%
 DISTANCE: 
 LATEST_INFO:  Maximum sustained winds / are near 65 mph / (100 km/h). 
 
