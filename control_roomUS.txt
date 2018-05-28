@@ -19,15 +19,12 @@ LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking NE / Pressure: 991
 
 The latest from Force Thirteen:
 ...ALBERTO MAINTAINING ITS STRENGTH AS IT APPROACHES THE FLORIDA PANHANDLE...
-
 SUMMARY OF 100 AM CDT...0600 UTC...INFORMATION
-
 LOCATION...28.6N 86.1W
 ABOUT 115 MI...185 KM SSW OF PANAMA CITY FLORIDA
 MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
 PRESENT MOVEMENT...NW OR 315 DEGREES AT 9 MPH...15 KM/H
 MINIMUM CENTRAL PRESSURE...990 MB...29.23 INCHES
-
 HAZARDS AFFECTING LAND
 RAINFALL:  Alberto is expected to produce the following rain accumulations through Tuesday:
 Central Cuba...Additional 5 to 10 inches, isolated storm-totals of 20 to 25 inches.
