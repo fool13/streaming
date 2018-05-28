@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ- New Orleans
 TIMEZONE: America/ New_Orleans CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: Alberto Nears Landfall
-DESCRIPTION_BANNER: Residents of Destin Brace for Impact
+DESCRIPTION_BANNER: Port Saint Joe in the crosshairs
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
