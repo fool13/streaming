@@ -11,9 +11,9 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / LA STUDIO
-SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/07/1000x1000.jpg / 20%
+SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/gm/07/1000x1000.jpg / 11%
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
-WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/024444_5day_cone_no_line_and_wind.png / 20%
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/024444_5day_cone_no_line_and_wind.png / 11%
 DISTANCE: 
 LATEST_INFO:  Maximum sustained winds / are near 65 mph / (100 km/h). 
 
