@@ -2,19 +2,22 @@ BREAKING_MODE: OFF
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
-TIMEZONE: AEST
+TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADLINE_BANNER: SUB TROPICAL Storm "ALBERTO".
-DESCRIPTION_BANNER: STORM SURGE, TROPICAL STORM WATCH
+HEADING_BANNER: TROPICAL CYCLONE "MARCUS". 
+DESCRIPTION_BANNER: Storm Force Wind Warning for the following areas:Beagle Bonaparte Coast, Van Diemen Gulf and Darwin Harbour
+
+Gale Warning for the following areas:
+North Tiwi Coast and Arafura Coast
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
-RADAR: http:// http://http://www.bom.gov.au/products/IDR663.loop.shtml / 50% 100% / 230%
-WATCHES_WARNINGS: STORM SURGE, TROPICAL STORM WATCH
+RADAR: http:// http://www.met.gov.fj/aifs_prods/fijicomp/loop/animated_fij.gif / 50% 100% / 230%
+WATCHES_WARNINGS: 
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
-LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Sub Tropical Storm #Alberto <br></span> / 14.04S&deg;130.09&deg;E / <br><span style="font-size:14px;font-weight:bold;">S</span> / <span style="font-size:14px;font-weight:bold;"> 22.8n 85.2W 105nm NNW Western tip -Cuba </span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
+LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Cyclone MARCUS Cat 2 <br></span> / 14.04S&deg;130.09&deg;E / <br><span style="font-size:14px;font-weight:bold;">S</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 You're watching Force Thirteen's Live Streaming Service
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Cyclone "MARCUS" 982HPA CAT 2. 
 <b>located, 12.41South 130.9East - SE of Dundee & 55kms SW of Darwin </b>
