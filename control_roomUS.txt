@@ -15,7 +15,7 @@ SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
 WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/053040_key_messages_sm.png / 20x20 / 80%
 DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 20x20 / 85%
-LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking NE / Pressure: 991mb
+LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking NE / Pressure 991mb
 
 The latest from Force Thirteen:
 ...ALBERTO MAINTAINING ITS STRENGTH AS IT APPROACHES THE FLORIDA PANHANDLE...
