@@ -1,16 +1,16 @@
-BREAKING_MODE: *US Election Coverage
-LIVE_BANNER: OFF
+BREAKING_MODE: Tropical Coverage
+LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ
-TIMEZONE: America/New_York EDT
+LIVE_LOCATION: F13 HQ- New Orleans
+TIMEZONE: America/New_Orleans CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: Severe Weather across the US
-DESCRIPTION_BANNER: More Thunderstorm Warnings are in place for much of Alabama.
+HEADING_BANNER: Alberto Nears Landfall
+DESCRIPTION_BANNER: Residents of the Panhandle Brace for Impact
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
-BRANCH: FORCE THIRTEEN / TX STUDIO
+BRANCH: FORCE THIRTEEN / LA STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL012018&starting_image=2018AL01_4KMIRIMG_201805272145.GIF  / 3%
 http://tropic.ssec.wisc.edu/real-time/storm.php?&basin=atlantic&sname=01L&invest=NO&zoom=4&img=1&vars=11111000000000000000000&loop=0
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 33%
