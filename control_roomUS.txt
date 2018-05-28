@@ -11,7 +11,7 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / LA STUDIO
-SATELLITE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 10x10 / 5%
+SATELLITE: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_5day_cone_no_line_and_wind+png/053040_5day_cone_no_line_and_wind.png / 5%
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
 WATCHES_WARNINGS: VAL
 DISTANCE: VAL
