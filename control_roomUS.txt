@@ -4,20 +4,21 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ- New Orleans 
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER:  TROPICAL STORM UPDATE
-DESCRIPTION_BANNER: LOCATION-10.4N 44.0W... WINDS-65 MPH... MOVEMENT-W OR 275 @ 14 MPH
+HEADING_BANNER:  TROPICAL STORM UPDATE- TS BERYL
+DESCRIPTION_BANNER: LOCATION-10.4N 44.0W... WINDS-65 MPH... MOVEMENT- W OR 275 @ 14 MPH... 1955 KM ESE OF THE LESSER ANTILLES
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS, LA STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2018AL01/4KMIRIMG/2018AL01_4KMIRIMG_201805280730.GIF / 20x20 / 85% 
-RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 30%
+RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 20%
 WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/053040_key_messages_sm.png / 20x20 / 78%
 DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/023407_5day_cone_no_line_and_wind.png / 20x20 / 85%
-LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking W @ 14 MPH / Pressure 999mb
+LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking W @ 14 MPH / Pressure 999mb / 1955 KM ESE OF THE LESSER ANTILLES
 
 The latest from Force Thirteen:
+------------------------------------------
 ...TINY BERYL CONTINUES TO STRENGTHEN OVER THE TROPICAL ATLANTIC...
 SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
 LOCATION...10.4N 44.0W, ABOUT 1215 MI...1955 KM ESE OF THE LESSER ANTILLES
@@ -26,17 +27,13 @@ PRESENT MOVEMENT...W OR 275 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
 WATCHES AND WARNINGS- NONE
 DISCUSSION AND OUTLOOK
-At 1100 PM AST (0300 UTC), the center of Tropical Storm Beryl was located near latitude 10.4 North, / longitude 44.0 West. / Beryl is moving toward the west near 14 mph (22 km/h), and/ this general motion should continue through tonight.  A fast westward to west-northwestward motion is expected through the weekend.  On the forecast track, the center of Beryl will remain east of the Lesser Antilles through Sunday.
-
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Beryl was located near latitude 10.4 North, longitude 44.0 West. Beryl is moving toward the west near 14 mph (22 km/h), and/ this general motion should continue through tonight.  A fast westward to west-northwestward motion is expected through the weekend.  On the forecast track, the center of Beryl will remain east of the Lesser Antilles through Sunday.
 Maximum sustained winds have increased to near 65 mph (100 km/h)
 with higher gusts.  Additional strengthening is forecast, and Beryl
 could become a hurricane on Friday.  Beryl is forecast to degenerate
 into a strong open trough just east of the Lesser Antilles over the
 weekend.
-
 Beryl is a tiny tropical storm. Tropical-storm-force winds only
 extend outward up to 35 miles (55 km) from the center.
-
 The estimated minimum central pressure is 999 mb (29.50 inches).
-
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
