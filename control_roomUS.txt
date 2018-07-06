@@ -1,4 +1,4 @@
-BREAKING_MODE: Tropical Weather Update
+BREAKING_MODE: Tropical Weather Update*
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ- New Orleans 
@@ -10,7 +10,7 @@ TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
-BRANCH: FORCE THIRTEEN / NOLA STUDIO
+BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2018AL01/4KMIRIMG/2018AL01_4KMIRIMG_201805280730.GIF / 20x20 / 85% 
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 30%
 WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/053040_key_messages_sm.png / 20x20 / 78%
