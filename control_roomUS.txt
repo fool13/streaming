@@ -11,9 +11,9 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS, LA STUDIO
-SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/GIFS/GOES16-TAW-GEOCOLOR-900x540.gif / 20%
+SATELLITE: https://cdn.star.nesdis.noaa.gov/GOES16/ABI/GIFS/GOES16-TAW-GEOCOLOR-900x540.gif / 90%
 WATCHES_WARNINGS: NO CURRENT WARNINGS
-DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/023407_5day_cone_no_line_and_wind.png / 20x20 / 85%
+DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/023407_5day_cone_no_line_and_wind.png / 20x20 / 25%
 LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking W @ 14 MPH / Pressure 999mb / 1955 KM ESE OF THE LESSER ANTILLES
 
 The latest from Force Thirteen:
