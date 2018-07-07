@@ -1,5 +1,5 @@
-REAKING_MODE: Tropical Weather Update*
-LIVE_BANNER: OFF
+BREAKING_MODE: Tropical Weather Update
+LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ- New Orleans 
 TIMEZONE: America/ CDT
