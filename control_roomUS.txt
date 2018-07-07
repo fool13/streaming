@@ -12,7 +12,7 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/tropical/tropical_ge_4km_visir2_floater_2.gif / 20x20 / 85% 
-RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 75% 800x400
+RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 75% 2
 WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_key_messages+png/024307_key_messages_sm.png / 25x95 / 77%
 DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/024307_5day_cone_no_line_and_wind.png / 20x20 / 85%
 LATEST_INFO:  Maximum winds near 80 mph (130 km/h) / Tracking W @ 14 MPH / Pressure 994mb
