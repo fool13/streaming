@@ -4,18 +4,18 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ- New Orleans 
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER:  STS Alberto Tracks Towards the Coast
-DESCRIPTION_BANNER: Panama City Beach in the Crosshairs
+HEADING_BANNER:  HURRICANE BERYL
+DESCRIPTION_BANNER: Small Hurricane Beryl Showing Signs of Disorganization
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
-SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2018AL02/4KMIRIMG/2018AL02_4KMIRIMG_201807060500.GIF / 20x20 / 85% 
+SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL022018&starting_image=2018AL02_4KMIRIMG_201807062145.GIF / 20x20 / 85% 
 RADAR: https://radar.weather.gov/Conus/full.php / 30%
-WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT01/refresh/AL012018_key_messages+png/053040_key_messages_sm.png / 20x20 / 78%
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/024307_5day_cone_no_line_and_wind.png / 20x20 / 78%
 DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/023407_5day_cone_no_line_and_wind.png / 20x20 / 85%
-LATEST_INFO:  Maximum winds near 65 mph (100 km/h) / Tracking NW @ 7 MPH / Pressure 990mb
+LATEST_INFO:  Maximum winds near 80 mph (130 km/h) / Tracking W @ 14 MPH / Pressure 994mb
 
 The latest from Force Thirteen:
 ...TINY BERYL CONTINUES TO STRENGTHEN OVER THE TROPICAL ATLANTIC...
