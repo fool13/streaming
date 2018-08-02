@@ -1,13 +1,13 @@
 BREAKING_MODE: ON
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ
+LIVE_LOCATION: F13 AU
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: . HECTOR NOW AN 85-MPH HURRICANE...
-DESCRIPTION_BANNER:There are no coastal watches or warnings in effect.
-Gale Warning for the following areas:
-North Tiwi Coast and Arafura Coast
+DESCRIPTION_BANNER: There are no coastal watches or warnings in effect.
+
+
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
