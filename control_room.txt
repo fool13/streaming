@@ -8,10 +8,10 @@ HEADING_BANNER: . HI STRAT
 DESCRIPTION_BANNER: There are no coastal watches or warnings in effect.
 
 
-TICKER_BANNER: OFF
+TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
-CONTENT: ON
+CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
 RADAR: http:// http://www.met.gov.fj/aifs_prods/fijicomp/loop/animated_fij.gif / 50% 100% / 230%
 WATCHES_WARNINGS: 
