@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 AU
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: OFF 
-HEADING_BANNER: . HI STRAT
+HEADING_BANNER: . Tropical Storm Rumbia Makes Landfall
 DESCRIPTION_BANNER: There are no coastal watches or warnings in effect.
 
 
