@@ -12,35 +12,44 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: 
-RADAR:
-WATCHES_WARNINGS: 
-DISTANCE: 
-LATEST_INFO:  Maximum winds near *** mph (*** km/h) / Tracking * @ ** MPH / Pressure ***mb
+RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 152
+WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
+DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 18x18 / 76%
+LATEST_INFO:  Maximum winds near 50 mph (85 km/h) / Tracking WNW @ 17 MPH / Pressure 1006mb
  
 The latest from Force Thirteen:
-SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
------------------------------------------------
-LOCATION...23.4N 78.7W
-ABOUT 175 MI...285 KM ESE OF MARATHON FLORIDA
-MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 15 MPH...24 KM/H
-MINIMUM CENTRAL PRESSURE...1012 MB...29.89 INCHES
+...HURRICANE WARNING ISSUED FOR PORTIONS OF THE CENTRAL GULF
+COAST AND STORM SURGE WARNING EXTENDED EASTWARD...
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...26.2N 82.6W
+ABOUT 50 MI...85 KM WSW OF FT. MYERS FLORIDA
+ABOUT 445 MI...715 KM ESE OF THE MOUTH OF THE MISSISSIPPI RIVER
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
-A Storm Surge Watch has been issued for the north-central Gulf
-coast from the Mississippi-Alabama border westward to the Mouth of
-the Mississippi River.
+The Storm Surge Warning has been extended eastward to Dauphin
+Island, Alabama.
+A Hurricane Warning has been issued from the Mouth of the Pearl
+River to the Alabama-Florida Border. This warning replaces the
+Hurricane Watch and Tropical Storm Warning for this area.
+The Tropical Storm Warning for the Upper Florida Keys and from
+Golden Beach to Chokoloskee, including Florida Bay, has been
+discontinued.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+A Storm Surge Warning is in effect for...
+* Shell Beach to Dauphin Island
 A Storm Surge Watch is in effect for...
-* Mississippi-Alabama border westward to the Mouth of the
-Mississippi River
-A Tropical Storm Watch is in effect for...
-* Alabama-Florida border westward to east of Morgan City, Louisiana,
-including Lake Pontchartrain and Lake Maurepas
-Interests in the Florida Keys and the southern Florida peninsula
-should monitor the progress of this system.
-For storm information specific to your area, including possible
-inland watches and warnings, please monitor products issued by your
-local National Weather Service forecast office.
+* West of Shell Beach to the Mouth of the Mississippi River
+* East of Dauphin Island to Navarre
+A Hurricane Warning is in effect for...
+* Mouth of the Pearl River to the Alabama-Florida Border
+A Tropical Storm Warning is in effect for...
+* Chokoloskee to Bonita Beach
+* West of the Mouth of the Pearl River to east of Morgan City,
+Louisiana, including Lake Pontchartrain and Lake Maurepas
+* Alabama-Florida Border to Okaloosa-Walton County Line
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
