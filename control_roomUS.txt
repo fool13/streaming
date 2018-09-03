@@ -1,39 +1,49 @@
-BREAKING_MODE: Tropical Weather Update
+BREAKING_MODE: Tropical Storm Lice Stream
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13 HQ- New Orleans 
+LIVE_LOCATION: F13- New Orleans 
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER:  HURRICANE BERYL
-DESCRIPTION_BANNER: Small Hurricane Beryl Showing Signs of Disorganization
+HEADING_BANNER:  TROPICAL STORM GORDON
+DESCRIPTION_BANNER: Live Imagery of the Impacts of Gordon on New Orleans
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
-SATELLITE: http://rammb.cira.colostate.edu/ramsdis/online/images/latest/tropical/tropical_ge_4km_visir2_floater_2.gif / 20x20 / 85% 
+SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL072018&starting_image=2018AL07_4KMIRIMG_201809022300.GIF / 20x20 / 85% 
 RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 75% / 
-WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_key_messages+png/024307_key_messages_sm.png / 25x95 / 77%
-DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT02/refresh/AL022018_5day_cone_no_line_and_wind+png/024307_5day_cone_no_line_and_wind.png / 1 / 45%
-LATEST_INFO:  Maximum winds near 80 mph (130 km/h) / Tracking W @ 14 MPH / Pressure 994mb
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 77%
+DISTANCE: hhttps://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 1 / 45%
+LATEST_INFO:  Maximum winds near *** mph (*** km/h) / Tracking * @ ** MPH / Pressure ***mb
  
 The latest from Force Thirteen:
-...NO CHANGE IN THE STRENGTH OF BERYL AS IT CONTINUES WESTWARD...
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
-LOCATION...10.9N 48.9W
-ABOUT 890 MI...1430 KM ESE OF THE LESSER ANTILLES
-MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
 -----------------------------------------------
+LOCATION...23.4N 78.7W
+ABOUT 175 MI...285 KM ESE OF MARATHON FLORIDA
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1012 MB...29.89 INCHES
+
+
 WATCHES AND WARNINGS
-CHANGES WITH THIS ADVISORY: None.
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+A Storm Surge Watch has been issued for the north-central Gulf
+coast from the Mississippi-Alabama border westward to the Mouth of
+the Mississippi River.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
-A Hurricane Watch is in effect for... * Dominica
-A Tropical Storm Watch is in effect for... * Martinique * Guadeloupe * St. Martin * St. Barthelemy
-A Hurricane Watch means that hurricane conditions are possible within the watch area.
-A Tropical Storm Watch means that tropical storm conditions are possible within the watch area.
-Interests elsewhere in the Lesser Antilles should monitor the progress of Beryl, as additional watches 
-could be required  for other islands later tonight or early Saturday.
-For storm information specific to your area, please monitor products issued by your national meteorological service.
-Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
+A Storm Surge Watch is in effect for...
+* Mississippi-Alabama border westward to the Mouth of the
+Mississippi River
+A Tropical Storm Watch is in effect for...
+* Alabama-Florida border westward to east of Morgan City, Louisiana,
+including Lake Pontchartrain and Lake Maurepas
+Interests in the Florida Keys and the southern Florida peninsula
+should monitor the progress of this system.
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
