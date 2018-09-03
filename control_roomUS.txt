@@ -12,9 +12,9 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: 
-RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 152
+RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
-DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 18x18 / 76%
+DISTANCE: 
 LATEST_INFO:  Maximum winds near 50 mph (85 km/h) / Tracking WNW @ 17 MPH / Pressure 1006mb
  
 The latest from Force Thirteen:
