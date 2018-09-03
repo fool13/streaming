@@ -12,7 +12,7 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2018AL07/4KMIRIMG/2018AL07_4KMIRIMG_201809030200.GIF / 20x20 / 85% 
-RADAR: https://radar.weather.gov/Legend/N0R/AMX_N0R_Legend_0.gif / 76%
+RADAR: https://radar.weather.gov/radar.php?rid=AMX&product=N0Z&overlay=11101111&loop=yes / 76%
 WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 18x18 / 76%
 LATEST_INFO:  Maximum winds near *** mph (*** km/h) / Tracking * @ ** MPH / Pressure ***mb
