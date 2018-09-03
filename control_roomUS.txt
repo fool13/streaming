@@ -1,4 +1,4 @@
-BREAKING_MODE: Tropical Storm Lice Stream
+BREAKING_MODE: *Tropical Storm Live Stream*
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13- New Orleans 
@@ -12,9 +12,9 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL072018&starting_image=2018AL07_4KMIRIMG_201809022300.GIF / 20x20 / 85% 
-RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 75% / 
+RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 20x20
 WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 18x18 / 77%
-DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 20x20 / 45%
+DISTANCE: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 20x20 
 LATEST_INFO:  Maximum winds near *** mph (*** km/h) / Tracking * @ ** MPH / Pressure ***mb
  
 The latest from Force Thirteen:
