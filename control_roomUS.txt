@@ -13,8 +13,8 @@ CONTENT: OFF
 BRANCH: FORCE THIRTEEN / NEW ORLEANS STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/loop.asp?product=4kmirimg&storm_identifier=AL072018&starting_image=2018AL07_4KMIRIMG_201809022300.GIF / 20x20 / 85% 
 RADAR: https://radar.weather.gov/Conus/Loop/NatLoop_Small.gif / 75% / 
-WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 20x20 / 77%
-DISTANCE: hhttps://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 1 / 45%
+WATCHES_WARNINGS: https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_key_messages+png/032225_key_messages_sm.png / 18x18 / 77%
+DISTANCE: hhttps://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 20x20 / 45%
 LATEST_INFO:  Maximum winds near *** mph (*** km/h) / Tracking * @ ** MPH / Pressure ***mb
  
 The latest from Force Thirteen:
@@ -25,12 +25,9 @@ ABOUT 175 MI...285 KM ESE OF MARATHON FLORIDA
 MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
 PRESENT MOVEMENT...WNW OR 300 DEGREES AT 15 MPH...24 KM/H
 MINIMUM CENTRAL PRESSURE...1012 MB...29.89 INCHES
-
-
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
-
 A Storm Surge Watch has been issued for the north-central Gulf
 coast from the Mississippi-Alabama border westward to the Mouth of
 the Mississippi River.
