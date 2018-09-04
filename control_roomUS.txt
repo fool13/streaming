@@ -5,7 +5,7 @@ LIVE_LOCATION: F13- New Orleans
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER:  TROPICAL STORM GORDON
-DESCRIPTION_BANNER: Monitoring the Storm Overnight
+DESCRIPTION_BANNER: Monitoring the Storm Overnight- For more coverage visit the Force Thirteen US Channel
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
@@ -15,21 +15,24 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:  Maximum winds near / 65 mph (100 km/h) / Tracking WNW @ 17 MPH / Pressure 1004mb
+LATEST_INFO:  Maximum winds near / 70 mph (110 km/h) / Tracking NW @ 15 MPH / Pressure 1000 mb
  
 The latest from Force Thirteen:
-...GORDON CONTINUES HEADING FOR THE NORTHERN GULF COAST...
-...EXPECTED TO MAKE LANDFALL TONIGHT...
-SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+...GORDON STRENGTHENS A LITTLE AS IT HEADS TOWARD THE NORTH-CENTRAL
+GULF COAST...
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...27.7N 85.7W
-ABOUT 230 MI...365 KM ESE OF THE MOUTH OF THE MISSISSIPPI RIVER
-MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
-PRESENT MOVEMENT...WNW OR 300 DEGREES AT 17 MPH...28 KM/H
-MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+LOCATION...29.4N 87.8W
+ABOUT 95 MI...155 KM SE OF BILOXI MISSISSIPPI
+ABOUT 90 MI...145 KM S OF MOBILE ALABAMA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 WATCHES AND WARNINGS
 --------------------
-CHANGES WITH THIS ADVISORY: None
+CHANGES WITH THIS ADVISORY:
+The Tropical Storm Warning has been discontinued west of the Mouth
+of the Mississippi River, including Lake Maurepas.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * Shell Beach to Dauphin Island
@@ -39,7 +42,7 @@ A Storm Surge Watch is in effect for...
 A Hurricane Warning is in effect for...
 * Mouth of the Pearl River to the Alabama-Florida Border
 A Tropical Storm Warning is in effect for...
-* West of the Mouth of the Pearl River to east of Morgan City,
-Louisiana, including Lake Pontchartrain and Lake Maurepas
+* West of the Mouth of the Pearl River to the Mouth of the
+Mississippi River, including Lake Pontchartrain
 * Alabama-Florida Border to Okaloosa-Walton County Line
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
