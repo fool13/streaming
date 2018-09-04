@@ -15,24 +15,23 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:  Maximum winds near / 70 mph (110 km/h) / Tracking NW @ 15 MPH / Pressure 1000 mb
+LATEST_INFO:  Maximum winds near / 70 mph (110 km/h) / Tracking NW @ 14 MPH / Pressure 999 mb
  
 The latest from Force Thirteen:
-...GORDON STRENGTHENS A LITTLE AS IT HEADS TOWARD THE NORTH-CENTRAL
-GULF COAST...
-SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+...TROPICAL-STORM-FORCE WINDS SPREADING ONSHORE ALONG THE ALABAMA
+AND WESTERN FLORIDA PANHANDLE COASTLINES...
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...29.4N 87.8W
-ABOUT 95 MI...155 KM SE OF BILOXI MISSISSIPPI
-ABOUT 90 MI...145 KM S OF MOBILE ALABAMA
+LOCATION...29.7N 87.9W
+ABOUT 75 MI...125 KM SE OF BILOXI MISSISSIPPI
+ABOUT 70 MI...115 KM S OF MOBILE ALABAMA
 MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
-PRESENT MOVEMENT...NW OR 310 DEGREES AT 15 MPH...24 KM/H
-MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
-The Tropical Storm Warning has been discontinued west of the Mouth of the Mississippi River, 
-including Lake Maurepas.
+None
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * Shell Beach to Dauphin Island
