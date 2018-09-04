@@ -31,8 +31,8 @@ MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
-The Tropical Storm Warning has been discontinued west of the Mouth
-of the Mississippi River, including Lake Maurepas.
+The Tropical Storm Warning has been discontinued west of the Mouth of the Mississippi River, 
+including Lake Maurepas.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * Shell Beach to Dauphin Island
