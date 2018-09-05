@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13- New Orleans 
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER:  TROPICAL STORM GORDON
+HEADING_BANNER:  TROPICAL STORM GORDON MAKES LANDFALL
 DESCRIPTION_BANNER: Force Thirteen's next update will appear on the main channel at 10pm CDT
 TICKER_BANNER: ON
 SIDEBAR: ON
@@ -15,33 +15,32 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:  Maximum winds near / 70 mph (110 km/h) / Tracking NW @ 14 MPH / Pressure 999 mb
+LATEST_INFO:  Maximum winds near / 70 mph (110 km/h) / Tracking NW @ 14 MPH / Pressure 997 mb
  
 The latest from Force Thirteen:
-...TROPICAL-STORM-FORCE WINDS SPREADING ONSHORE ALONG THE ALABAMA
-AND WESTERN FLORIDA PANHANDLE COASTLINES...
-SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
-----------------------------------------------
-LOCATION...29.7N 87.9W
-ABOUT 75 MI...125 KM SE OF BILOXI MISSISSIPPI
-ABOUT 70 MI...115 KM S OF MOBILE ALABAMA
+...CENTER OF GORDON MAKING LANDFALL JUST WEST OF THE
+ALABAMA-MISSISSIPPI BORDER...
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...30.3N 88.4W
+ABOUT 30 MI...50 KM ESE OF BILOXI MISSISSIPPI
+ABOUT 35 MI...55 KM SSW OF MOBILE ALABAMA
 MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
 PRESENT MOVEMENT...NW OR 315 DEGREES AT 14 MPH...22 KM/H
-MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
 WATCHES AND WARNINGS
 --------------------
 CHANGES WITH THIS ADVISORY:
-None
+All warnings and watches west of the mouth of the Pearl River have
+been discontinued.  The Storm Surge Warning west of Biloxi has
+also been discontinued.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
-* Shell Beach to Dauphin Island
+* Biloxi Mississippi to Dauphin Island
 A Storm Surge Watch is in effect for...
-* West of Shell Beach to the Mouth of the Mississippi River
 * East of Dauphin Island to Navarre
 A Hurricane Warning is in effect for...
 * Mouth of the Pearl River to the Alabama-Florida Border
 A Tropical Storm Warning is in effect for...
-* West of the Mouth of the Pearl River to the Mouth of the
-Mississippi River, including Lake Pontchartrain
 * Alabama-Florida Border to Okaloosa-Walton County Line
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
