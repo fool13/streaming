@@ -5,7 +5,7 @@ LIVE_LOCATION: F13- New Orleans
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER:  TROPICAL STORM GORDON MAKES LANDFALL
-DESCRIPTION_BANNER: Force Thirteen's next update will appear on the main channel at 10:10pm CDT
+DESCRIPTION_BANNER: Force Thirteen's next update will appear on the main channel at 10:15pm CDT
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
