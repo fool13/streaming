@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:  Landfall near MS/AL border / Maximum winds near / 70 mph (110 km/h) / Tracking NW @ 14 MPH / Pressure 997 mb
+LATEST_INFO:  Landfall near MS/AL border / 1 Death confirmed
  
 The latest from Force Thirteen:
 ...CENTER OF GORDON MAKING LANDFALL JUST WEST OF THE
