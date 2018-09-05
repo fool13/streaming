@@ -21,7 +21,6 @@ The latest from Force Thirteen:
 ...CENTER OF GORDON MAKING LANDFALL JUST WEST OF THE
 ALABAMA-MISSISSIPPI BORDER...
 SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
------------------------------------------------
 LOCATION...30.3N 88.4W
 ABOUT 30 MI...50 KM ESE OF BILOXI MISSISSIPPI
 ABOUT 35 MI...55 KM SSW OF MOBILE ALABAMA
@@ -29,7 +28,6 @@ MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
 PRESENT MOVEMENT...NW OR 315 DEGREES AT 14 MPH...22 KM/H
 MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
 WATCHES AND WARNINGS
---------------------
 CHANGES WITH THIS ADVISORY:
 All warnings and watches west of the mouth of the Pearl River have
 been discontinued.  The Storm Surge Warning west of Biloxi has
