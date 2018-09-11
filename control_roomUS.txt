@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13US- New Orleans 
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: MAJOR HURRICAN FLORENCE
+HEADING_BANNER: MAJOR HURRICANE FLORENCE
 DESCRIPTION_BANNER: Force Thirteen US Monitors the NC Coast 
 TICKER_BANNER: ON
 SIDEBAR: ON
@@ -18,10 +18,8 @@ DISTANCE:
 LATEST_INFO:   Maximum winds near / 60 mph (95 km/h) / Tracking W @ 7 MPH / Pressure 999 mb
  
 The latest from Force Thirteen US:
-...FLORENCE CHANGES LITTLE IN STRENGTH DURING THE PAST SEVERAL
-HOURS...
-...HURRICANE AND STORM SURGE WATCHES LIKELY TO BE ISSUED ON
-TUESDAY...
+...FLORENCE CHANGES LITTLE IN STRENGTH DURING THE PAST SEVERAL HOURS...
+...HURRICANE AND STORM SURGE WATCHES LIKELY TO BE ISSUED ON TUESDAY...
 SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
 LOCATION...25.9N 62.4W
 ABOUT 465 MI...750 KM SSE OF BERMUDA
@@ -31,8 +29,8 @@ PRESENT MOVEMENT...WNW OR 290 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...944 MB...27.88 INCHES
 WATCHES AND WARNINGS
 There are no coastal watches or warnings in effect.
-Interests in the southeastern and mid-Atlantic states should monitor
-the progress of Florence.  Storm Surge and Hurricane watches are
+Interests in the southeastern and mid-Atlantic states should monitor the progress of Florence.  
+Storm Surge and Hurricane watches are
 likely be issued for portions of these areas on Tuesday.
 DISCUSSION AND OUTLOOK
 At 1100 PM AST (0300 UTC), the center of Hurricane Florence was
