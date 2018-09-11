@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   Maximum winds near / 60 mph (95 km/h) / Tracking W @ 7 MPH / Pressure 999 mb
+LATEST_INFO:   Maximum winds near / 140 mph (220 km/h) / Tracking WNW @ 13 MPH / Pressure 944 mb
  
 The latest from Force Thirteen US:
 ...FLORENCE CHANGES LITTLE IN STRENGTH DURING THE PAST SEVERAL HOURS...
