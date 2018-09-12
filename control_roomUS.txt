@@ -15,22 +15,20 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   Maximum winds near / 140 mph (220 km/h) / Tracking WNW @ 17 MPH / Pressure 945 mb
+LATEST_INFO:   Maximum winds near / 140 mph (220 km/h) / Tracking WNW @ 17 MPH / Pressure 946 mb
  
 The latest from Force Thirteen US:
-...DANGEROUS FLORENCE HEADED FOR THE U.S. EAST COAST...
-...EXPECTED TO BRING LIFE-THREATENING STORM SURGE AND RAINFALL TO
-PORTIONS OF THE CAROLINAS AND MID-ATLANTIC STATES...
-SUMMARY OF 800 PM AST...0000 UTC...INFORMATION
-LOCATION...28.0N 67.9W
-ABOUT 350 MI...565 KM SSW OF BERMUDA
-ABOUT 725 MI...1165 KM ESE OF CAPE FEAR NORTH CAROLINA
+...DANGEROUS FLORENCE EXPECTED TO BRING LIFE-THREATENING STORM SURGE
+AND RAINFALL TO PORTIONS OF THE CAROLINAS AND MID-ATLANTIC STATES...
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+LOCATION...28.4N 68.7W
+ABOUT 355 MI...570 KM SW OF BERMUDA
+ABOUT 670 MI...1075 KM ESE OF CAPE FEAR NORTH CAROLINA
 MAXIMUM SUSTAINED WINDS...140 MPH...220 KM/H
 PRESENT MOVEMENT...WNW OR 300 DEGREES AT 17 MPH...28 KM/H
-MINIMUM CENTRAL PRESSURE...945 MB...27.91 INCHES
+MINIMUM CENTRAL PRESSURE...946 MB...27.93 INCHES
 WATCHES AND WARNINGS
-CHANGES WITH THIS ADVISORY:
-None.
+CHANGES WITH THIS ADVISORY: None.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * South Santee River South Carolina to Duck North Carolina
@@ -50,45 +48,51 @@ A Tropical Storm Watch is in effect for...
 Virginia
 * Chesapeake Bay south of New Point Comfort
 Interests elsewhere in the southeastern and mid-Atlantic states
-should monitor the progress of Florence.  Additional watches and
-warnings may be required tonight or Wednesday.
+should monitor the progress of Florence.
 For storm information specific to your area, including possible
 inland watches and warnings, please monitor products issued by your
 local National Weather Service forecast office.
 DISCUSSION AND OUTLOOK
-At 800 PM AST (0000 UTC), the eye of Hurricane Florence was located
-by satellite near latitude 28.0 North, longitude 67.9 West.
-Florence is moving toward the west-northwest near 17 mph (28 km/h).
-A motion toward the west-northwest and northwest is expected through
-early Thursday.  Florence is expected to slow down considerably by
-late Thursday into Friday.  On the forecast track, the center of
-Florence will move over the southwestern Atlantic Ocean between
-Bermuda and the Bahamas through Wednesday, and approach the coast of
-North Carolina or South Carolina in the hurricane warning area on
-Thursday and Friday.
+At 1100 PM AST (0300 UTC), the eye of Hurricane Florence was
+located near latitude 28.4 North, longitude 68.7 West. Florence is
+moving toward the west-northwest near 17 mph (28 km/h).  A motion
+toward the west-northwest and northwest is expected through early
+Thursday.  Florence is expected to slow down considerably by late
+Thursday into Friday.  On the forecast track, the center of Florence
+will move over the southwestern Atlantic Ocean between Bermuda and
+the Bahamas through Wednesday, and approach the coast of North
+Carolina or South Carolina in the hurricane warning area on Thursday
+and Friday.
 Maximum sustained winds are near 140 mph (220 km/h) with higher
 gusts.  Florence is a category 4 hurricane on the Saffir-Simpson
-Hurricane Wind Scale.  Strengthening is forecast tonight and
-Wednesday.  While some weakening is expected on Thursday, Florence
-is forecast to be an extremely dangerous major hurricane through
-landfall.
-Hurricane-force winds extend outward up to 60 miles (95 km) from
-the center and tropical-storm-force winds extend outward up to 175
-miles (280 km).
-The estimated minimum central pressure is 945 mb (27.91 inches).
+Hurricane Wind Scale.  Strengthening is forecast through Wednesday.
+While some weakening is expected on Thursday, Florence is forecast
+to be an extremely dangerous major hurricane through landfall.
+Hurricane-force winds extend outward up to 60 miles (95 km) from the
+center and tropical-storm-force winds extend outward up to 175 miles
+(280 km).
+The minimum central pressure reported by an Air Force Hurricane
+Hunter aircraft is 946 mb (27.93 inches).
 HAZARDS AFFECTING LAND
 STORM SURGE:  The combination of a dangerous storm surge and the
 tide will cause normally dry areas near the coast to be flooded by
 rising waters moving inland from the shoreline.  The water has the
 potential to reach the following heights above ground if peak surge
 occurs at the time of high tide...
-Cape Fear to Cape Lookout, including the Neuse and Pamlico
-Rivers...9-13 ft
+Cape Fear to Cape Lookout, including the Neuse, Pamlico, Pungo, and
+Bay Rivers...9-13 ft
 North Myrtle Beach to Cape Fear...6-9 ft
 Cape Lookout to Ocracoke Inlet...6-9 ft
 South Santee River to North Myrtle Beach...4-6 ft
 Ocracoke Inlet to North Carolina/Virginia Border...4-6 ft
 Edisto Beach to South Santee River...2-4 ft
+The deepest water will occur along the immediate coast in areas of
+onshore winds, where the surge will be accompanied by large and
+destructive waves.  Surge-related flooding depends on the relative
+timing of the surge and the tidal cycle, and can vary greatly over
+short distances.  For information specific to your area, please see
+products issued by your local National Weather Service forecast
+office.
 RAINFALL: Florence is expected to produce total rainfall
 accumulations of 15 to 25 inches with isolated maximum amounts of
 35 inches near the storm's track over portions of the Carolinas and
@@ -105,5 +109,6 @@ portions of the U.S. East Coast.  These swells are likely to cause
 life-threatening surf and rip current conditions.  Please consult
 products from your local weather office.
 NEXT ADVISORY
-Next complete advisory at 1100 PM AST.
+Next intermediate advisory at 200 AM AST.
+Next complete advisory at 500 AM AST.
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
