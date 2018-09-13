@@ -1,4 +1,4 @@
-BREAKING_MODE: *Force Thirteen US Unattended Stream*
+BREAKING_MODE: Force Thirteen US Unattended Live Stream
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13US- New Orleans  
@@ -33,8 +33,7 @@ CHANGES WITH THIS ADVISORY: None.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * South Santee River South Carolina to Duck North Carolina
-* Albemarle and Pamlico Sounds, including the Neuse and Pamlico
-Rivers
+* Albemarle and Pamlico Sounds, including the Neuse and Pamlico Rivers
 A Storm Surge Watch is in effect for...
 * Edisto Beach South Carolina to South Santee River South Carolina
 * North of Duck North Carolina to the North Carolina/Virginia border
@@ -67,8 +66,7 @@ Friday. A slow motion over eastern South Carolina is forecast Friday
 night and Saturday.
 Maximum sustained winds are near 110 mph (175 km/h) with higher
 gusts.  Little change in strength is expected before the center
-reaches the coast, with weakening expected after the center moves
-inland.
+reaches the coast, with weakening expected after the center moves inland.
 Hurricane-force winds extend outward up to 80 miles (130 km) from
 the center and tropical-storm-force winds extend outward up to 195
 miles (315 km).  A NOAA buoy located about 60 miles (95 km)
