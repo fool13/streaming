@@ -15,25 +15,30 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   Maximum winds near / 110 mph (175 km/h) / Tracking NW @ 17 MPH / Pressure 956 mb
+LATEST_INFO:   Maximum winds near / 110 mph (175 km/h) / Tracking NW @ 15 MPH / Pressure 956 mb
  
 The latest from Force Thirteen US:
-...FLORENCE MOVING CLOSER TO THE COAST OF NORTH AND SOUTH
-CAROLINA...
-...LIFE-THREATENING STORM SURGE AND RAINFALL STILL EXPECTED...
-SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
-LOCATION...32.5N 74.3W
-ABOUT 235 MI...375 KM ESE OF WILMINGTON NORTH CAROLINA
-ABOUT 280 MI...450 KM ESE OF MYRTLE BEACH SOUTH CAROLINA
+...OUTER RAIN BANDS OF FLORENCE ARE APPROACHING THE COAST OF
+NORTH CAROLINA...
+...LIFE-THREATENING STORM SURGE AND RAINFALL EXPECTED...
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+LOCATION...32.8N 74.7W
+ABOUT 205 MI...325 KM ESE OF WILMINGTON NORTH CAROLINA
+ABOUT 250 MI...405 KM ESE OF MYRTLE BEACH SOUTH CAROLINA
 MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
-PRESENT MOVEMENT...NW OR 315 DEGREES AT 17 MPH...28 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 15 MPH...24 KM/H
 MINIMUM CENTRAL PRESSURE...956 MB...28.23 INCHES
 WATCHES AND WARNINGS
-CHANGES WITH THIS ADVISORY: None.
+CHANGES WITH THIS ADVISORY:
+The Tropical Storm Watch from north of the North Carolina/Virginia
+border to Cape Charles Light Virginia and for the Chesapeake Bay
+south of New Point Comfort has been changed to a Tropical Storm
+Warning.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * South Santee River South Carolina to Duck North Carolina
-* Albemarle and Pamlico Sounds, including the Neuse and Pamlico Rivers
+* Albemarle and Pamlico Sounds, including the Neuse and Pamlico
+Rivers
 A Storm Surge Watch is in effect for...
 * Edisto Beach South Carolina to South Santee River South Carolina
 * North of Duck North Carolina to the North Carolina/Virginia border
@@ -43,17 +48,12 @@ A Hurricane Warning is in effect for...
 A Hurricane Watch is in effect for...
 * Edisto Beach South Carolina to South Santee River South Carolina
 A Tropical Storm Warning is in effect for...
-* North of Duck North Carolina to the North Carolina/Virginia border
-A Tropical Storm Watch is in effect for...
-* North of the North Carolina/Virginia border to Cape Charles Light
-Virginia
+* North of Duck North Carolina to Cape Charles Light Virginia
 * Chesapeake Bay south of New Point Comfort
-Interests elsewhere in the southeastern and mid-Atlantic states
-should monitor the progress of Florence.
 DISCUSSION AND OUTLOOK
-At 200 AM EDT (0600 UTC), the center of Hurricane Florence was
-located near latitude 32.5 North, longitude 74.3 West. Florence is
-moving toward the northwest near 17 mph (28 km/h), and this general
+At 500 AM EDT (0900 UTC), the center of Hurricane Florence was
+located near latitude 32.8 North, longitude 74.7 West. Florence is
+moving toward the northwest near 15 mph (24 km/h), and this general
 motion, accompanied by a gradual decrease in forward speed, is
 expected to continue through today.  A turn to the west-northwest
 and west at an even slower forward speed is expected tonight and
@@ -62,18 +62,19 @@ night and Saturday.  On the forecast track, the center of Florence
 will approach the coasts of North and South Carolina later today,
 then move near or over the coast of southern North Carolina and
 eastern South Carolina in the hurricane warning area tonight and
-Friday. A slow motion over eastern South Carolina is forecast Friday
-night and Saturday.
+Friday. A slow motion over eastern South Carolina is forecast
+Friday night through Saturday night.
 Maximum sustained winds are near 110 mph (175 km/h) with higher
 gusts.  Little change in strength is expected before the center
-reaches the coast, with weakening expected after the center moves inland.
-Hurricane-force winds extend outward up to 80 miles (130 km) from
-the center and tropical-storm-force winds extend outward up to 195
-miles (315 km).  A NOAA buoy located about 60 miles (95 km)
-southwest of the center of Florence recently reported sustained
-winds of 56 mph (90 km/h) with a gust to 72 mph (115 km/h).
-The latest minimum central pressure estimated from data from an Air
-Force Reserve Hurricane Hunter aircraft is 956 mb (28.23 inches).
+reaches the coast, with weakening expected after the center moves
+inland.
+Florence is a large hurricane.  Hurricane-force winds extend outward
+up to 80 miles (130 km) from the center and tropical-storm-force
+winds extend outward up to 195 miles (315 km). A NOAA buoy located
+about 80 miles (130 km) south of the center of Florence has
+recently reported sustained winds of 52 mph (83 km/h) with a gust
+to 64 mph (104 km/h).
+The estimated minimum central pressure is 956 mb (28.23 inches).
 HAZARDS AFFECTING LAND
 STORM SURGE:  The combination of a dangerous storm surge and the
 tide will cause normally dry areas near the coast to be flooded by
@@ -95,21 +96,20 @@ timing of the surge and the tidal cycle, and can vary greatly over
 short distances.  For information specific to your area, please see
 products issued by your local National Weather Service forecast
 office.
-RAINFALL:  Florence is expected to produce heavy and excessive
+RAINFALL: Florence is expected to produce heavy and excessive
 rainfall in the following areas...
-Coastal North Carolina...20 to 30 inches, isolated 40 inches. This
-rainfall would produce catastrophic flash flooding and significant
-river flooding.
-South Carolina, western and northern North Carolina...5 to 10
-inches, isolated 20 inches.
-Elsewhere in the Appalachians and Mid-Atlantic states...3 to 6
-inches, isolated 12 inches.
+Coastal North Carolina into far northeastern South Carolina...20 to
+30 inches, isolated 40 inches. This rainfall would produce
+catastrophic flash flooding and prolonged significant river
+flooding.
+Rest of South and North Carolina into southwest Virginia...6 to 12
+inches, isolated 24 inches.
 WIND:  Hurricane conditions are expected to reach the coast within
 the hurricane warning area this evening or early Friday.  Winds are
-expected to first reach tropical storm strength by late this morning
-or early afternoon today, making outside preparations difficult or
-dangerous.  Preparations to protect life and property should be
-rushed to completion.
+expected to first reach tropical storm strength by later this
+morning or early this afternoon, making outside preparations
+difficult or dangerous.  Preparations to protect life and property
+should be nearing completion.
 TORNADOES:  A few tornadoes are possible in eastern North Carolina
 through Friday.
 SURF:  Swells generated by Florence are affecting Bermuda, portions
@@ -118,6 +118,6 @@ These swells are likely to cause life-threatening surf and rip
 current conditions. Please consult products from your local weather
 office.
 NEXT ADVISORY
-Next complete advisory at 500 AM EDT.
-
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
