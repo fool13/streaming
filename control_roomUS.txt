@@ -5,7 +5,7 @@ LIVE_LOCATION: F13US- New Orleans
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
 HEADING_BANNER: HURRICANE FLORENCE NEARS WILMINGTON, NC
-DESCRIPTION_BANNER: 167,000 Without Power in North & South Carolina
+DESCRIPTION_BANNER: 189,000 Without Power in North & South Carolina
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
@@ -15,8 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   50 MI E of Wilmington / Maximum winds near / 90 mph (150 km/h) / Tracking NW @ 6 MPH / Pressure 956 mb
- 
+LATEST_INFO:   50 MI E of Wilmington / Emeralind Isle / Guage (5") / 189,00 WIthout Power
 The latest from Force Thirteen US:
 ...1200 AM POSITION UPDATE...
 ...LIFE-THREATENING STORM SURGE OCCURRING IN PORTIONS OF NORTH
