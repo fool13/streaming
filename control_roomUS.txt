@@ -17,25 +17,111 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   50 MI E of Wilmington / Emeralind Isle / Guage (5") / 189,00 WIthout Power / RADAR Shows Motion Stalling 
 The latest from Force Thirteen US:
-...1200 AM POSITION UPDATE...
-...LIFE-THREATENING STORM SURGE OCCURRING IN PORTIONS OF NORTH
-CAROLINA...
-A NOAA observing site at Cape Lookout, North Carolina, recently
-reported a sustained wind of 71 mph (114 km/h) and a gust to 87 mph
-(140 km/h).  A Weatherflow station at Fort Macon, North Carolina,
-recently reported a sustained wind of 61 mph (98 km/h) and a wind
-gust of 79 mph (127 km/h).
-Water levels continue to rise quickly on the western side of
-Pamlico Sound.  A USGS gauge at New Bern, North Carolina, on the
-Neuse River is recording 9.6 feet of inundation.
-A NOAA buoy at Onslow Bay recently reported a minimum pressure of
-960 mb (28.35 mb).
-SUMMARY OF 1200 AM EDT...0400 UTC...INFORMATION
+...MAJOR HURRICANE MICHAEL GETTING MUCH BETTER ORGANIZED...
+...LIFE-THREATENING STORM SURGE...HURRICANE FORCE WINDS...AND HEAVY
+RAINFALL EXPECTED ALONG THE NORTHEASTERN GULF COAST...
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...34.1N 76.9W
-ABOUT 45 MI...70 KM SSW OF MOREHEAD CITY NORTH CAROLINA
-ABOUT 50 MI...85 KM E OF WILMINGTON NORTH CAROLINA
-MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
-PRESENT MOVEMENT...NW OR 305 DEGREES AT 6 MPH...9 KM/H
-MINIMUM CENTRAL PRESSURE...956 MB...28.23 INCHES
+LOCATION...26.6N 86.5W
+ABOUT 255 MI...410 KM S OF PANAMA CITY FLORIDA
+ABOUT 235 MI...375 KM SSW OF APALACHICOLA FLORIDA
+MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
+PRESENT MOVEMENT...N OR 350 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...953 MB...28.14 INCHES
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY: None.
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+A Storm Surge Warning is in effect for...
+* Okaloosa/Walton County Line Florida to Anclote River Florida
+A Storm Surge Watch is in effect for...
+* Anclote River Florida to Anna Maria Island Florida, including
+Tampa Bay
+* Alabama/Florida border to Okaloosa/Walton County Line Florida
+A Hurricane Warning is in effect for...
+* Alabama/Florida border to Suwannee River Florida
+A Tropical Storm Warning is in effect for...
+* Alabama/Florida border to the Mississippi/Alabama border
+* Suwanee River Florida to Chassahowitzka Florida
+* Fernandina Beach Florida to South Santee River South Carolina
+A Tropical Storm Watch is in effect for...
+* Chassahowitzka to Anna Maria Island Florida, including Tampa Bay
+* Mississippi/Alabama border to the Mouth of the Pearl River
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 PM CDT (0000 UTC), the eye of Hurricane Michael was located
+near latitude 26.6 North, longitude 86.5 West. Michael is moving
+toward the north near 12 mph (19 km/h).  A northward motion is
+expected through tonight, followed by a northeastward motion on
+Wednesday and Thursday. On the forecast track, the center of Michael
+will move across the eastern Gulf of Mexico through tonight. The
+center of Michael's eye is then expected to move inland over the
+Florida Panhandle or Florida Big Bend area on Wednesday, and then
+move northeastward across the southeastern United States Wednesday
+night and Thursday, and move off the Mid-Atlantic coast away from
+the United States on Friday.
+Maximum sustained winds are near 120 mph (195 km/h) with higher
+gusts. Michael is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Strengthening is expected overnight and on
+Wednesday, and Michael is forecast to be near category 4 strength
+when it makes landfall in the Florida Panhandle or the Florida Big
+Bend area. Weakening is expected after landfall as Michael moves
+across the southeastern United States.
+Hurricane-force winds extend outward up to 45 miles (75 km) from
+the center and tropical-storm-force winds extend outward up to 175
+miles (280 km).
+The latest minimum central pressure based on data from an Air Force
+Reserve Hurricane Hunter aircraft is 953 mb (28.14 inches).
+HAZARDS AFFECTING LAND
+----------------------
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline. The water has the
+potential to reach the following heights above ground if peak surge
+occurs at the time of high tide...
+Mexico Beach FL to Keaton Beach FL...9-13 ft
+Okaloosa/Walton County Line FL to Mexico Beach FL...6-9 ft
+Keaton Beach FL to Cedar Key FL...6-9 ft
+Cedar Key FL to Chassahowitzka FL...4-6 ft
+Chassahowitzka to Anna Maria Island FL including Tampa Bay...2-4 ft
+Alabama/Florida border to Okaloosa/Walton County Line FL...2-4 ft
+WIND:  Hurricane conditions are expected within the hurricane
+warning area along the U.S. Gulf Coast by Wednesday, with tropical
+storm conditions expected by tonight or early Wednesday.  Hurricane
+conditions will also spread well inland across portions of the
+Florida Panhandle, southeastern Alabama and southwestern Georgia.
+Tropical storm conditions are expected in the tropical storm warning
+area by tonight or early Wednesday, and are possible within the
+tropical storm watch area by that time.  Hurricane conditions are
+possible within the hurricane watch area by Wednesday.
+Tropical storm conditions are expected in the warning area along
+the southeast U.S. coast by Wednesday, and possible in the watch
+area by late Wednesday.
+RAINFALL:  Michael is expected to produce the following rainfall
+amounts through Friday...
+Florida Panhandle and Big Bend, southeast Alabama, and portions of
+southwest and central Georgia...4 to 8 inches, with isolated maximum
+amounts of 12 inches. This rainfall could lead to life threatening
+flash floods.
+The remainder of Georgia, the Carolinas, and southern Virginia...3
+to 6 inches, with isolated maximum amounts of 8 inches. This
+rainfall could lead to life-threatening flash floods.
+Florida Peninsula, eastern Mid Atlantic, southern New England
+coast...1-3 inches.
+Western Cuba...An additional 1 to 2 inches.
+SURF:  Swells generated by Michael are affecting the coasts of the
+eastern and northern Gulf of Mexico, and will spread to portions of
+the northwestern and western Gulf of Mexico coast during the next
+day or so.  These swells are likely to cause life-threatening surf
+and rip current conditions.  Please consult products from your local
+weather office.
+TORNADOES:  The threat for tornadoes will increase late tonight into
+Wednesday over parts of the Florida Panhandle, the northern Florida
+Peninsula, and southern Georgia.
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 PM CDT.
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
