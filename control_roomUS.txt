@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   50 MI E of Wilmington / Emeralind Isle / Guage (5") / 189,00 WIthout Power / RADAR Shows Motion Stalling 
+LATEST_INFO:   225 MI S of Panama City / Maximum Winds Near 120 MPH / Moving: NNW @ 12 MPH / Pressure: 953 MB
 The latest from Force Thirteen US:
 ...MAJOR HURRICANE MICHAEL GETTING MUCH BETTER ORGANIZED...
 ...LIFE-THREATENING STORM SURGE...HURRICANE FORCE WINDS...AND HEAVY
