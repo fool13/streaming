@@ -1,4 +1,4 @@
-BREAKING_MODE: *Force Thirteen US Unattended Live Stream*
+BREAKING_MODE: *Delete Astrisks to Go Red*
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13US- New Orleans  
