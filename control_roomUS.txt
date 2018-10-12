@@ -4,8 +4,8 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13US
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: MAJOR HURRICANE MICHAEL EYES FLORIDA GULF COAST
-DESCRIPTION_BANNER: Tracking the Dangerous Category 4 Storm as it Nears the Florida Panhandle
+HEADING_BANNER: ALL CAPS HEADLINE
+DESCRIPTION_BANNER: Expand*****************************************************************************************************
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
