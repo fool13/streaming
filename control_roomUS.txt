@@ -1,11 +1,11 @@
-BREAKING_MODE: *Delete Astrisks to Go Red*
+BREAKING_MODE: LIVE COVERAGE
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13US
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: ALL CAPS HEADLINE
-DESCRIPTION_BANNER: Expand*****************************************************************************************************
+HEADING_BANNER: LIVE COVERAGE OF WINTER STORM SNOWY
+DESCRIPTION_BANNER: Central Plains Expecting 30"-42" of Snow / New England Bracing
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
