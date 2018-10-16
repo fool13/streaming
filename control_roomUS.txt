@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   220 MI S of Panama City / Winds Near 125 MPH / Moving N @ 12 MPH / Pressure 947 MB
+LATEST_INFO:   Winter Storm Prep / Winds Near 15 MPH / Primary Concern / Secondary Concern
 The latest from Force Thirteen US:
 
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
