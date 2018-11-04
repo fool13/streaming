@@ -3,7 +3,7 @@ LIVE_BANNER: OFF
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13 AU
 TIMEZONE: UTC UTC
-HEADLINE_SECTION: OFF 
+HEADLINE_SECTION: ON 
 HEADING_BANNER: . November 1st signalled the start of the Southern Hemisphere Cyclone Season.
 DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Coral Sea Northern Region.
 
