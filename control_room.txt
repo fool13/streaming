@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 AU
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: OFF 
-HEADING_BANNER: . Tropical Storm Rumbia Makes Landfall
+HEADING_BANNER: . November 1st signalled the start of the Southern Hemisphere Cyclone Season.
 DESCRIPTION_BANNER: Rumbia currently has 50mph winds.
 
 
