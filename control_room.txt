@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 AU
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: OFF 
 HEADING_BANNER: . November 1st signalled the start of the Southern Hemisphere Cyclone Season.
-DESCRIPTION_BANNER: Rumbia currently has 50mph winds.
+DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Coral Sea Northern Region.
 
 
 TICKER_BANNER: ON
