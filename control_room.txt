@@ -5,14 +5,14 @@ LIVE_LOCATION: F13 AU
 TIMEZONE: AEST 
 HEADLINE_SECTION: ON 
 HEADING_BANNER: . November 1st signalled the start of the Southern Hemisphere Cyclone Season.
-DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Coral Sea Northern Region.
+DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Eastern side of Bougainville Island.
 
 
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
-CONTENT: OFF
-BRANCH: FORCE THIRTEEN / STUDIO
+CONTENT: ON
+BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
 RADAR: http:// http://www.met.gov.fj/aifs_prods/fijicomp/loop/animated_fij.gif / 50% 100% / 230%
 WATCHES_WARNINGS: 
 DISTANCE:http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
