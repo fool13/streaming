@@ -17,5 +17,38 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   CAMP FIRE- 113,000 Acres Burned (25%) / WOOLSEY FIRE- 91,572 Acres Burned (20%) / Primary Concern / Secondary Concern
 The latest from Force Thirteen US:
-
+CAMP FIRE
+---------------------------------------------------------------------
+County: 	Butte County
+Location: 	Pulga Road at Camp Creek Road near Jarbo Gap  
+Acres Burned - Containment: 	113,000 acres - 25% contained  
+Evacuation Centers:
+OPEN: Bidwell Jr. Highschool (2376 North Ave, Chico CA 95926)
+OPEN: Yuba-Sutter Fairground (442 Franklin Ave, Yuba City, CA 95991)
+OPEN: Plumas County Fairgrounds (204 Fairground Rd, Quincy CA 95971)
+OPEN: Glenn County Fairgrounds (221 E Yolo St, Orland, CA 95963)
+OPEN: Butte County Fairgrounds (199 E Hazel St, Gridley, CA 95948)
+---------------------------------------------------------------------
+WOOLSEY FIRE
+---------------------------------------------------------------------
+County: 	Los Angeles County,Ventura County  
+Location: 	E Street and Alfa Road Rd, South of Simi Valley  
+Acres Burned - Containment: 	91,572 acres - 20% contained  
+Evacuation Centers:
+Camarillo Community Center – 1605 E. Burnley St., Camarillo, CA 93010. Accepting small animals.
+Borchard Community Center – 190 Reino Rd., Newbury Park, CA 91320. Accepting small animals.
+Goebel Senior Adult Center – 1385 E. Janss Rd., Thousand Oaks, CA 91362 (at capacity)
+Thousand Oaks Teen Center – 1375 E. Janss Rd., Thousand Oaks, CA 91362 (at capacity)
+Thousand Oaks Community Center – 2525 N. Moorpark Rd., Thousand Oaks, CA 91360 (closed)
+Rancho Santa Susana Recreation Center – 5005 Unit C Los Angeles Ave., Simi Valley, CA 93063- No animals accepted
+Taft Charter High School – 5461 Winnetka Ave., Woodland Hills, CA 91364 (at capacity)
+Pierce College – 7100 El Rancho Dr., Woodland Hills, CA 91371 (Entrance off Desoto Ave.)
+Canoga Park High School
+Palisades Charter High School
+------------------------------------------------------------------------
+HILL FIRE
+------------------------------------------------------------------------
+County: 	Ventura County  
+Location: 	Hill Canyon Rd and Santa Rosa Rd, Santa Rosa Valley  
+Acres Burned - Containment: 	4,531 acres - 80% contained  
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
