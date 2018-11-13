@@ -1,10 +1,10 @@
-BREAKING_MODE: LIVE COVERAGE
+BREAKING_MODE: US SEVERE WEATHER COVERAGE
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13US
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: LIVE COVERAGE OF WINTER STORM SNOWY
+HEADING_BANNER: WILDFIRES IN CALIFORNIA AND WINTER WEATHER IMPACTS THE US
 DESCRIPTION_BANNER: Central Plains Expecting 30"-42" of Snow / New England Bracing
 TICKER_BANNER: ON
 SIDEBAR: ON
@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   Winter Storm Prep / Winds Near 15 MPH / Primary Concern / Secondary Concern
+LATEST_INFO:   CAMP FIRE- 113,000 Acres Burned (25%) / WOOLSEY FIRE- 91,572 Acres Burned (20%) / Primary Concern / Secondary Concern
 The latest from Force Thirteen US:
 
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
