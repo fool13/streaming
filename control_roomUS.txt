@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   CAMP FIRE- 113,000 Acres (25%) / WOOLSEY FIRE- 91,572 Acres (20%) / HILL FIRE- 4,531 (80%)
+LATEST_INFO:   CAMP FIRE- 113,000 Acres (25%) / WOOLSEY FIRE- 91,572 Acres (20%) / HILL FIRE- 4,531 Acres (80%)
 The latest from Force Thirteen US:
 CAMP FIRE
 ---------------------------------------------------------------------
