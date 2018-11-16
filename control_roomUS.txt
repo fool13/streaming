@@ -15,7 +15,7 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   CAMP FIRE- 141,000 Acres (40%) 10,000 Structures Destroyed / WOOLSEY FIRE- 98,362 Acres (62%) 500 Structures Destroyed
+LATEST_INFO:   CAMP FIRE- 141,000 Acres (40%) / 10,000 Structures Destroyed / WOOLSEY FIRE- 98,362 Acres (62%) 500 Structures Destroyed
 The latest from Force Thirteen US:
 CAMP FIRE
 ---------------------------------------------------------------------
