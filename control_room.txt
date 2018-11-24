@@ -6,11 +6,11 @@ TIMEZONE: AEST
 HEADLINE_SECTION: ON 
 HEADING_BANNER: . Day 24 of the 2018-19 Tropical Cyclone Southern Hemisphere TC Season.
 DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Eastern side of Bougainville Island.
-International Space Station
+
 
 TICKER_BANNER: ON
 SIDEBAR: ON
-USTREAM: OFF
+USTREAM: ON
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
 RADAR: http:// http://www.bom.gov.au/products/national_radar_sat.loop.shtml / 50% 100% / 230%
