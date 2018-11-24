@@ -8,6 +8,7 @@ TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
+bannerLive
 BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
 RADAR: http:// http://www.bom.gov.au/products/national_radar_sat.loop.shtml / 50% 100% / 230%
 WATCHES_WARNINGS: 
