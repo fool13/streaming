@@ -13,7 +13,7 @@ SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
-RADAR: http:// http://www.met.gov.fj/aifs_prods/fijicomp/loop/animated_fij.gif / 50% 100% / 230%
+RADAR: http:// http://www.bom.gov.au/products/IDR663.loop.shtml / 50% 100% / 230%
 WATCHES_WARNINGS: 
 DISTANCE:http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Hurricane "Hector <br></span> / 14.04S&deg;130.09&deg;E / <br><span style="font-size:14px;font-weight:bold;">S</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
