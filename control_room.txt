@@ -6,7 +6,7 @@ HEADING_BANNER: . Day 24 of the 2018-19 Tropical Cyclone Southern Hemisphere TC 
 DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Eastern side of Bougainville Island.
 TICKER_BANNER: ON
 SIDEBAR: ON
-USTREAM: ON
+USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
 RADAR: http:// http://www.bom.gov.au/products/national_radar_sat.loop.shtml / 50% 100% / 230%
