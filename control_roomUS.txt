@@ -1,10 +1,10 @@
-BREAKING_MODE: F13 US TEAM COVERAGE
+BREAKING_MODE: *F13 US TEAM CHRISTMAS*
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: F13US
 TIMEZONE: America/ CDT
 HEADLINE_SECTION: ON
-HEADING_BANNER: WILDFIRES IN CALIFORNIA & WINTER STORM AVERY
+HEADING_BANNER: SANTA
 DESCRIPTION_BANNER: California Wildfires Have Claimed 33 Lives and Currently Threaten 72,000 Structures
 TICKER_BANNER: ON
 SIDEBAR: ON
@@ -15,32 +15,9 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   CAMP FIRE- 141,000 Acres (40%) / 10,000 Structures Destroyed / WOOLSEY FIRE- 98,362 Acres (62%) 500 Structures Destroyed
+LATEST_INFO:   SANTA/ ELVES/ REINDEER
 The latest from Force Thirteen US:
 CAMP FIRE
----------------------------------------------------------------------
-County: 	Butte County
-Location: 	Pulga Road at Camp Creek Road near Jarbo Gap  
-Acres Burned - Containment: 	141,000 acres - 40% contained   
-Evacuation Centers:
-OPEN: Bidwell Jr. Highschool (2376 North Ave, Chico CA 95926)
-THIS SHELTER IS FULL: Yuba-Sutter Fairground (442 Franklin Ave, Yuba City, CA 95991)
-THIS SHELTER IS FULL: Butte County Fairgrounds (199 E Hazel St, Gridley, CA 95948)
-THIS SHELTER IS FULL: Glenn County Fairgrounds (221 E Yolo St, Orland, CA 95963)
-THIS SHELTER IS FULL: Oroville Nazarene Church (2238 Monte Vista Ave, Oroville, CA 95966)
-THIS SHELTER IS FULL: Neighborhood Church (2801 Notre Dame Blvd, Chico, CA 95928) 
----------------------------------------------------------------------
-WOOLSEY FIRE
----------------------------------------------------------------------
-County: 	Los Angeles County,Ventura County  
-Location: 	E Street and Alfa Road Rd, South of Simi Valley  
-Acres Burned - Containment: 	98,362 acres - 62% contained  
-Evacuation Centers:
-Cal Lutheran University - 60 W Olsen Rd, Thousand Oaks, CA 91360
-Taft Charter High School – 5461 Winnetka Ave., Woodland Hills, CA 91364
-Pierce College – 7100 El Rancho Dr., Woodland Hills, CA 91371 (Entrance off Desoto Ave.)
-Palisades Charter High School - 15777 Bowdoin St, Pacific Palisades, CA 90272
-------------------------------------------------------------------------
-HILL FIRE- CONTAINED
+
 
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
