@@ -17,7 +17,7 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   SANTA / ELVES / REINDEER
 The latest from Force Thirteen US:
-CAMP FIRE
+
 
 
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
