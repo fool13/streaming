@@ -16,9 +16,7 @@ RADAR:
 https://radar.weather.gov/radar.php?rid=abr&product=N0R&overlay=11101111&loop=no
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:  
-SANTA STUFF
-
+LATEST_INFO:  SANTA CONFIRMED RESTING/ ELVES INTO FULL PRODUCTION/ REINDEER PLAYING GAMES
 The latest from Force Thirteen US:
 MERRY CHRISTMAS & HAPPY HOLIDAYS FROM F13US
 This is an unattended live stream.
