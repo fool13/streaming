@@ -4,12 +4,10 @@ TIMEZONE: AEST
 HEADLINE_SECTION: ON 
 The 2018-19 Southern Hemisphere TC Season developing.
 DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Eastern side of Bougainville Island.
-
-
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
-CONTENT: OFF
+CONTENT: ON
 
 BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
 RADAR: http:// http://www.bom.gov.au/products/national_radar_sat.loop.shtml / 50% 100% / 230%
