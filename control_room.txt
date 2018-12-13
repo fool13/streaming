@@ -4,30 +4,22 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Hurricanes Irma, Jose and Katia
-DESCRIPTION_BANNER: Hurricane Watches in Mexico and Warnings in the Caribbean
+HEADING_BANNER: Severe Tropical Cyclone Owen
+DESCRIPTION_BANNER: Cyclone Warning in place from Northern Territory to Queensland
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2019SH05/4KMIRIMG/2019SH05_4KMIRIMG_201812130210.GIF / center center / 210%
-RADAR: http://www.bom.gov.au/scripts/radar/images/radar_trans_map_mask.png / 50% 100% / 100%
+SATELLITE: https://www.ssd.noaa.gov/PS/TROP/floaters/05P/imagery/vis-animated.gif / center center / 210%
+RADAR: http://www.bom.gov.au/radar/IDR361.gif?20181213034709 / 50% 100% / 100%
 WATCHES_WARNINGS: http://www.bom.gov.au/fwo/IDD65001.png?1544666172425 / 80% 63% / 100%
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
-LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
+LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Cyclone OWEN<br></span> / 15.3&deg;S 135.9&deg;E / <br><span style="font-size:14px;font-weight:bold;">85km SE of PORT ROPER</span> / <span style="font-size:14px;font-weight:bold;">95km NW of PORT McARTHUR</span></span>
 
 You're watching Force Thirteen's Live Streaming Service
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>British and US Virgin Islands</b>
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Puerto Rico, Vieques and Culebra</b>
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Haiti from the northern border with the Dominican Republic to Le Mole St. Nicholas</b>
-<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Southeastern and Central Bahamas and the Turks and Caicos Islands</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Cuba from Matanzas province eastward to Guantanamo province</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Watch in effect for <b>Northern Bahamas</b>
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Dominican Republic from south of Cabo Engano westward to the southern border with Haiti</b>
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Haiti from south of Le Mole St. Nicholas to Port-Au-Prince</b>
-<a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Cuba provinces of Guantanamo, Holguin, and Las Tunas</b>
-<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> <b>KATIA</b>Hurricane Watch in effect for <b>Tuxpan to Laguna Verde</b>
-No warnings in effect for Hurricane Jose
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Cyclone Warning in effect for <b>Numbulwar in the Northern Territory, to Aurukun in Queensland</b>
+<a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Cyclone Warning in effect for <b>Borroloola, Mornington Island, Karumba, Kowanyama and Pormpuraaw</b>
+<a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> Cyclone Watch in effect from <b>Karumba to Aurukun as far as Georgetown, Chillagoe and Coen</b>
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
 Skype: Fool13 | Discord: Fool13#9094
