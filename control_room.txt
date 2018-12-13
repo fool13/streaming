@@ -12,7 +12,7 @@ USTREAM: OFF
 CONTENT: ON
 BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2019SH05/4KMIRIMG/2019SH05_4KMIRIMG_201812130200.GIF
-RADAR: http://www.bom.gov.au/products/IDR361.loop.shtml#skip
+RADAR: http://www.bom.gov.au/products/IDR361.loop.shtml#skip / 50% / 200X200
 WATCHES_WARNINGS: 
 DISTANCE:
 LATEST_INFO: 
