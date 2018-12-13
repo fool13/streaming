@@ -10,8 +10,8 @@ TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
-BRANCH: FORCE THIRTEEN / STUDIO
-SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2019SH05/4KMIRIMG/2019SH05_4KMIRIMG_201812130200.GIF
+BRANCH: FORCE THIRTEEN / BRISBANE STUDIO
+SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2019SH05/4KMIRIMG/2019SH05_4KMIRIMG_201812130200.GIF / 200X200
 RADAR: http://www.bom.gov.au/products/IDR361.loop.shtml#skip / 50% / 200X200
 WATCHES_WARNINGS: 
 DISTANCE:
