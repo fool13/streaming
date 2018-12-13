@@ -17,7 +17,7 @@ DISTANCE:
 LATEST_INFO: 
 You're watching Force Thirteen's Live Streaming Service
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Cyclone "MARCUS" 982HPA CAT 2. 
-<b>located, 12.41South 130.9East - SE of Dundee & 55kms SW of Darwin </b>
+located, 12.41South 130.9East - SE of Dundee & 55kms SW of Darwin 
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Puerto Rico, Vieques and Culebra</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Haiti from the northern border with the Dominican Republic to Le Mole St. Nicholas</b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Southeastern and Central Bahamas and the Turks and Caicos Islands</b>
