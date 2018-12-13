@@ -1,20 +1,21 @@
-BREAKING_MODE: ON
+BREAKING_MODE: OFF
 LIVE_BANNER: ON
-TIMEZONE: AEST 
+LIVE_MODE: LIVE
+LIVE_LOCATION: F13 HQ
+TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Eastern side of Bougainville Island.
+HEADING_BANNER: TROPICAL CYCLONE "MARCUS". 
+DESCRIPTION_BANNER: Storm Force Wind Warning for the following areas:Beagle Bonaparte Coast, Van Diemen Gulf and Darwin Harbour
 TICKER_BANNER: ON
-
-
 SIDEBAR: ON
 USTREAM: OFF
 CONTENT: ON
-BRANCH: FORCE THIRTEEN / AUSTRALIAN STUDIO
-RADAR: http: http://www.bom.gov.au/products/IDR191.loop.shtml #skip/ 50% 100% / 230%
+BRANCH: FORCE THIRTEEN / STUDIO
+RADAR: http:// http://www.met.gov.fj/aifs_prods/fijicomp/loop/animated_fij.gif / 50% 100% / 230%
 WATCHES_WARNINGS: 
-DISTANCE:http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
-LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Hurricane "Hector <br></span> / 14.04S&deg;130.09&deg;E / <br><span style="font-size:14px;font-weight:bold;">S</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
-You're watching Force Thirteen's Australia/Oceania Live Streaming Service
+DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
+LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Cyclone MARCUS Cat 2 <br></span> / 14.04S&deg;130.09&deg;E / <br><span style="font-size:14px;font-weight:bold;">S</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
+You're watching Force Thirteen's Live Streaming Service
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Cyclone "MARCUS" 982HPA CAT 2. 
 <b>located, 12.41South 130.9East - SE of Dundee & 55kms SW of Darwin </b>
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Hurricane Warning in effect for <b>Puerto Rico, Vieques and Culebra</b>
@@ -27,4 +28,4 @@ You're watching Force Thirteen's Australia/Oceania Live Streaming Service
 <a style="color:orange;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Storm Warning in effect for <b>Cuba provinces of Guantanamo, Holguin, and Las Tunas</b>
 <a style="color:rose;font-weight:bold;text-decoration:none;">&#9648;</a> <b>KATIA</b>Hurricane Watch in effect for <b>Tuxpan to Laguna Verde</b>
 Twitter: @forcethirteen | Facebook: facebook.com/forcethirteen
-Skype: ForceThirteen | Discord: Fool13#9094
+Skype: Fool13 | Discord: Fool13#9094
