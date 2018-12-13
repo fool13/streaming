@@ -12,8 +12,8 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: http://rammb.cira.colostate.edu/products/tc_realtime/products/storms/2019SH05/4KMIRIMG/2019SH05_4KMIRIMG_201812130210.GIF / center center / 210%
-RADAR: http://www.bom.gov.au/scripts/radar/images/radar_trans_map_mask.png / 50% 100% / 230%
-WATCHES_WARNINGS: http://www.bom.gov.au/fwo/IDD65001.png?1544666172425 / 80% 63% / 90%
+RADAR: http://www.bom.gov.au/scripts/radar/images/radar_trans_map_mask.png / 50% 100% / 100%
+WATCHES_WARNINGS: http://www.bom.gov.au/fwo/IDD65001.png?1544666172425 / 60% 53% / 1000%
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Storm HARVEY<br></span> / 13.01&deg;N 56.27&deg;W / <br><span style="font-size:14px;font-weight:bold;">122mi ENE of BARBADOS</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
 
