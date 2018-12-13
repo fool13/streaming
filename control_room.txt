@@ -1,8 +1,7 @@
 BREAKING_MODE: ON
 LIVE_BANNER: ON
 TIMEZONE: AEST 
-HEADLINE_SECTION: ON 
-The 2018-19 Southern Hemisphere TC Season developing.
+HEADLINE_SECTION: Fixed
 DESCRIPTION_BANNER: Areas of Interest, South Indian Ocean including, Eastern side of Bougainville Island.
 TICKER_BANNER: ON
 
