@@ -14,7 +14,7 @@ BRANCH: FORCE THIRTEEN / STUDIO
 RADAR: http://www.bom.gov.au/products/IDR361.loop.shtml#skip
 WATCHES_WARNINGS: 
 DISTANCE:
-LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Tropical Cyclone MARCUS Cat 2 <br></span> / 14.04S&deg;130.09&deg;E / <br><span style="font-size:14px;font-weight:bold;">S</span> / <span style="font-size:14px;font-weight:bold;">216mi ESE of ST. LUCIA</span> / <span style="font-size:14px;font-weight:bold;">232mi E of ST. VINCENT</span>
+LATEST_INFO: 
 You're watching Force Thirteen's Live Streaming Service
 <a style="color:red;font-weight:bold;text-decoration:none;">&#9648;</a> Tropical Cyclone "MARCUS" 982HPA CAT 2. 
 <b>located, 12.41South 130.9East - SE of Dundee & 55kms SW of Darwin </b>
