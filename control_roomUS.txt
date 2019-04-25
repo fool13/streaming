@@ -17,34 +17,4 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen NOLA:
-Tropical Weather Discussion for North America, Central America
-Gulf of Mexico, Caribbean Sea, northern sections of South
-America, and Atlantic Ocean to the African coast from the
-Equator to 32N. The following information is based on satellite
-imagery, weather observations, radar and meteorological analysis.
-
-Based on 1800 UTC surface analysis and satellite imagery through 
-2319 UTC.
-
-...MONSOON TROUGH/ITCZ...
-
-The monsoon trough extends from Sierra Leone near 07N13W to near 
-03N18W. The ITCZ continues from 03N18W to 04S31W to the coast of 
-Brazil near 02S44W. Scattered to numerous moderate with embedded 
-isolated strong convection is along the ITCZ from 01S-06S between
-19W-36W. Scattered moderate convection is also seen along the
-monsoon trough from 04N-01S between 18W-08W.
-
-GULF OF MEXICO...
-
-A digging mid-upper level trough is causing upper level 
-diffluence and divergence across the NW Gulf of Mexico ahead of a 
-low pressure system bringing a strong cold front across the 
-southern Plains. This is causing scattered showers across most of 
-the Gulf with the exception of the southern portion of the basin. 
-At the surface, a 1019 mb high located in the western Atlantic is 
-causing ridging across the eastern Gulf. Ahead of the low pressure
-system in the southern Plains, moderate to fresh southeasterly 
-winds are seen in the western basin with light to gentle east- 
-southerly winds are in the eastern Gulf.
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
