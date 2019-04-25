@@ -17,15 +17,9 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen NOLA:
-Tropical Weather Discussion for North America, Central America
-Gulf of Mexico, Caribbean Sea, northern sections of South
-America, and Atlantic Ocean to the African coast from the
-Equator to 32N. The following information is based on satellite
-imagery, weather observations, radar and meteorological analysis.
-Based on 1800 UTC surface analysis and satellite imagery through 
-2319 UTC.
-...MONSOON TROUGH/ITCZ...
-The monsoon trough extends from Sierra Leone near 07N13W to near 
+Tropical Weather Discussion for North America, Central AmericaGulf of Mexico, Caribbean Sea, 
+northern sections of South America, and Atlantic Ocean to the African coast from the
+Equator to 32N. The following information is based on satelliteimagery, weather observations, radar and meteorological analysis.Based on 1800 UTC surface analysis and satellite imagery through 2319 UTC....MONSOON TROUGH/ITCZ...The monsoon trough extends from Sierra Leone near 07N13W to near 
 03N18W. The ITCZ continues from 03N18W to 04S31W to the coast of 
 Brazil near 02S44W. Scattered to numerous moderate with embedded 
 isolated strong convection is along the ITCZ from 01S-06S between
