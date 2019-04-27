@@ -17,10 +17,5 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen US:
-The latest from Force Thirteen NOLA:
-Merry Christmas
-Tropical Weather Discussion for North America, Central America
-Happy Holidays
-Gulf of Mexico, Caribbean Sea, northern sections of South
-Die Hard is ABSOLUTELY a Christmas Movie
+FIXED IT BITCHES
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
