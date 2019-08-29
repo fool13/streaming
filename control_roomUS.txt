@@ -18,17 +18,15 @@ DISTANCE:
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen US:
 SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
------------------------------------------------
+---------------------------------------------------------------------------
 LOCATION...19.7N 66.0W
 ABOUT 90 MI...145 KM N OF SAN JUAN PUERTO RICO
 MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
 PRESENT MOVEMENT...NW OR 320 DEGREES AT 13 MPH...20 KM/H
 MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
 WATCHES AND WARNINGS
---------------------
 There are no coastal watches or warnings in effect.
-HAZARDS AFFECTING LAND
-----------------------
+HAZARDS AFFECTING LAND --------------------------------
 RAINFALL:  Dorian is expected to produce the following rainfall
 accumulations:
 The central Bahamas...2 to 4 inches, isolated 6 inches.
@@ -37,7 +35,6 @@ States...4 to 8 inches, isolated 10 inches.
 This rainfall may cause life-threatening flash floods.
 SURF:   Swells around the U.S. and British Virgin Islands and
 Puerto Rico should gradually diminish tonight.
-NEXT ADVISORY
--------------
+NEXT ADVISORY -----------------------------------
 Next complete advisory at 500 AM AST.
 Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
