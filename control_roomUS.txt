@@ -17,24 +17,36 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen US:
-SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
----------------------------------------------------------------------------
-LOCATION...19.7N 66.0W
-ABOUT 90 MI...145 KM N OF SAN JUAN PUERTO RICO
-MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
-PRESENT MOVEMENT...NW OR 320 DEGREES AT 13 MPH...20 KM/H
-MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
+SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
+LOCATION...24.1N 74.9W
+ABOUT 290 MI...465 KM SE OF FREEPORT GRAND BAHAMA ISLAND
+ABOUT 210 MI...340 KM SE OF GREAT ABACO ISLAND
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 3 MPH...5 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
 WATCHES AND WARNINGS
-There are no coastal watches or warnings in effect.
-HAZARDS AFFECTING LAND --------------------------------
-RAINFALL:  Dorian is expected to produce the following rainfall
-accumulations:
-The central Bahamas...2 to 4 inches, isolated 6 inches.
-The northern Bahamas and Coastal sections of the Southeast United
-States...4 to 8 inches, isolated 10 inches.
-This rainfall may cause life-threatening flash floods.
-SURF:   Swells around the U.S. and British Virgin Islands and
-Puerto Rico should gradually diminish tonight.
-NEXT ADVISORY -----------------------------------
-Next complete advisory at 500 AM AST.
-Twitter: @forcethirteen & @forcethirteenus | Facebook: facebook.com/forcethirteen
+CHANGES WITH THIS ADVISORY: None.
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+A Tropical Storm Warning is in effect for...
+* Northwestern Bahamas excluding Andros Island
+A Tropical Storm Watch is in effect for...
+* Jupiter Inlet to Volusia-Brevard County line
+DISCUSSION AND OUTLOOK
+At 200 AM EDT (0600 UTC), the poorly defined center of the
+disturbance was located by satellite and surface observations near
+latitude 24.1 North, longitude 74.9 West.  The disturbance is moving
+northwestward at about 3 mph (5 km/h), and this general motion is
+expected to continue with an increase in forward speed through the
+weekend.  On the forecast track, the system is anticipated to move
+across the central and northwestern Bahamas today, and along or
+over the east coast of Florida on Saturday.
+
+Maximum sustained winds are near 30 mph (45 km/h) with higher
+gusts. The disturbance is forecast to become a tropical depression
+or a tropical storm during the next day or so.
+
+Environmental conditions are favorable for a tropical depression or
+tropical storm to form within the next day or two.
+* Formation chance through 48 hours...high...80 percent
+* Formation chance through 5 days...high...90 percent
+The estimated minimum central pressure is 1009 mb (29.80 inches).
