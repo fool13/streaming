@@ -4,7 +4,7 @@ LIVE_MODE: LIVE
 LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
-HEADING_BANNER: Severe Tropical Cyclone Rita 
+HEADING_BANNER: TD 01F (90p) upgraded to Tropical Cyclone Rita 
 DESCRIPTION_BANNER: Cyclone Warning in place from Northern Territory to Queensland
 TICKER_BANNER: ON
 SIDEBAR: ON
