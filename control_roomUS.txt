@@ -17,36 +17,62 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen US:
-SUMMARY OF 200 AM EDT...0600 UTC...INFORMATION
-LOCATION...24.1N 74.9W
-ABOUT 290 MI...465 KM SE OF FREEPORT GRAND BAHAMA ISLAND
-ABOUT 210 MI...340 KM SE OF GREAT ABACO ISLAND
-MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
-PRESENT MOVEMENT...NW OR 310 DEGREES AT 3 MPH...5 KM/H
-MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
-WATCHES AND WARNINGS
-CHANGES WITH THIS ADVISORY: None.
-SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
-A Tropical Storm Warning is in effect for...
-* Northwestern Bahamas excluding Andros Island
-A Tropical Storm Watch is in effect for...
-* Jupiter Inlet to Volusia-Brevard County line
-DISCUSSION AND OUTLOOK
-At 200 AM EDT (0600 UTC), the poorly defined center of the
-disturbance was located by satellite and surface observations near
-latitude 24.1 North, longitude 74.9 West.  The disturbance is moving
-northwestward at about 3 mph (5 km/h), and this general motion is
-expected to continue with an increase in forward speed through the
-weekend.  On the forecast track, the system is anticipated to move
-across the central and northwestern Bahamas today, and along or
-over the east coast of Florida on Saturday.
+Short Range Forecast Discussion
+NWS Weather Prediction Center College Park MD
+205 PM EST Fri Jan 10 2020
 
-Maximum sustained winds are near 30 mph (45 km/h) with higher
-gusts. The disturbance is forecast to become a tropical depression
-or a tropical storm during the next day or so.
+Valid 00Z Sat Jan 11 2020 - 00Z Mon Jan 13 2020
 
-Environmental conditions are favorable for a tropical depression or
-tropical storm to form within the next day or two.
-* Formation chance through 48 hours...high...80 percent
-* Formation chance through 5 days...high...90 percent
-The estimated minimum central pressure is 1009 mb (29.80 inches).
+...Severe thunderstorms, heavy rain, flooding, accumulating ice and heavy
+snow expected across the central and eastern states today and into the
+weekend....
+
+...Temperatures will be 10 to 25 degrees above average over the Southern
+Plains/Lower Mississippi Valley into the Ohio Valley/Great Lakes...
+
+...Heavy snow once again possible in higher elevations of the Northwest...
+
+
+A potent winter storm will bring a plethora for types of weather hazards
+to much of the central U.S. and portions of the Northeast. Severe
+thunderstorms, heavy rain and flash flooding will impact a vast portion of
+south-central states. Numerous flood warnings and flash flood watches are
+in effect from northeast Texas to western New York. A mix of rain,
+freezing rain, sleet and snow is expected from the Central Plains to the
+Great Lakes region. Winter storm warnings, winter weather advisories and
+winter storm watches are in effect from northern Texas to Maine.
+
+Heavy rain in the range of 1 to 3+ inches is expected from the Southern
+Plains northeastward to the Great Lakes.  Due to the slow progression of
+this system, storm motion will be slow and expected to track over the
+sames area.  This will become become problematic as soils become
+saturated. A moderate risk of excessive rainfall is forecast over parts of
+Eastern Oklahoma and neighboring states.  The rain will produce numerous
+flash flooding will occur with many streams being flooded and floods
+affecting larger rivers. Additionally, the Storm Prediction Center has
+forecast a Moderate Risk of severe weather for parts of the Southern
+Plains to Lower Mississippi Valley.
+
+Light to moderate snow over the Intermountain West and Rockies will spread
+eastward. A wintry mix of snow, sleet, and rain/freezing rain is possible
+in portions of the Southern/Central Plains into the Middle Mississippi
+Valley and northeastward into the Great Lakes Friday into Sunday as
+temperatures fall. The heaviest rain/freezing rain is forecast over parts
+of Great Lakes Saturday into Sunday.
+
+A stark temperature gradient will setup over the country thanks to the
+strong front over the Central U.S. into the Great Lakes.  In the warm
+sector ahead of the front, daily temperatures will average 10 to 25
+degrees warmer than typical early January readings. Numerous records are
+expected to be broken from the Ohio and Tennessee Valleys into the
+Northeast.  In contrast, the western half of the country will be much
+colder than usual as a cold front and secondary cold front reinforces the
+frigid airmass.  On Friday, high temperatures in the single digits are
+forecast for the north-central tier of the nation.     
+
+The Pacific Northwest will have another low pressure system approach the
+region on Friday, which will amplify the precipitation.  Coastal areas
+will have periods of moderate rain while higher elevations of the
+Cascades, Northern Great Basin and the Northern Rockies will have heavy
+snow.  Snow accumulations may very well reach or exceed 2 feet in the
+highest peaks of the Cascades, around 1 foot elsewhere.
