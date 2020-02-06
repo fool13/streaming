@@ -17,41 +17,12 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen US:
- Day 1 Convective Outlook  
- NWS Storm Prediction Center Norman OK
- 0642 AM CST Sat Jan 11 2020
- Valid 111300Z - 121200Z
-   ...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS PARTS OF THE
-   SOUTHEAST STATES...
----------
-   ...SUMMARY...
-   Scattered to potentially widespread damaging winds are expected
-   across parts of the Southeast States through at least this evening.
-   The greatest threat for tornadoes will be across eastern Mississippi
-   and Alabama, mainly midday to afternoon.
----------
-   ...Southeast...
-   Primary change this outlook is to add a 10 sig tornado probability
-   across AL where the potential for at least a couple strong tornadoes
-   is evident this afternoon, and increase damaging wind probabilities
-   to 45 percent.
-   An extensive squall line is ongoing from western KY into the
-   northwest Gulf. While the northern portion of the line has recently
-   outpaced surface-based instability, 850-700 mb winds above 75 kt
-   will continue to support bowing/LEWP structures along with embedded
-   tornadoes across from TN to LA this morning where 65-70 F surface
-   dew points are prevalent. 
-   As the powerful southern Great Plains shortwave trough ejects more
-   northeastward today, attendant large-scale forcing for ascent will
-   begin to wane across the southern portion of the QLCS. There are
-   some CAMs that suggest the line may break up slightly this afternoon
-   as it progresses into AL. This could result in more favorable
-   embedded supercell potential as low-level hodographs will remain
-   quite enlarged. With the northern periphery of upper 60s surface dew
-   points expected to translate east ahead of the line into central and
-   southern AL, a couple strong tornadoes are possible. 
-   By evening into tonight, increasing separation between the stronger
-   forcing for ascent and outpacing of the remnant QLCS/convective line
-   from greater than meager surface-based instability should yield an
-   increasingly marginal damaging wind and tornado threat into the
-   Carolinas and VA.
+...A TORNADO WARNING REMAINS IN EFFECT UNTIL MIDNIGHT CST FOR
+NORTHEASTERN JASPER...SOUTHEASTERN NEWTON...NORTHWESTERN CLARKE AND
+WESTERN LAUDERDALE COUNTIES...       
+At 1113 PM CST, a confirmed large and extremely dangerous tornado was
+located near Rose Hill, or 16 miles southeast of Newton, moving
+northeast at 55 mph.
+This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!
+HAZARD...Damaging tornado.
+SOURCE...Radar confirmed tornado.
