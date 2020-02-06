@@ -17,12 +17,24 @@ WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018
 DISTANCE: 
 LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
 The latest from Force Thirteen US:
-...A TORNADO WARNING REMAINS IN EFFECT UNTIL MIDNIGHT CST FOR
+..A TORNADO WARNING REMAINS IN EFFECT UNTIL MIDNIGHT CST FOR
 NORTHEASTERN JASPER...SOUTHEASTERN NEWTON...NORTHWESTERN CLARKE AND
-WESTERN LAUDERDALE COUNTIES...       
+WESTERN LAUDERDALE COUNTIES...      
 At 1113 PM CST, a confirmed large and extremely dangerous tornado was
 located near Rose Hill, or 16 miles southeast of Newton, moving
 northeast at 55 mph.
 This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!
 HAZARD...Damaging tornado.
 SOURCE...Radar confirmed tornado.
+IMPACT...You are in a life-threatening situation. Flying debris may 
+         be deadly to those caught without shelter. Mobile homes 
+         will be destroyed. Considerable damage to homes, 
+         businesses, and vehicles is likely and complete destruction 
+         is possible.
+The tornado will be near...
+  Stonewall around 1130 PM CST.
+  Savoy and Sable around 1135 PM CST.
+  Zero and Increase around 1145 PM CST.
+Other locations impacted by this tornadic thunderstorm include
+Pachuta and Chunky.
+
