@@ -1,11 +1,11 @@
-BREAKING_MODE: F13 US TEAM CHRISTMAS
-LIVE_BANNER: ON
+BREAKING_MODE: F13 US 
+LIVE_BANNER: OFF
 LIVE_MODE: LIVE
-LIVE_LOCATION: F13US
+LIVE_LOCATION: NEW ORLEANS, LA
 TIMEZONE: America/ CST
 HEADLINE_SECTION: ON
-HEADING_BANNER: Thomas Tutorial
-DESCRIPTION_BANNER: Force Thirteen US Tracks Santa- Christmas Eve 2018
+HEADING_BANNER: MAIN HEADING
+DESCRIPTION_BANNER: Secondary Heading
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
@@ -15,20 +15,8 @@ SATELLITE:
 RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif /
 WATCHES_WARNINGS:  https://www.nhc.noaa.gov/storm_graphics/AT07/refresh/AL072018_5day_cone_no_line_and_wind+png/032225_5day_cone_no_line_and_wind.png / 18x18 / 76%
 DISTANCE: 
-LATEST_INFO:   MERRY / CHRISTMAS / EVERYBODY
+LATEST_INFO:   Warnings / Storm Info / Other Info
 The latest from Force Thirteen US:
-...A TORNADO WARNING REMAINS IN EFFECT UNTIL 1215 AM CST FOR
-SOUTHEASTERN LAUDERDALE COUNTY...  
-At 1145 PM CST, a confirmed tornado was located near Zero, or 8 miles
-southeast of Meridian, moving northeast at 55 mph.
-HAZARD...Damaging tornado.
-SOURCE...Emergency management confirmed tornado.
-IMPACT...Flying debris will be dangerous to those caught without 
-         shelter. Mobile homes will be damaged or destroyed. Damage 
-         to roofs, windows, and vehicles will occur.  Tree damage is 
-         likely.
-This tornado will be near...
-  Toomsuba around 1150 PM CST.
-  Alamucha and Kewanee around 1155 PM CST.
+Scrolling Information Here
 
 
