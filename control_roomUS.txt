@@ -11,9 +11,9 @@ SIDEBAR: ON
 USTREAM: display('UStream','9408562')
 CONTENT: ON 
 BRANCH: FORCE THIRTEEN US / NEW ORLEANS, LA
-SATELLITE: https://cdn.star.nesdis.noaa.gov//GOES16/ABI/SECTOR/eus/GEOCOLOR/GOES16-EUS-GEOCOLOR-1000x1000.gif / 0%
-RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 600x57 / 72%
-WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / 500%
+SATELLITE: https://cdn.star.nesdis.noaa.gov//GOES16/ABI/SECTOR/eus/GEOCOLOR/GOES16-EUS-GEOCOLOR-1000x1000.gif / width: 307px
+RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 600x57 / width: 307px
+WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / width: 307px
 DISTANCE: 
 LATEST_INFO:   Warnings / Storm Info / Other Info
 The latest from Force Thirteen US:
