@@ -31,8 +31,7 @@ WATCHES AND WARNINGS
 CHANGES WITH THIS ADVISORY: None.
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
-* Mouth of the Mississippi River to Ocean Springs Mississippi
-* Lake Borgne
+* Mouth of the Mississippi River to Ocean Springs Mississippi & Lake Borgne
 A Storm Surge Watch is in effect for...
 * East of Morgan City Louisiana to the mouth of the Mississippi River
 A Tropical Storm Warning is in effect for...
@@ -46,8 +45,7 @@ Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a
 life-threatening situation.  Persons located within these areas
 should take all necessary actions to protect life and property from
 rising water and the potential for other dangerous conditions.
-Promptly follow evacuation and other instructions from local
-officials.
+Promptly follow evacuation and other instructions from local officials.
 A Storm Surge Watch means there is a possibility of life-
 threatening inundation, from rising water moving inland from the
 coastline, in the indicated locations during the next 48 hours.
