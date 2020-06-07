@@ -16,36 +16,48 @@ RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 600x57 / width:
 WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / width: 35px
 DISTANCE: 
 LATEST_INFO:   Warnings / Storm Info / Other Info
-The latest from Force Thirteen US:
- ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
-   MS INTO MUCH OF AL AND WESTERN GA...
-   ...SUMMARY...
-   An outbreak of severe thunderstorms is likely through tonight, with
-   the greatest threat expected across parts of Mississippi, Alabama
-   and Georgia. Strong tornadoes, widespread damaging winds, and large
-   hail are all possible.
-   ...01Z Update...
-   The main changes to the outlook this update were to remove much of
-   OK/TX from severe probs. The exception being across far northeast TX
-   where severe storms are currently ongoing. Probs have also been
-   removed from all of IA and all but far southern MO/IL. The Moderate
-   risk has been trimmed on the western edge behind the main line of
-   storms across eastern MS. Further east, Slight and Enhanced
-   probabilities have been expanded eastward from southern VA into
-   central NC toward the SC/GA coasts and along the FL Panhandle. This
-   is based on timing of the developing intense line/cluster of storms
-   from eastern MS into northern GA, which will continue quickly
-   spreading east/northeast overnight. 
------------
-   Intense cells are expected to continue shifting east/northeast
-   tonight across AL/GA and into the Carolinas. Regional VWP data
-   continues to show large, curved hodograph supportive of embedded
-   supercell structures within the developing line/storm clusters. Even
-   if eventual storm mode transitions to a more cohesive QLCS,
-   mesovortex tornadoes are possible. Furthermore, 50+ kt
-   south/southwesterly winds as low as 500-750 feet, indicating the
-   intense low level jet, will support widespread damaging wind gusts
-   into early Monday morning.
+The latest from Force Thirteen US: Automated Stream
+ ...CRISTOBAL SLOWS DOWN AS IT APPROACHES THE COAST OF LOUISIANA...
+...HEAVY RAINFALL AND STORM SURGE EXPECTED FROM SOUTHEASTERN
+LOUISIANA EASTWARD TO THE FLORIDA PANHANDLE...
 
+SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...28.8N 89.9W
+ABOUT 30 MI...45 KM SSE OF GRAND ISLE LOUISIANA
+ABOUT 90 MI...145 KM S OF NEW ORLEANS LOUISIANA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 5 MPH...8 KM/H
+MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
 
-
+WATCHES AND WARNINGS
+--------------------
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+A Storm Surge Warning is in effect for...
+* Mouth of the Mississippi River to Ocean Springs Mississippi
+* Lake Borgne
+A Storm Surge Watch is in effect for...
+* East of Morgan City Louisiana to the mouth of the Mississippi
+River
+A Tropical Storm Warning is in effect for...
+* Intracoastal City Louisiana to the Okaloosa/Walton County
+Florida line
+* Lake Pontchartrain and Lake Maurepas
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a depiction
+of areas at risk, please see the National Weather Service Storm
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a
+life-threatening situation.  Persons located within these areas
+should take all necessary actions to protect life and property from
+rising water and the potential for other dangerous conditions.
+Promptly follow evacuation and other instructions from local
+officials.
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within the next 24 hours.
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
