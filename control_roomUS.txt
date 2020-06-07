@@ -20,28 +20,22 @@ The latest from Force Thirteen US: Automated Stream
  ...CRISTOBAL SLOWS DOWN AS IT APPROACHES THE COAST OF LOUISIANA...
 ...HEAVY RAINFALL AND STORM SURGE EXPECTED FROM SOUTHEASTERN
 LOUISIANA EASTWARD TO THE FLORIDA PANHANDLE...
-
 SUMMARY OF 100 PM CDT...1800 UTC...INFORMATION
-----------------------------------------------
 LOCATION...28.8N 89.9W
 ABOUT 30 MI...45 KM SSE OF GRAND ISLE LOUISIANA
 ABOUT 90 MI...145 KM S OF NEW ORLEANS LOUISIANA
 MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
 PRESENT MOVEMENT...N OR 360 DEGREES AT 5 MPH...8 KM/H
 MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
-
 WATCHES AND WARNINGS
---------------------
 SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
 A Storm Surge Warning is in effect for...
 * Mouth of the Mississippi River to Ocean Springs Mississippi
 * Lake Borgne
 A Storm Surge Watch is in effect for...
-* East of Morgan City Louisiana to the mouth of the Mississippi
-River
+* East of Morgan City Louisiana to the mouth of the Mississippi River
 A Tropical Storm Warning is in effect for...
-* Intracoastal City Louisiana to the Okaloosa/Walton County
-Florida line
+* Intracoastal City Louisiana to the Okaloosa/Walton County Florida line
 * Lake Pontchartrain and Lake Maurepas
 A Storm Surge Warning means there is a danger of life-threatening
 inundation, from rising water moving inland from the coastline,
