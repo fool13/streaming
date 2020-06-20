@@ -17,27 +17,4 @@ WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / width: 
 DISTANCE: 
 LATEST_INFO:   Warnings / Storm Info / Other Info
 The latest from Force Thirteen US: Automated Stream
- ...TROPICAL-STORM-FORCE WINDS CONTINUE ALONG THE GULF COAST FROM
-SOUTHEASTERN LOUISIANA EASTWARD TO MISSISSIPPI AND ALABAMA...
-...HEAVY RAINFALL AND STORM SURGE TO CONTINUE FROM SOUTHEASTERN
-LOUISIANA EASTWARD TO THE FLORIDA PANHANDLE...
-SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
-LOCATION...29.6N 89.8W
-ABOUT 35 MI...55 KM SSE OF NEW ORLEANS LOUISIANA
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...N OR 355 DEGREES AT 7 MPH...11 KM/H
-MINIMUM CENTRAL PRESSURE...993 MB...29.32 INCHES
-WATCHES AND WARNINGS
-CHANGES WITH THIS ADVISORY:
-The Storm Surge Watch along the coast of Louisiana from east of
-Morgan City to the mouth of the Mississippi River has been
-discontinued.
-The Tropical Storm Warning west of Morgan City Louisiana has been
-discontinued.
-SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
-A Storm Surge Warning is in effect for...
-* Mouth of the Mississippi River to Ocean Springs Mississippi
-* Lake Borgne
-A Tropical Storm Warning is in effect for...
-* Morgan City Louisiana to the Okaloosa/Walton County Florida line
-* Lake Pontchartrain and Lake Maurepas
+1234567890123456789012345678901234567801234567890
