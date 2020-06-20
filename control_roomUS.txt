@@ -16,7 +16,7 @@ RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 600x57 / width:
 WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / width: 35px
 DISTANCE: 
 LATEST_INFO:   Warnings / Storm Info / Other Info
-The latest from Force Thirteen US: Automated Stream
+The latest from Force Thirteen US- Automated Stream
 1234567890123456789012345678901234567801234567890123456789012345678901234567890
 A
 B
