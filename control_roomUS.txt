@@ -16,34 +16,8 @@ RADAR: https://radar.weather.gov/Conus/Loop/southeast_loop.gif / 600x57 / width:
 WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / width: 35px
 DISTANCE: 
 LATEST_INFO:   Warnings / Storm Info / Other Info
-The latest from Force Thirteen US
+The latest from Force Thirteen US:
 -Scrolling Information Here
- ...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ACROSS EASTERN
-   MS INTO MUCH OF AL AND WESTERN GA...
-   ...SUMMARY...
-   An outbreak of severe thunderstorms is likely through tonight, with
-   the greatest threat expected across parts of Mississippi, Alabama
-   and Georgia. Strong tornadoes, widespread damaging winds, and large
-   hail are all possible.
-   ...01Z Update...
-   The main changes to the outlook this update were to remove much of
-   OK/TX from severe probs. The exception being across far northeast TX
-   where severe storms are currently ongoing. Probs have also been
-   removed from all of IA and all but far southern MO/IL. The Moderate
-   risk has been trimmed on the western edge behind the main line of
-   storms across eastern MS. Further east, Slight and Enhanced
-   probabilities have been expanded eastward from southern VA into
-   central NC toward the SC/GA coasts and along the FL Panhandle. This
-   is based on timing of the developing intense line/cluster of storms
-   from eastern MS into northern GA, which will continue quickly
-   spreading east/northeast overnight. 
------------
-   Intense cells are expected to continue shifting east/northeast
-   tonight across AL/GA and into the Carolinas. Regional VWP data
-   continues to show large, curved hodograph supportive of embedded
-   supercell structures within the developing line/storm clusters. Even
-   if eventual storm mode transitions to a more cohesive QLCS,
-   mesovortex tornadoes are possible. Furthermore, 50+ kt
-   south/southwesterly winds as low as 500-750 feet, indicating the
-   intense low level jet, will support widespread damaging wind gusts
-   into early Monday morning.
+A
+B
+C
