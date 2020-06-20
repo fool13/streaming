@@ -17,7 +17,7 @@ WATCHES_WARNINGS:  https://www.spc.noaa.gov/products/watch/validww.png / width: 
 DISTANCE: 
 LATEST_INFO:   Warnings / Storm Info / Other Info
 The latest from Force Thirteen US:
-The latest from Force Thirteen US:
+THE LATEST FROM FORCE THIRTEEN US:
 A
 B
 C
