@@ -18,20 +18,6 @@ DISTANCE:
 LATEST_INFO:   Warnings / Storm Info / Other Info
 The latest from Force Thirteen US:
 THE LATEST FROM FORCE THIRTEEN US:
-...Dangerous winter storm bringing heavy snow and powerful winds
-into early Friday...
-------------------------------------
-A strong, dangerous winter storm will continue to impact
-interior Northern California through early Friday morning.
-Strong winds and heavy snowfall will create whiteout conditions
-with extremely limited visibility over the Northern Sierra,
-especially tonight through tomorrow. Additional significant snow
-amounts are forecast in the northern Sierra and southern Cascades
-through early Friday. Strong winds and heavy snow may also cause
-downed trees, tree limbs, and power outages. Travel will be
-extremely difficult to impossible at times. Travel is not advised.
-If you risk travel, especially over the Sierra, be prepared for
-lengthly road closures, chain controls, and near zero
-visibilities. Bring enough food, water, and warm clothes to last
-lengthy closures.
+
+1234567890asdfghjklqwertyuiopzxcvbnm
 
