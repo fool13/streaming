@@ -12,8 +12,8 @@ USTREAM: OFF
 CONTENT: OFF
 BRANCH: FORCE THIRTEEN / STUDIO
 SATELLITE: https://www.ssd.noaa.gov/PS/TROP/floaters/05P/imagery/vis-animated.gif / center center / 210%
-RADAR: http://www.bom.gov.au/radar/IDR361.gif?20181213034709 / 50% 100% / 10%
-WATCHES_WARNINGS: http://www.bom.gov.au/fwo/IDA00041.png?1622930451 / 80% 63% / 100%
+RADAR: http://www.bom.gov.au/radar/IDR361.gif?20181213034709 / 50% 100% / 50%
+WATCHES_WARNINGS: http://www.bom.gov.au/fwo/IDA00041.png?1622930451 / 80% 63% / 50%
 DISTANCE: http://www.nhc.noaa.gov/storm_graphics/AT09/refresh/AL092017_earliest_reasonable_toa_no_wsp_34+png/181804_earliest_reasonable_toa_no_wsp_34.png / 85% 105% / 140%
 LATEST_INFO: <span style="font-size:20px;font-weight:bold;">Cyclone OWEN<br></span> / 15.3&deg;S 135.9&deg;E / <br><span style="font-size:14px;font-weight:bold;">85km SE of PORT ROPER</span> / <span style="font-size:14px;font-weight:bold;">95km NW of PORT McARTHUR</span></span>
 
