@@ -1,11 +1,11 @@
-BREAKING_MODE: OFF
+BREAKING_MODE: ON
 LIVE_BANNER: ON
 LIVE_MODE: LIVE
 LIVE_LOCATION: NEW ORLEANS, LA
 TIMEZONE: America/ CST
 HEADLINE_SECTION: ON
-HEADING_BANNER: SEVERE WEATHER IMPACTING ACROSS US
-DESCRIPTION_BANNER:  Tornado Warning- Hale (TX); Severe Thunderstorm Warnings- KS, NE, NJ, OK, TX
+HEADING_BANNER: RISHI BUSY THROATING CATHOLIC FRIARS
+DESCRIPTION_BANNER:  Alferia Breaks News No One Needed 
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: display('UStream','9408562')
@@ -18,6 +18,5 @@ DISTANCE:
 LATEST_INFO:   Warnings / Storm Info / Other Info
 The latest from Force Thirteen US:
 THE LATEST FROM FORCE THIRTEEN US:
-
-1234567890asdfghjklqwertyuiopzxcvbnm1234567890asdfghjklqwertyuiopzxcvbnm
+Forgive me Father, for I am about to sin
 
