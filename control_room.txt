@@ -5,7 +5,7 @@ LIVE_LOCATION: F13 HQ
 TIMEZONE: UTC UTC
 HEADLINE_SECTION: ON
 HEADING_BANNER: DAVID'S PROJECT NOW
-DESCRIPTION_BANNER: Cyclone Warning in place from Northern Territory to Queensland
+DESCRIPTION_BANNER: Cyclone Warning in place from Brisbane Queensland
 TICKER_BANNER: ON
 SIDEBAR: ON
 USTREAM: OFF
